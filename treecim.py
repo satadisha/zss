@@ -26,46 +26,14 @@ def update_cost(A,B):
         incost+=1
     if(A.depRel!=B.depRel):
         incost+=1
-    if(A.lemma==B.lemma):
+    if(A.form==B.form):
         cost=incost
     else:
         cost=remove_cost(A)+insert_cost(B)
     return cost
 
-class Extractor():
-    
-    def __init__(self, id2, form, lemma, upostag, xpostag, feats,head,deprel,deps,misc):
-        self.id = id2
-        self.form = form
-        self.lemma = lemma
-        self.upostag = upostag
-        self.xpostag = xpostag
-        self.feats = feats
-        self.head=head
-        self.deprel=deprel
-        self.deps=deps
-        self.misc=misc
-    
-    def get_children():
-        return node.my_children
-    
-    def get_nodeID():
-        return node.nodeID
-    
-    def get_depRel():
-        return node.depRel
-    
-    def get_parentID():
-        return node.parentID
-    
-    def get_posTag():
-        return node.posTag
-    
-    def get_lemma():
-        return node.my_lemma
-extract_holder=[]
 
-c=0
+extract_holder=[]
 
 def lookup(postag):
     if(postag=="NN" or postag=="NNS"):
@@ -106,31 +74,13 @@ def lookup(postag):
         rplc=postag
     return rplc
     
-##with open("test.predict",encoding="utf-8") as f:
-##    for line in f:
-##        c=c+1
-##        a=line.replace("\n","")
-##        b=a.split("\t")
-##        #print (a.split("\t"))
-##        form=bytes(str(b[1]).encode("utf-8"))
-##        form=form.decode("utf-8")
-##        print(form)
-##        extract_holder.append(Tree(b[0], 
-##form,
-##b[2],
-##b[3],
-##b[4],
-##b[5],
-##b[6],
-##b[7],
-##b[8],
-##b[9]))
 
-line_holders=[]
+
 sentence_holder=[]
 files_to_open=["output3.txt","test.predict"]
 c=0
 for file in files_to_open:
+    line_holders=[]
     with open(file,encoding="utf-8") as f:
         hold=f.read()
         trees=hold.split("\n\n")
@@ -153,7 +103,6 @@ for file in files_to_open:
             #print(sentence_holder)
             extract_holder.append(deepcopy(sentence_holder))                           
             sentence_holder.clear()
-            line_holders.clear()
 
     if(c==0):
         list1_to_compare=deepcopy(extract_holder)
@@ -167,14 +116,10 @@ for file in files_to_open:
         extract_holder.clear()
       ##  print(len(list2_to_compare))
       #  print(len(extract_holder))
-    c=c+1
     #print(c)
-    extract_holder.clear()
 
 
-i_j_holder=["99"]
-c=0
-while c<2:
+    i_j_holder=["99"]
     if c==0:
         x=list1_to_compare
     if c==1:
@@ -183,9 +128,7 @@ while c<2:
         #print(trees)
         for id1,word in enumerate(trees):
             for id2, word2 in enumerate(trees):
-                #print(word2)
-                            
-                #print(word2.id)
+                
                 if(str(id1)+str(id2) not in i_j_holder):
                     if(word.wordID==word2.parentID):
                         word.add_child(word2)
@@ -198,34 +141,45 @@ while c<2:
         i_j_holder.clear()
 
 
-    for trees in x:
-        for word in trees:
-            if(word.parentID=="0"):
-                #print("mert")
-                root=word
+
 
     c+=1
+## end of iterations.
+    
 root1=None
 root2=None
+dummy_form="Dummy"
+dummy_parent="999"
+dummy_id=0
+file_to_write=open('tree_outputs.txt', 'w',encoding="utf-8")
+
+
+
 for i in range(len(list1_to_compare)):
+    dummy1=Tree(dummy_id,dummy_form,b[2],b[3],b[4],b[5],dummy_parent,b[7])
+    dummy2=Tree(dummy_id,dummy_form,b[2],b[3],b[4],b[5],dummy_parent,b[7])
+    
     for j in range(len(list1_to_compare[i])):
         if(list1_to_compare[i][j].parentID=="0"):
             root1=list1_to_compare[i][j]
+            dummy1.add_child(root1)
+           # (RenderTree(dummy1))
     for j in range(len(list2_to_compare[i])):
         if(list2_to_compare[i][j].parentID=="0"):
             root2=list2_to_compare[i][j]
+            dummy2.add_child(root2)
+
+    file_to_write.write("Tree for normal parser.\n")
+    file_to_write.write(str(RenderTree(dummy1))+"\n")
+    file_to_write.write("Tree for tweet parser.\n")
+    file_to_write.write(str(RenderTree(dummy2))+"\n")
+
     if(root1 and root2):
-        dist = zss.distance(root1, root2, Tree.get_children, insert_cost, remove_cost, update_cost)
-        print("Distance is"+str(dist))
+        dist = zss.distance(dummy1, dummy2, Tree.get_children, insert_cost, remove_cost, update_cost)
+        file_to_write.write("Distance is "+str(dist)+"\n")
+        file_to_write.write("*****************************************************"+"\n")
         
     root1=None
     root2=None
-##
-##for trees in extract_holder:
-##    for word in trees:
-##        if(len(word.upostag)>1):
-##            #print(word.upostag)
 
-    #print(RenderTree(root))
-    #print("\n*************")
-#root.show_child()
+file_to_write.close()
