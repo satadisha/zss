@@ -24,7 +24,7 @@ def update_cost(A,B):
     incost=0
     if(A.upostag!=B.upostag):
         incost+=1
-    if(A.depRel!=B.depRel):
+    if(A.parentID!=B.parentID):
         incost+=1
     if(A.form==B.form):
         cost=incost
