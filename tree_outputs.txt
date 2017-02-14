@@ -38,7 +38,7 @@ Tree for tweet parser.
                 └── 'leaving'
                     └── 'EU'
                         └── 'the'
-Distance is 49
+Distance is 39
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -82,7 +82,7 @@ Tree for tweet parser.
     │   └── 'image'
     │       └── 'the'
     └── 'below'
-Distance is 79
+Distance is 77
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -122,7 +122,7 @@ Tree for tweet parser.
                             └── 'biases'
                                 ├── 'our'
                                 └── 'unconscious'
-Distance is 37
+Distance is 27
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -145,7 +145,7 @@ Tree for tweet parser.
         └── 'as'
             └── 'surges'
                 └── 'inflation'
-Distance is 13
+Distance is 5
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -172,7 +172,7 @@ Tree for tweet parser.
     └── 'slowing'
         └── 'gains'
             └── 'further'
-Distance is 30
+Distance is 25
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -197,7 +197,7 @@ Tree for tweet parser.
         └── 'shift'
             └── 'to'
                 └── 'austerity'
-Distance is 12
+Distance is 3
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -238,7 +238,7 @@ Tree for tweet parser.
     └── 'be'
         └── 'mindful'
             └── 'of'
-Distance is 61
+Distance is 56
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -278,7 +278,7 @@ Tree for tweet parser.
                                     └── 'culture'
                                         ├── 'the'
                                         └── 'Bloomberg'
-Distance is 39
+Distance is 29
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -322,7 +322,7 @@ Tree for tweet parser.
             └── 'put'
                 ├── 'together'
                 └── 'again'
-Distance is 49
+Distance is 38
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -347,7 +347,7 @@ Tree for tweet parser.
             └── 'intensify'
                 └── 'warnings'
                     └── 'slump'
-Distance is 19
+Distance is 12
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -371,7 +371,7 @@ Tree for tweet parser.
 │           └── 'multiple'
 └── 'including'
     └── 'people'
-Distance is 24
+Distance is 18
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -410,7 +410,7 @@ Tree for tweet parser.
         │       └── 'their'
         └── 'adapt'
             └── 'accordingly'
-Distance is 44
+Distance is 35
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -435,7 +435,7 @@ Tree for tweet parser.
     │       └── 'most'
     └── 'for'
         └── '2017'
-Distance is 13
+Distance is 4
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -478,7 +478,7 @@ Tree for tweet parser.
     │       └── 'years'
     └── 'has'
         └── 'it'
-Distance is 67
+Distance is 60
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -503,7 +503,7 @@ Tree for tweet parser.
         └── 'with'
             └── 'charge'
                 └── 'a'
-Distance is 13
+Distance is 4
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -530,7 +530,7 @@ Tree for tweet parser.
     │       └── '2017'
     └── 'been'
         └── 'announced'
-Distance is 25
+Distance is 20
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -554,7 +554,7 @@ Tree for tweet parser.
 │           └── 'the'
 └── 'hands'
     └── 'not'
-Distance is 34
+Distance is 32
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -583,7 +583,7 @@ Tree for tweet parser.
                     └── 'to'
                         └── 'take'
                             └── 'seriously'
-Distance is 19
+Distance is 10
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -608,7 +608,7 @@ Tree for tweet parser.
         └── 'money'
             └── 'easy'
                 └── 'as'
-Distance is 27
+Distance is 23
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -642,7 +642,7 @@ Tree for tweet parser.
         └── 'reflects'
             └── 'perspectives'
                 └── 'diverse'
-Distance is 44
+Distance is 38
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -675,7 +675,7 @@ Tree for tweet parser.
                         ├── 'core'
                         └── 'at'
                             └── 'Bloomberg'
-Distance is 31
+Distance is 23
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -696,7 +696,7 @@ Tree for tweet parser.
     └── 'resisting'
         └── 'bears'
             └── 'the'
-Distance is 15
+Distance is 10
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -729,7 +729,7 @@ Tree for tweet parser.
         ├── 'far'
         └── 'differences'
             └── 'pay'
-Distance is 46
+Distance is 40
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -774,7 +774,7 @@ Tree for tweet parser.
     ├── 'only'
     │   └── 'once'
     └── 'before'
-Distance is 34
+Distance is 18
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -797,7 +797,7 @@ Tree for tweet parser.
         ├── 'up'
         └── 'behind'
             └── 'Blockchain'
-Distance is 16
+Distance is 9
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -839,7 +839,7 @@ Tree for tweet parser.
             └── 'and'
                 ├── 'diversity'
                 └── 'inclusion'
-Distance is 63
+Distance is 56
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -872,7 +872,7 @@ Tree for tweet parser.
                 └── 'out'
                     └── 'of'
                         └── 'steam'
-Distance is 31
+Distance is 22
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -901,7 +901,7 @@ Tree for tweet parser.
                     ├── 'cheapest'
                     └── 'on'
                         └── 'Earth'
-Distance is 20
+Distance is 11
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -942,7 +942,7 @@ Tree for tweet parser.
     ├── 'we'
     └── 'year'
         └── 'this'
-Distance is 46
+Distance is 38
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -965,7 +965,7 @@ Tree for tweet parser.
     │           └── 'Asian'
     └── 'for'
         └── '2017'
-Distance is 11
+Distance is 3
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -992,7 +992,7 @@ Tree for tweet parser.
                 └── 'support'
                     └── 'for'
                         └── 'change'
-Distance is 34
+Distance is 31
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1028,7 +1028,7 @@ Tree for tweet parser.
     │           └── 'Middle'
     └── 'Asia'
         └── 'Southeast'
-Distance is 41
+Distance is 33
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1065,7 +1065,7 @@ Tree for tweet parser.
 └── 'have'
     └── 'lengthened'
         └── 'also'
-Distance is 54
+Distance is 50
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1082,7 +1082,7 @@ Tree for tweet parser.
     └── 'from'
         └── 'LP'
             └── 'Bloomberg'
-Distance is 8
+Distance is 3
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1131,7 +1131,7 @@ Tree for tweet parser.
                 │   └── 'one'
                 └── 'approach'
                     └── 'all'
-Distance is 84
+Distance is 79
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1154,7 +1154,7 @@ Tree for tweet parser.
         └── 'surges'
             ├── 'remittance'
             └── 'use'
-Distance is 18
+Distance is 11
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1184,7 +1184,7 @@ Tree for tweet parser.
 └── 'are'
     ├── 'funny'
     └── 'in'
-Distance is 33
+Distance is 29
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1227,7 +1227,7 @@ Tree for tweet parser.
                     └── 'market'
                         ├── 'an'
                         └── 'emerging'
-Distance is 42
+Distance is 31
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1268,7 +1268,7 @@ Tree for tweet parser.
                             ├── 'CEOs'
                             │   └── 'our'
                             └── 'employees'
-Distance is 55
+Distance is 50
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1297,7 +1297,7 @@ Tree for tweet parser.
     ├── 'funds'
     │   └── 'hedge'
     └── 'out'
-Distance is 39
+Distance is 37
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1331,7 +1331,7 @@ Tree for tweet parser.
     └── 'work'
         └── 'with'
             └── 'him'
-Distance is 50
+Distance is 47
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1375,7 +1375,7 @@ Tree for tweet parser.
         │   └── '5'
         └── 'with'
             └── 'flowers'
-Distance is 54
+Distance is 51
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1401,7 +1401,7 @@ Tree for tweet parser.
     └── 'over'
         └── 'jab'
             └── 'ratings'
-Distance is 10
+Distance is 0
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1446,7 +1446,7 @@ Tree for tweet parser.
     │   └── 'lawns'
     └── 'at'
         └── 'night'
-Distance is 42
+Distance is 29
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1472,7 +1472,7 @@ Tree for tweet parser.
                 │   └── 'about'
                 ├── 'Dakota'
                 └── 'Pipeline'
-Distance is 19
+Distance is 11
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1506,7 +1506,7 @@ Tree for tweet parser.
         └── 'run'
             └── 'EPA'
                 └── 'the'
-Distance is 40
+Distance is 36
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1552,7 +1552,7 @@ Tree for tweet parser.
     └── "they're"
         └── 'getting'
             └── 'married'
-Distance is 54
+Distance is 40
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1595,7 +1595,7 @@ Tree for tweet parser.
     ├── 'Gorsuch'
     │   └── 'Neil'
     └── 'through'
-Distance is 76
+Distance is 73
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1641,7 +1641,7 @@ Tree for tweet parser.
         ├── 'Gaga'
         │   └── 'Lady'
         └── 'in'
-Distance is 65
+Distance is 57
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1671,7 +1671,7 @@ Tree for tweet parser.
         ├── 'a'
         └── 'from'
             └── 'Ivanka'
-Distance is 27
+Distance is 21
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1710,7 +1710,7 @@ Tree for tweet parser.
             └── 'by'
                 └── 'endorsing'
                     └── 'candidates'
-Distance is 44
+Distance is 34
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1751,7 +1751,7 @@ Tree for tweet parser.
                 └── 'by'
                     └── 'churches'
                         └── 'tax-exempt'
-Distance is 41
+Distance is 31
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1790,7 +1790,7 @@ Tree for tweet parser.
 └── 'editor'
     ├── 'a'
     └── 'right-wing'
-Distance is 34
+Distance is 22
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1840,7 +1840,7 @@ Tree for tweet parser.
     └── 'to'
         └── 'find'
             └── 'out'
-Distance is 63
+Distance is 56
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1871,7 +1871,7 @@ Tree for tweet parser.
                         └── 'start'
                             └── 'day'
                                 └── 'your'
-Distance is 42
+Distance is 37
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1922,7 +1922,7 @@ Tree for tweet parser.
         └── 'dead'
             └── 'employee'
                 └── '1'
-Distance is 17
+Distance is 7
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -1959,7 +1959,7 @@ Tree for tweet parser.
                     └── 'heading'
                         └── 'toward'
                             └── 'Washington'
-Distance is 29
+Distance is 18
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2007,7 +2007,7 @@ Tree for tweet parser.
     ├── 'new'
     ├── 'audio'
     └── 'news'
-Distance is 72
+Distance is 63
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2031,7 +2031,7 @@ Tree for tweet parser.
     ├── 'changed'
     │   └── 'television'
     └── "didn't"
-Distance is 39
+Distance is 38
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2081,7 +2081,7 @@ Tree for tweet parser.
                 └── 'House'
                     ├── 'the'
                     └── 'White'
-Distance is 59
+Distance is 53
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2127,7 +2127,7 @@ Tree for tweet parser.
                         └── 'by'
                             └── 'Yiannopoulos'
                                 └── 'Milo'
-Distance is 41
+Distance is 26
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2176,7 +2176,7 @@ Tree for tweet parser.
             ├── 'his'
             ├── 'last'
             └── 'there'
-Distance is 34
+Distance is 16
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2196,7 +2196,7 @@ Tree for tweet parser.
         ├── 'Iran'
         └── 'on'
             └── 'Twitter'
-Distance is 7
+Distance is 0
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2240,7 +2240,7 @@ Tree for tweet parser.
             ├── 'you'
             └── 'safety'
                 └── 'our'
-Distance is 52
+Distance is 48
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2288,7 +2288,7 @@ Tree for tweet parser.
         └── 'pay'
             └── 'million'
                 └── '$5.7'
-Distance is 69
+Distance is 61
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2316,7 +2316,7 @@ Tree for tweet parser.
 └── 'and'
     └── 'does'
         └── 'Trump'
-Distance is 36
+Distance is 32
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2357,7 +2357,7 @@ Tree for tweet parser.
             ├── 'up'
             └── 'on'
                 └── 'him'
-Distance is 51
+Distance is 47
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2396,7 +2396,7 @@ Tree for tweet parser.
     └── 'for'
         └── 'secretary'
             └── 'education'
-Distance is 55
+Distance is 47
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2441,7 +2441,7 @@ Tree for tweet parser.
                                 └── 'decisions'
                                     ├── 'many'
                                     └── 'life-or-death'
-Distance is 44
+Distance is 29
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2475,7 +2475,7 @@ Tree for tweet parser.
             └── 'protests'
                 └── 'at'
                     └── 'Berkeley'
-Distance is 34
+Distance is 27
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2534,7 +2534,7 @@ Tree for tweet parser.
     └── "didn't"
         └── 'specify'
             └── 'actions'
-Distance is 42
+Distance is 32
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2570,7 +2570,7 @@ Tree for tweet parser.
                 └── 'obligations'
                     ├── 'human'
                     └── 'rights'
-Distance is 41
+Distance is 32
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2618,7 +2618,7 @@ Tree for tweet parser.
             └── 'order'
                 └── 'executive'
                     └── "Trump's"
-Distance is 66
+Distance is 58
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2661,7 +2661,7 @@ Tree for tweet parser.
         └── 'diet'
             ├── 'your'
             └── 'media'
-Distance is 56
+Distance is 50
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2688,7 +2688,7 @@ Tree for tweet parser.
     └── 'pregnant'
         └── 'with'
             └── 'twins'
-Distance is 26
+Distance is 19
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2729,7 +2729,7 @@ Tree for tweet parser.
             ├── 'up'
             └── 'on'
                 └── 'him'
-Distance is 55
+Distance is 51
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2846,7 +2846,7 @@ Tree for tweet parser.
                     └── 'allies'
                         ├── '2'
                         └── 'stalwart'
-Distance is 36
+Distance is 33
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2894,7 +2894,7 @@ Tree for tweet parser.
 └── 'was'
     ├── 'She'
     └── '89'
-Distance is 67
+Distance is 58
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2931,7 +2931,7 @@ Tree for tweet parser.
 │               └── 'Black'
 └── 'event'
     └── 'Month'
-Distance is 48
+Distance is 43
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2960,7 +2960,7 @@ Tree for tweet parser.
         └── 'Reassure'
             └── 'Ally'
                 └── 'an'
-Distance is 31
+Distance is 25
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -2986,7 +2986,7 @@ Tree for tweet parser.
                 └── 'travelers'
                     ├── 'LGBT'
                     └── 'business'
-Distance is 20
+Distance is 13
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3041,7 +3041,7 @@ Tree for tweet parser.
     ├── 'risk'
     └── 'denied'
         └── 're-entry'
-Distance is 78
+Distance is 69
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3062,7 +3062,7 @@ Tree for tweet parser.
     └── 'for'
         └── 'nights'
             └── 'cold'
-Distance is 16
+Distance is 10
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3088,7 +3088,7 @@ Tree for tweet parser.
     ├── 'show'
     │   └── 'Today'
     └── 'NBC'
-Distance is 40
+Distance is 38
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3108,7 +3108,7 @@ Tree for tweet parser.
     │           └── 'Pipeline'
     │               └── 'Dakota'
     └── 'Arrested'
-Distance is 12
+Distance is 6
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3137,7 +3137,7 @@ Tree for tweet parser.
                 └── 'With'
                     └── 'Minister'
                         └── 'Prime'
-Distance is 32
+Distance is 31
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3167,7 +3167,7 @@ Tree for tweet parser.
             ├── 'you'
             └── 'to'
                 └── 'know'
-Distance is 39
+Distance is 33
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3204,7 +3204,7 @@ Tree for tweet parser.
     └── 'game'
         ├── 'an'
         └── 'end'
-Distance is 49
+Distance is 46
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3245,7 +3245,7 @@ Tree for tweet parser.
     └── 'inspired'
         ├── 'that'
         └── 'it'
-Distance is 47
+Distance is 41
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3266,7 +3266,7 @@ Tree for tweet parser.
         └── 'Go'
             └── 'in'
                 └── 'Zurich'
-Distance is 26
+Distance is 23
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3292,7 +3292,7 @@ Tree for tweet parser.
         │   └── 'a'
         └── 'of'
             └── 'Germany'
-Distance is 20
+Distance is 14
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3317,7 +3317,7 @@ Tree for tweet parser.
 │       └── 'protests'
 │           └── 'Democratic'
 └── 'boycotts'
-Distance is 17
+Distance is 10
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3354,7 +3354,7 @@ Tree for tweet parser.
     └── 'lesson'
         ├── 'a'
         └── 'history'
-Distance is 44
+Distance is 39
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3390,7 +3390,7 @@ Tree for tweet parser.
     └── 'headed'
         └── 'to'
             └── 'D.C.'
-Distance is 51
+Distance is 48
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3428,7 +3428,7 @@ Tree for tweet parser.
                             ├── 'immigration'
                             ├── 'welfare'
                             └── 'deportation'
-Distance is 51
+Distance is 48
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3459,7 +3459,7 @@ Tree for tweet parser.
         └── 'focus'
             └── 'on'
                 └── 'comedy'
-Distance is 30
+Distance is 29
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3487,7 +3487,7 @@ Tree for tweet parser.
                     │   └── 'future'
                     └── 'under'
                         └── 'Trump'
-Distance is 26
+Distance is 21
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3516,7 +3516,7 @@ Tree for tweet parser.
         └── 'to'
             └── 'works'
                 └── 'universities'
-Distance is 36
+Distance is 31
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3547,7 +3547,7 @@ Tree for tweet parser.
     ├── 'He'
     ├── 'something'
     └── 'better'
-Distance is 32
+Distance is 27
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3594,7 +3594,7 @@ Tree for tweet parser.
         └── 'in'
             └── 'affair'
                 └── 'an'
-Distance is 54
+Distance is 50
 *****************************************************
 Tree for normal parser.
 'Dummy'
@@ -3625,5 +3625,5 @@ Tree for tweet parser.
 │                           └── 'most'
 └── 'says'
     └── 'study'
-Distance is 26
+Distance is 17
 *****************************************************
