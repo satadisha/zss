@@ -152,6 +152,8 @@ dummy_form="Dummy"
 dummy_parent="999"
 dummy_id=0
 file_to_write=open('tree_outputs.txt', 'w',encoding="utf-8")
+input_tweets=open('tweet_origin_names','r',encoding="utf-8")
+tweets=tweets.split("\n")
 
 
 
@@ -169,6 +171,8 @@ for i in range(len(list1_to_compare)):
             root2=list2_to_compare[i][j]
             dummy2.add_child(root2)
 
+    files_to_write.write("Tweet Text \n")
+    files_to_write.write(tweets[i])
     file_to_write.write("Tree for normal parser.\n")
     file_to_write.write(str(RenderTree(dummy1))+"\n")
     file_to_write.write("Tree for tweet parser.\n")
