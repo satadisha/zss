@@ -1,0 +1,1672 @@
+1	New	_	NNP	NNP	_	5	NMOD
+2	UK	_	NNP	NNP	_	5	NMOD
+3	free	_	JJ	JJ	_	5	NMOD
+4	trade	_	NN	NN	_	5	NMOD
+5	agreements	_	NNS	NNS	_	10	SUB
+6	with	_	IN	IN	_	5	NMOD
+7	nonEuropean	_	NNP	NNP	_	9	NMOD
+8	Union	_	NNP	NNP	_	9	NMOD
+9	nations	_	NNS	NNS	_	6	PMOD
+10	won'	_	VBP	VBP	_	0	ROOT
+11	t	_	RB	RB	_	12	VMOD
+12	offset	_	VBP	VBP	_	10	VMOD
+13	the	_	DT	DT	_	14	NMOD
+14	impact	_	NN	NN	_	12	OBJ
+15	of	_	IN	IN	_	14	NMOD
+16	leaving	_	VBG	VBG	_	15	PMOD
+17	the	_	DT	DT	_	18	NMOD
+18	EU	_	NNP	NNP	_	16	OBJ
+
+*****************************************************
+1	Bloomberg	_	NNP	NNP	_	2	NMOD
+2	LP	_	NNP	NNP	_	3	SUB
+3	is	_	VBZ	VBZ	_	0	ROOT
+4	proud	_	JJ	JJ	_	3	PRD
+5	to	_	TO	TO	_	6	VMOD
+6	celebrate	_	VB	VB	_	4	AMOD
+7	Black	_	NNP	NNP	_	9	NMOD
+8	History	_	NN	NN	_	9	NMOD
+9	Month	_	NNP	NNP	_	6	OBJ
+
+1	Read	_	VB	VB	_	0	ROOT
+2	about	_	IN	IN	_	1	VMOD
+3	the	_	DT	DT	_	4	NMOD
+4	story	_	NN	NN	_	2	PMOD
+5	behind	_	IN	IN	_	4	NMOD
+6	the	_	DT	DT	_	7	NMOD
+7	image	_	NN	NN	_	5	PMOD
+8	below	_	IN	IN	_	7	NMOD
+
+*****************************************************
+1	Leaders	_	NNS	NNS	_	2	SUB
+2	suggest	_	VBP	VBP	_	0	ROOT
+3	that	_	IN	IN	_	2	VMOD
+4	talent	_	NN	NN	_	5	NMOD
+5	shortage	_	NN	NN	_	6	SUB
+6	is	_	VBZ	VBZ	_	3	SBAR
+7	a	_	DT	DT	_	9	NMOD
+8	myth	_	RB	RB	_	9	AMOD
+9	due	_	JJ	JJ	_	6	PRD
+10	to	_	TO	TO	_	9	AMOD
+11	the	_	DT	DT	_	12	NMOD
+12	influence	_	NN	NN	_	10	PMOD
+13	of	_	IN	IN	_	12	NMOD
+14	our	_	PRP$	PRP$	_	16	NMOD
+15	unconscious	_	JJ	JJ	_	16	NMOD
+16	biases	_	NNS	NNS	_	13	PMOD
+
+*****************************************************
+1	Turkey	_	NNP	NNP	_	2	SUB
+2	says	_	VBZ	VBZ	_	0	ROOT
+3	more	_	RBR	RBR	_	4	AMOD
+4	tightening	_	VBG	VBG	_	2	VMOD
+5	possible	_	JJ	JJ	_	4	PRD
+6	as	_	IN	IN	_	4	VMOD
+7	inflation	_	NN	NN	_	8	SUB
+8	surges	_	VBZ	VBZ	_	6	SBAR
+
+*****************************************************
+1	Ghost	_	NN	NN	_	4	SUB
+2	of	_	IN	IN	_	1	NMOD
+3	1990s	_	CD	CD	_	2	PMOD
+4	is	_	VBZ	VBZ	_	0	ROOT
+5	haunting	_	VBG	VBG	_	4	VC
+6	dollar	_	NN	NN	_	5	OBJ
+7	and	_	CC	CC	_	5	VMOD
+8	slowing	_	VBG	VBG	_	5	VMOD
+9	further	_	JJ	JJ	_	10	NMOD
+10	gains	_	NNS	NNS	_	8	OBJ
+
+*****************************************************
+1	Latin	_	NNP	NNP	_	2	NMOD
+2	America	_	NNP	NNP	_	3	SUB
+3	abandons	_	VBZ	VBZ	_	0	ROOT
+4	fuel	_	NN	NN	_	5	NMOD
+5	subsidies	_	NNS	NNS	_	3	OBJ
+6	in	_	IN	IN	_	3	VMOD
+7	shift	_	NN	NN	_	6	PMOD
+8	to	_	TO	TO	_	7	NMOD
+9	austerity	_	NN	NN	_	8	PMOD
+
+*****************************************************
+1	What	_	WP	WP	_	2	VMOD
+2	are	_	VBP	VBP	_	0	ROOT
+3	employees	_	NNS	NNS	_	2	PRD
+4	expecting	_	VBG	VBG	_	3	NMOD
+5	in	_	IN	IN	_	4	VMOD
+6	the	_	DT	DT	_	7	NMOD
+7	workplace	_	NN	NN	_	5	PMOD
+8	in	_	IN	IN	_	4	VMOD
+9	2017	_	CD	CD	_	8	PMOD
+
+1	Five	_	CD	CD	_	3	NMOD
+2	trends	_	NNS	NNS	_	3	NMOD
+3	companies	_	NNS	NNS	_	4	SUB
+4	should	_	MD	MD	_	0	ROOT
+5	be	_	VB	VB	_	4	VC
+6	mindful	_	NN	NN	_	5	PRD
+7	of	_	IN	IN	_	6	NMOD
+
+*****************************************************
+1	Our	_	PRP$	PRP$	_	2	NMOD
+2	employees	_	NNS	NNS	_	3	SUB
+3	amplify	_	VBP	VBP	_	0	ROOT
+4	the	_	DT	DT	_	5	NMOD
+5	legacy	_	NN	NN	_	3	OBJ
+6	of	_	IN	IN	_	5	NMOD
+7	generosity	_	NN	NN	_	9	NMOD
+8	and	_	CC	CC	_	9	NMOD
+9	compassion	_	NN	NN	_	6	PMOD
+10	that	_	WDT	WDT	_	5	NMOD
+11	is	_	VBZ	VBZ	_	10	SBAR
+12	engrained	_	VBN	VBN	_	11	VC
+13	in	_	IN	IN	_	12	VMOD
+14	the	_	DT	DT	_	16	NMOD
+15	Bloomberg	_	NNP	NNP	_	16	NMOD
+16	culture	_	NN	NN	_	13	PMOD
+
+*****************************************************
+1	Russian	_	JJ	JJ	_	3	NMOD
+2	consumer	_	NN	NN	_	3	NMOD
+3	demand	_	NN	NN	_	11	SUB
+4	which	_	WDT	WDT	_	3	NMOD
+5	came	_	VBD	VBD	_	4	SBAR
+6	undone	_	VBN	VBN	_	5	VC
+7	quickly	_	RB	RB	_	6	VMOD
+8	during	_	IN	IN	_	6	VMOD
+9	a	_	DT	DT	_	10	NMOD
+10	recession	_	NN	NN	_	8	PMOD
+11	will	_	MD	MD	_	0	ROOT
+12	take	_	VB	VB	_	11	VC
+13	time	_	NN	NN	_	12	OBJ
+14	to	_	TO	TO	_	15	VMOD
+15	put	_	VB	VB	_	12	VMOD
+16	together	_	RB	RB	_	15	VMOD
+17	again	_	RB	RB	_	15	VMOD
+
+*****************************************************
+1	Iron	_	NN	NN	_	2	NMOD
+2	ore	_	NN	NN	_	3	SUB
+3	extends	_	VBZ	VBZ	_	0	ROOT
+4	newyear	_	JJ	JJ	_	5	NMOD
+5	ascent	_	NN	NN	_	3	OBJ
+6	as	_	IN	IN	_	3	VMOD
+7	slump	_	NN	NN	_	8	NMOD
+8	warnings	_	NNS	NNS	_	9	SUB
+9	intensify	_	VB	VB	_	6	SBAR
+
+*****************************************************
+1	Business	_	NN	NN	_	2	NMOD
+2	growth	_	NN	NN	_	3	SUB
+3	comes	_	VBZ	VBZ	_	0	ROOT
+4	from	_	IN	IN	_	3	VMOD
+5	multiple	_	JJ	JJ	_	6	NMOD
+6	directions	_	NNS	NNS	_	4	PMOD
+7	including	_	VBG	VBG	_	6	NMOD
+8	people	_	NNS	NNS	_	7	PMOD
+
+*****************************************************
+1	To	_	TO	TO	_	2	VMOD
+2	get	_	VB	VB	_	9	VMOD
+3	the	_	DT	DT	_	4	NMOD
+4	best	_	JJS	JJS	_	2	OBJ
+5	from	_	IN	IN	_	2	VMOD
+6	millennial	_	JJ	JJ	_	8	NMOD
+7	employees	_	NNS	NNS	_	8	NMOD
+8	managers	_	NNS	NNS	_	5	PMOD
+9	must	_	MD	MD	_	0	ROOT
+10	understand	_	VB	VB	_	9	VC
+11	their	_	PRP$	PRP$	_	12	NMOD
+12	motivations	_	NNS	NNS	_	10	OBJ
+13	and	_	CC	CC	_	10	VMOD
+14	adapt	_	VB	VB	_	10	VMOD
+15	accordingly	_	RB	RB	_	14	VMOD
+
+*****************************************************
+1	Philippine	_	JJ	JJ	_	2	NMOD
+2	peso	_	NN	NN	_	5	SUB
+3	rated	_	VBN	VBN	_	2	NMOD
+4	Asia'	_	NNP	NNP	_	3	VMOD
+5	s	_	VBZ	VBZ	_	0	ROOT
+6	most	_	RBS	RBS	_	7	AMOD
+7	resilient	_	JJ	JJ	_	8	NMOD
+8	currency	_	NN	NN	_	5	OBJ
+9	for	_	IN	IN	_	5	VMOD
+10	2017	_	CD	CD	_	9	PMOD
+
+*****************************************************
+1	It	_	PRP	PRP	_	2	SUB
+2	hasn'	_	VBD	VBD	_	0	ROOT
+3	t	_	RB	RB	_	2	VMOD
+4	been	_	VBN	VBN	_	2	VC
+5	this	_	DT	DT	_	6	NMOD
+6	safe	_	JJ	JJ	_	4	PRD
+7	to	_	TO	TO	_	8	VMOD
+8	own	_	VB	VB	_	6	AMOD
+9	emerging	_	VBG	VBG	_	11	NMOD
+10	market	_	NN	NN	_	11	NMOD
+11	bonds	_	NNS	NNS	_	8	OBJ
+12	for	_	IN	IN	_	11	NMOD
+13	a	_	DT	DT	_	14	NMOD
+14	couple	_	NN	NN	_	12	PMOD
+15	of	_	IN	IN	_	14	NMOD
+16	years	_	NNS	NNS	_	15	PMOD
+
+1	Or	_	CC	CC	_	2	VMOD
+2	has	_	VBZ	VBZ	_	0	ROOT
+3	it	_	PRP	PRP	_	2	OBJ
+
+*****************************************************
+1	Kuwaiti	_	JJ	JJ	_	2	NMOD
+2	stocks	_	NNS	NNS	_	3	SUB
+3	have	_	VBP	VBP	_	0	ROOT
+4	started	_	VBN	VBN	_	3	VC
+5	the	_	DT	DT	_	6	NMOD
+6	year	_	NN	NN	_	4	OBJ
+7	with	_	IN	IN	_	4	VMOD
+8	a	_	DT	DT	_	9	NMOD
+9	charge	_	NN	NN	_	7	PMOD
+
+*****************************************************
+1	The	_	DT	DT	_	7	NMOD
+2	2017	_	CD	CD	_	7	NMOD
+3	Bloomberg	_	NNP	NNP	_	7	NMOD
+4	Financial	_	NNP	NNP	_	7	NMOD
+5	Services	_	NNP	NNP	_	7	NMOD
+6	GenderEquality	_	NNP	NNP	_	7	NMOD
+7	Index	_	NNP	NNP	_	8	SUB
+8	has	_	VBZ	VBZ	_	0	ROOT
+9	been	_	VBN	VBN	_	8	VC
+10	announced	_	VBN	VBN	_	9	VC
+
+*****************************************************
+1	Future	_	NNP	NNP	_	8	SUB
+2	of	_	IN	IN	_	1	NMOD
+3	manufacturing	_	VBG	VBG	_	2	PMOD
+4	in	_	IN	IN	_	3	VMOD
+5	the	_	DT	DT	_	6	NMOD
+6	brain	_	NN	NN	_	4	PMOD
+7	not	_	RB	RB	_	3	VMOD
+8	hands	_	NNS	NNS	_	0	ROOT
+
+*****************************************************
+1	Neurodiversity	_	NNP	NNP	_	2	SUB
+2	is	_	VBZ	VBZ	_	0	ROOT
+3	an	_	DT	DT	_	4	NMOD
+4	area	_	NN	NN	_	2	PRD
+5	that	_	IN	IN	_	4	NMOD
+6	organizations	_	NNS	NNS	_	7	SUB
+7	are	_	VBP	VBP	_	5	SBAR
+8	beginning	_	VBG	VBG	_	7	VC
+9	to	_	TO	TO	_	10	VMOD
+10	take	_	VB	VB	_	8	VMOD
+11	seriously	_	RB	RB	_	10	VMOD
+
+*****************************************************
+1	Automated	_	JJ	JJ	_	2	NMOD
+2	traders	_	NNS	NNS	_	3	SUB
+3	take	_	VBP	VBP	_	0	ROOT
+4	over	_	RP	RP	_	3	VMOD
+5	Bitcoin	_	NNP	NNP	_	3	OBJ
+6	as	_	IN	IN	_	3	VMOD
+7	easy	_	JJ	JJ	_	9	NMOD
+8	money	_	NN	NN	_	9	NMOD
+9	beckons	_	NNS	NNS	_	6	PMOD
+
+*****************************************************
+1	How	_	WRB	WRB	_	8	VMOD
+2	can	_	MD	MD	_	1	SBAR
+3	traditional	_	JJ	JJ	_	5	NMOD
+4	news	_	NN	NN	_	5	NMOD
+5	outlets	_	NNS	NNS	_	6	SUB
+6	ensure	_	VB	VB	_	2	VMOD
+7	reporting	_	VBG	VBG	_	6	VMOD
+8	is	_	VBZ	VBZ	_	0	ROOT
+9	accurate	_	JJ	JJ	_	8	PRD
+10	and	_	CC	CC	_	8	VMOD
+11	reflects	_	VBZ	VBZ	_	8	VMOD
+12	diverse	_	JJ	JJ	_	13	NMOD
+13	perspectives	_	NNS	NNS	_	11	OBJ
+
+*****************************************************
+1	Strengthening	_	VBG	VBG	_	6	VMOD
+2	and	_	CC	CC	_	1	VMOD
+3	enriching	_	VBG	VBG	_	1	VMOD
+4	our	_	PRP$	PRP$	_	5	NMOD
+5	communities	_	NNS	NNS	_	3	OBJ
+6	is	_	VBZ	VBZ	_	0	ROOT
+7	one	_	CD	CD	_	6	PRD
+8	of	_	IN	IN	_	7	NMOD
+9	the	_	DT	DT	_	11	NMOD
+10	core	_	NN	NN	_	11	NMOD
+11	principles	_	NNS	NNS	_	8	PMOD
+12	at	_	IN	IN	_	11	NMOD
+13	Bloomberg	_	NNP	NNP	_	12	PMOD
+
+*****************************************************
+1	Why	_	WRB	WRB	_	0	ROOT
+2	global	_	JJ	JJ	_	3	NMOD
+3	markets	_	NNS	NNS	_	4	SUB
+4	are	_	VBP	VBP	_	1	SBAR
+5	resisting	_	VBG	VBG	_	4	VC
+6	the	_	DT	DT	_	7	NMOD
+7	bears	_	NNS	NNS	_	5	OBJ
+
+*****************************************************
+1	The	_	DT	DT	_	2	SUB
+2	challenges	_	VBZ	VBZ	_	0	ROOT
+3	millennial	_	JJ	JJ	_	4	NMOD
+4	women	_	NNS	NNS	_	5	SUB
+5	face	_	VBP	VBP	_	2	VMOD
+6	in	_	IN	IN	_	5	VMOD
+7	the	_	DT	DT	_	8	NMOD
+8	workplace	_	NN	NN	_	9	SUB
+9	extends	_	VBZ	VBZ	_	6	SBAR
+10	far	_	RB	RB	_	11	PMOD
+11	beyond	_	IN	IN	_	9	VMOD
+12	pay	_	NN	NN	_	13	NMOD
+13	differences	_	NNS	NNS	_	11	PMOD
+
+*****************************************************
+1	FTSE	_	NNP	NNP	_	3	NMOD
+2	100	_	CD	CD	_	3	NMOD
+3	Index	_	NNP	NNP	_	4	SUB
+4	closed	_	VBD	VBD	_	0	ROOT
+5	at	_	IN	IN	_	4	VMOD
+6	record	_	NN	NN	_	5	PMOD
+7	each	_	DT	DT	_	8	NMOD
+8	day	_	NN	NN	_	4	VMOD
+9	since	_	IN	IN	_	4	VMOD
+10	UK	_	NNP	NNP	_	11	NMOD
+11	markets	_	NNS	NNS	_	12	SUB
+12	reopened	_	VBD	VBD	_	9	SBAR
+13	postChristmas	_	NNP	NNP	_	12	OBJ
+14	a	_	DT	DT	_	15	NMOD
+15	feat	_	NN	NN	_	12	OBJ
+16	achieved	_	VBN	VBN	_	15	NMOD
+17	only	_	RB	RB	_	16	VMOD
+18	once	_	RB	RB	_	17	AMOD
+19	before	_	RB	RB	_	17	AMOD
+
+*****************************************************
+1	Asia'	_	NNP	NNP	_	2	SUB
+2	s	_	VBZ	VBZ	_	0	ROOT
+3	financial	_	JJ	JJ	_	4	NMOD
+4	industry	_	NN	NN	_	5	SUB
+5	is	_	VBZ	VBZ	_	2	VMOD
+6	lining	_	VBG	VBG	_	5	VC
+7	up	_	RP	RP	_	6	VMOD
+8	behind	_	IN	IN	_	6	VMOD
+9	Blockchain	_	NNP	NNP	_	8	PMOD
+
+*****************************************************
+1	Everyday	_	JJ	JJ	_	2	NMOD
+2	activities	_	NNS	NNS	_	6	SUB
+3	in	_	IN	IN	_	2	NMOD
+4	the	_	DT	DT	_	5	NMOD
+5	workplace	_	NN	NN	_	3	PMOD
+6	can	_	MD	MD	_	0	ROOT
+7	make	_	VB	VB	_	6	VC
+8	an	_	DT	DT	_	9	NMOD
+9	impact	_	NN	NN	_	7	OBJ
+
+1	Some	_	DT	DT	_	3	NMOD
+2	simple	_	JJ	JJ	_	3	NMOD
+3	things	_	NNS	NNS	_	0	ROOT
+4	to	_	TO	TO	_	5	VMOD
+5	embrace	_	VB	VB	_	3	NMOD
+6	diversity	_	NN	NN	_	8	NMOD
+7	and	_	CC	CC	_	8	NMOD
+8	inclusion	_	NN	NN	_	5	OBJ
+
+*****************************************************
+1	The	_	DT	DT	_	4	NMOD
+2	threedecade	_	JJ	JJ	_	4	NMOD
+3	bull	_	NN	NN	_	4	NMOD
+4	market	_	NN	NN	_	7	SUB
+5	for	_	IN	IN	_	4	NMOD
+6	bonds	_	NNS	NNS	_	5	PMOD
+7	shows	_	VBZ	VBZ	_	0	ROOT
+8	signs	_	NNS	NNS	_	7	OBJ
+9	of	_	IN	IN	_	8	NMOD
+10	running	_	VBG	VBG	_	9	PMOD
+11	out	_	IN	IN	_	10	VMOD
+12	of	_	IN	IN	_	11	PMOD
+13	steam	_	NN	NN	_	12	PMOD
+
+*****************************************************
+1	Solar	_	NNP	NNP	_	2	SUB
+2	could	_	MD	MD	_	0	ROOT
+3	beat	_	VB	VB	_	2	VC
+4	coal	_	NN	NN	_	3	OBJ
+5	to	_	TO	TO	_	6	VMOD
+6	be	_	VB	VB	_	3	VMOD
+7	the	_	DT	DT	_	9	NMOD
+8	cheapest	_	JJS	JJS	_	9	NMOD
+9	power	_	NN	NN	_	6	PRD
+10	on	_	IN	IN	_	9	NMOD
+11	Earth	_	NN	NN	_	10	PMOD
+
+*****************************************************
+1	As	_	IN	IN	_	6	VMOD
+2	2016	_	CD	CD	_	3	SUB
+3	closes	_	VBZ	VBZ	_	1	SBAR
+4	out	_	RP	RP	_	3	VMOD
+5	here	_	RB	RB	_	3	VMOD
+6	are	_	VBP	VBP	_	0	ROOT
+7	the	_	DT	DT	_	12	NMOD
+8	notable	_	JJ	JJ	_	12	NMOD
+9	diversity	_	NN	NN	_	12	NMOD
+10	and	_	CC	CC	_	12	NMOD
+11	inclusion	_	NN	NN	_	12	NMOD
+12	trends	_	NNS	NNS	_	6	SUB
+13	we	_	PRP	PRP	_	14	SUB
+14	observed	_	VBD	VBD	_	12	NMOD
+15	this	_	DT	DT	_	16	NMOD
+16	year	_	NN	NN	_	14	VMOD
+
+*****************************************************
+1	Strategists	_	NNS	NNS	_	2	SUB
+2	predict	_	VBP	VBP	_	0	ROOT
+3	growth	_	NN	NN	_	2	OBJ
+4	in	_	IN	IN	_	3	NMOD
+5	Asian	_	JJ	JJ	_	6	NMOD
+6	markets	_	NNS	NNS	_	4	PMOD
+7	for	_	IN	IN	_	3	NMOD
+8	2017	_	CD	CD	_	7	PMOD
+
+*****************************************************
+1	Historic	_	JJ	JJ	_	5	NMOD
+2	Saudi	_	JJ	JJ	_	5	NMOD
+3	budget	_	NN	NN	_	5	NMOD
+4	shows	_	NNS	NNS	_	5	NMOD
+5	effort	_	NN	NN	_	0	ROOT
+6	to	_	TO	TO	_	7	VMOD
+7	win	_	VB	VB	_	5	NMOD
+8	support	_	NN	NN	_	7	OBJ
+9	for	_	IN	IN	_	8	NMOD
+10	change	_	NN	NN	_	9	PMOD
+
+*****************************************************
+1	Eastern	_	JJ	JJ	_	2	NMOD
+2	promise	_	NN	NN	_	0	ROOT
+3	The	_	DT	DT	_	4	NMOD
+4	rise	_	NN	NN	_	2	OBJ
+5	of	_	IN	IN	_	4	NMOD
+6	family	_	NN	NN	_	7	NMOD
+7	offices	_	NNS	NNS	_	5	PMOD
+8	in	_	IN	IN	_	4	NMOD
+9	the	_	DT	DT	_	11	NMOD
+10	Middle	_	NNP	NNP	_	11	NMOD
+11	East	_	NNP	NNP	_	14	NMOD
+12	and	_	CC	CC	_	14	NMOD
+13	Southeast	_	NNP	NNP	_	14	NMOD
+14	Asia	_	NNP	NNP	_	8	PMOD
+
+*****************************************************
+1	Asset	_	NN	NN	_	2	NMOD
+2	managers	_	NNS	NNS	_	3	SUB
+3	have	_	VBP	VBP	_	13	VMOD
+4	seen	_	VBN	VBN	_	3	VC
+5	onboarding	_	NN	NN	_	8	NMOD
+6	and	_	CC	CC	_	8	NMOD
+7	system	_	NN	NN	_	8	NMOD
+8	costs	_	NNS	NNS	_	9	SUB
+9	increase	_	VBP	VBP	_	12	NMOD
+10	and	_	CC	CC	_	12	NMOD
+11	onboarding	_	VBG	VBG	_	12	NMOD
+12	times	_	NNS	NNS	_	13	SUB
+13	have	_	VBP	VBP	_	0	ROOT
+14	also	_	RB	RB	_	13	VMOD
+15	lengthened	_	VBN	VBN	_	13	VC
+
+*****************************************************
+1	Happy	_	JJ	JJ	_	2	NMOD
+2	Holidays	_	NNS	NNS	_	0	ROOT
+3	from	_	IN	IN	_	2	NMOD
+4	Bloomberg	_	NNP	NNP	_	5	NMOD
+5	LP	_	NNP	NNP	_	3	PMOD
+
+*****************************************************
+1	When	_	WRB	WRB	_	15	VMOD
+2	looking	_	VBG	VBG	_	1	SBAR
+3	for	_	IN	IN	_	2	VMOD
+4	ways	_	NNS	NNS	_	3	PMOD
+5	to	_	TO	TO	_	6	VMOD
+6	find	_	VB	VB	_	4	NMOD
+7	and	_	CC	CC	_	6	VMOD
+8	keep	_	VB	VB	_	6	VMOD
+9	young	_	JJ	JJ	_	10	NMOD
+10	employees	_	NNS	NNS	_	13	SUB
+11	don'	_	RB	RB	_	13	VMOD
+12	t	_	RB	RB	_	11	AMOD
+13	assume	_	VB	VB	_	6	VMOD
+14	there	_	EX	EX	_	15	SUB
+15	is	_	VBZ	VBZ	_	0	ROOT
+16	a	_	DT	DT	_	18	NMOD
+17	one	_	CD	CD	_	18	NMOD
+18	size	_	NN	NN	_	19	SUB
+19	fits	_	VBZ	VBZ	_	15	PRD
+20	all	_	DT	DT	_	21	NMOD
+21	approach	_	NN	NN	_	19	OBJ
+
+*****************************************************
+1	Philippines	_	NNPS	NNPS	_	2	SUB
+2	mulling	_	VBG	VBG	_	0	ROOT
+3	Bitcoin	_	JJ	JJ	_	4	NMOD
+4	regulation	_	NN	NN	_	2	OBJ
+5	as	_	IN	IN	_	2	VMOD
+6	remittance	_	NN	NN	_	7	NMOD
+7	use	_	NN	NN	_	8	SUB
+8	surges	_	VBZ	VBZ	_	5	SBAR
+
+*****************************************************
+1	Boring	_	VBG	VBG	_	5	NMOD
+2	Wall	_	NNP	NNP	_	5	NMOD
+3	Street	_	NNP	NNP	_	5	NMOD
+4	analyst	_	NN	NN	_	5	NMOD
+5	notes	_	NNS	NNS	_	6	SUB
+6	are	_	VBP	VBP	_	0	ROOT
+7	out	_	IN	IN	_	6	PRD
+
+1	Bold	_	JJ	JJ	_	2	NMOD
+2	funny	_	JJ	JJ	_	3	SUB
+3	are	_	VBP	VBP	_	0	ROOT
+4	in	_	IN	IN	_	3	PRD
+
+*****************************************************
+1	As	_	IN	IN	_	10	VMOD
+2	recent	_	JJ	JJ	_	4	NMOD
+3	marketimpacting	_	JJ	JJ	_	4	NMOD
+4	events	_	NNS	NNS	_	5	SUB
+5	continue	_	VBP	VBP	_	1	SBAR
+6	to	_	TO	TO	_	7	VMOD
+7	unfold	_	VB	VB	_	5	VMOD
+8	the	_	DT	DT	_	9	NMOD
+9	UK	_	NNP	NNP	_	10	SUB
+10	is	_	VBZ	VBZ	_	0	ROOT
+11	showing	_	VBG	VBG	_	10	VC
+12	signs	_	NNS	NNS	_	11	OBJ
+13	of	_	IN	IN	_	12	NMOD
+14	becoming	_	VBG	VBG	_	13	PMOD
+15	an	_	DT	DT	_	17	NMOD
+16	emerging	_	VBG	VBG	_	17	NMOD
+17	market	_	NN	NN	_	14	OBJ
+
+*****************************************************
+1	Our	_	PRP$	PRP$	_	2	NMOD
+2	partnership	_	NN	NN	_	6	SUB
+3	with	_	IN	IN	_	2	NMOD
+4	Goldman	_	NNP	NNP	_	5	NMOD
+5	Sachs	_	NNP	NNP	_	3	PMOD
+6	helps	_	VBZ	VBZ	_	0	ROOT
+7	GS10KSmallBiz	_	NNP	NNP	_	8	SUB
+8	accelerate	_	VB	VB	_	6	VMOD
+9	growth	_	NN	NN	_	8	OBJ
+10	with	_	IN	IN	_	8	VMOD
+11	advice	_	NN	NN	_	10	PMOD
+12	from	_	IN	IN	_	11	NMOD
+13	our	_	PRP$	PRP$	_	16	NMOD
+14	CEOs	_	NNS	NNS	_	16	NMOD
+15	and	_	CC	CC	_	16	NMOD
+16	employees	_	NNS	NNS	_	12	PMOD
+
+*****************************************************
+1	With	_	IN	IN	_	9	VMOD
+2	gold	_	JJ	JJ	_	3	NMOD
+3	prices	_	NNS	NNS	_	9	SUB
+4	stuck	_	VBN	VBN	_	3	NMOD
+5	in	_	IN	IN	_	4	VMOD
+6	purgatory	_	JJ	JJ	_	8	NMOD
+7	hedge	_	NN	NN	_	8	NMOD
+8	funds	_	NNS	NNS	_	5	PMOD
+9	pull	_	VB	VB	_	0	ROOT
+10	out	_	RP	RP	_	9	VMOD
+
+*****************************************************
+1	Matthew	_	NNP	NNP	_	2	NMOD
+2	McConaughey	_	NNP	NNP	_	3	SUB
+3	said	_	VBD	VBD	_	0	ROOT
+4	that	_	IN	IN	_	3	VMOD
+5	Hollywood	_	NNP	NNP	_	6	SUB
+6	should	_	MD	MD	_	4	SBAR
+7	embrace	_	VB	VB	_	6	VC
+8	President	_	NNP	NNP	_	9	NMOD
+9	Trump'	_	NNP	NNP	_	10	SUB
+10	s	_	VBZ	VBZ	_	7	VMOD
+11	election	_	NN	NN	_	13	NMOD
+12	and	_	CC	CC	_	13	NMOD
+13	work	_	NN	NN	_	10	OBJ
+14	with	_	IN	IN	_	13	NMOD
+15	him	_	PRP	PRP	_	14	PMOD
+
+*****************************************************
+1	Volunteers	_	NNS	NNS	_	2	SUB
+2	had	_	VBD	VBD	_	0	ROOT
+3	stocked	_	VBN	VBN	_	2	VC
+4	the	_	DT	DT	_	5	NMOD
+5	refrigerator	_	NN	NN	_	8	NMOD
+6	and	_	CC	CC	_	8	NMOD
+7	the	_	DT	DT	_	8	NMOD
+8	cabinets	_	NNS	NNS	_	3	OBJ
+9	with	_	IN	IN	_	3	VMOD
+10	food	_	NN	NN	_	9	PMOD
+
+1	The	_	DT	DT	_	2	NMOD
+2	table	_	NN	NN	_	3	SUB
+3	was	_	VBD	VBD	_	0	ROOT
+4	set	_	VBN	VBN	_	3	VC
+5	for	_	IN	IN	_	4	VMOD
+6	5	_	CD	CD	_	5	PMOD
+7	with	_	IN	IN	_	4	VMOD
+8	flowers	_	NNS	NNS	_	7	PMOD
+
+*****************************************************
+1	Arnold	_	NNP	NNP	_	2	NMOD
+2	Schwarzenegger	_	NNP	NNP	_	3	SUB
+3	fired	_	VBD	VBD	_	0	ROOT
+4	back	_	RB	RB	_	3	VMOD
+5	at	_	IN	IN	_	3	VMOD
+6	President	_	NNP	NNP	_	7	NMOD
+7	Trump	_	NNP	NNP	_	5	PMOD
+8	over	_	IN	IN	_	3	VMOD
+9	ratings	_	NNS	NNS	_	10	NMOD
+10	jab	_	NN	NN	_	8	PMOD
+
+*****************************************************
+1	A	_	DT	DT	_	3	NMOD
+2	KKK	_	NNP	NNP	_	3	NMOD
+3	group	_	NN	NN	_	4	SUB
+4	has	_	VBZ	VBZ	_	0	ROOT
+5	found	_	VBN	VBN	_	4	VC
+6	a	_	DT	DT	_	8	NMOD
+7	legal	_	JJ	JJ	_	8	NMOD
+8	way	_	NN	NN	_	5	OBJ
+9	to	_	TO	TO	_	10	VMOD
+10	get	_	VB	VB	_	8	NMOD
+11	attention	_	NN	NN	_	10	OBJ
+12	in	_	IN	IN	_	10	VMOD
+13	Maine	_	NNP	NNP	_	12	PMOD
+14	leaving	_	VBG	VBG	_	10	VMOD
+15	fliers	_	NNS	NNS	_	14	OBJ
+16	on	_	IN	IN	_	14	VMOD
+17	lawns	_	NNS	NNS	_	16	PMOD
+18	at	_	IN	IN	_	17	NMOD
+19	night	_	NN	NN	_	18	PMOD
+
+*****************************************************
+1	Authorities	_	NNS	NNS	_	2	SUB
+2	said	_	VBD	VBD	_	0	ROOT
+3	they	_	PRP	PRP	_	4	SUB
+4	had	_	VBD	VBD	_	2	VMOD
+5	arrested	_	VBN	VBN	_	4	VC
+6	about	_	IN	IN	_	10	NMOD
+7	75	_	CD	CD	_	6	AMOD
+8	Dakota	_	NNP	NNP	_	10	NMOD
+9	Pipeline	_	NNP	NNP	_	10	NMOD
+10	protesters	_	NNS	NNS	_	5	OBJ
+
+*****************************************************
+1	Senate	_	NNP	NNP	_	2	NMOD
+2	Committee	_	NNP	NNP	_	3	SUB
+3	approves	_	VBZ	VBZ	_	0	ROOT
+4	Scott	_	NNP	NNP	_	8	NMOD
+5	Pruitt	_	NNP	NNP	_	8	NMOD
+6	President	_	NNP	NNP	_	8	NMOD
+7	Trump	_	NNP	NNP	_	8	NMOD
+8	'	_	POS	POS	_	11	NMOD
+9	s	_	PRP	PRP	_	11	SUB
+10	divisive	_	JJ	JJ	_	11	NMOD
+11	pick	_	NN	NN	_	3	OBJ
+12	to	_	TO	TO	_	13	VMOD
+13	run	_	VB	VB	_	11	NMOD
+14	the	_	DT	DT	_	15	NMOD
+15	EPA	_	NNP	NNP	_	13	OBJ
+
+*****************************************************
+1	He	_	PRP	PRP	_	2	SUB
+2	took	_	VBD	VBD	_	0	ROOT
+3	her	_	PRP	PRP	_	2	OBJ
+4	to	_	TO	TO	_	2	VMOD
+5	the	_	DT	DT	_	6	NMOD
+6	hospital	_	NN	NN	_	4	PMOD
+7	when	_	WRB	WRB	_	2	VMOD
+8	she	_	PRP	PRP	_	9	SUB
+9	was	_	VBD	VBD	_	7	SBAR
+10	injured	_	VBN	VBN	_	9	VC
+11	in	_	IN	IN	_	10	VMOD
+12	the	_	DT	DT	_	15	NMOD
+13	Boston	_	NNP	NNP	_	15	NMOD
+14	Marathon	_	NNP	NNP	_	15	NMOD
+15	bombing	_	NN	NN	_	11	PMOD
+
+1	Now	_	RB	RB	_	4	VMOD
+2	they'	_	RB	RB	_	4	VMOD
+3	re	_	NNP	NNP	_	4	SUB
+4	getting	_	VBG	VBG	_	0	ROOT
+5	married	_	VBN	VBN	_	4	VC
+
+*****************************************************
+1	What	_	WP	WP	_	9	VMOD
+2	do	_	VBP	VBP	_	1	SBAR
+3	the	_	DT	DT	_	4	NMOD
+4	Kochs	_	NNP	NNP	_	2	OBJ
+5	the	_	DT	DT	_	8	NMOD
+6	NRA	_	NNP	NNP	_	8	NMOD
+7	and	_	CC	CC	_	8	NMOD
+8	evangelicals	_	NNS	NNS	_	9	SUB
+9	agree	_	VBP	VBP	_	0	ROOT
+10	on	_	IN	IN	_	9	VMOD
+
+1	Pushing	_	VBG	VBG	_	0	ROOT
+2	Supreme	_	NNP	NNP	_	6	NMOD
+3	Court	_	NNP	NNP	_	6	NMOD
+4	pick	_	NN	NN	_	6	NMOD
+5	Neil	_	NNP	NNP	_	6	NMOD
+6	Gorsuch	_	NNP	NNP	_	1	OBJ
+7	through	_	IN	IN	_	1	VMOD
+
+*****************************************************
+1	Politics	_	NNS	NNS	_	2	SUB
+2	is	_	VBZ	VBZ	_	0	ROOT
+3	infusing	_	VBG	VBG	_	2	VC
+4	the	_	DT	DT	_	6	NMOD
+5	Super	_	NNP	NNP	_	6	NMOD
+6	Bowl	_	NNP	NNP	_	3	OBJ
+7	like	_	IN	IN	_	3	VMOD
+8	never	_	RB	RB	_	7	PMOD
+9	before	_	IN	IN	_	7	PMOD
+10	with	_	IN	IN	_	9	PMOD
+11	President	_	NNP	NNP	_	15	NMOD
+12	Trump	_	NNP	NNP	_	15	NMOD
+13	Bill	_	NNP	NNP	_	15	NMOD
+14	O'	_	NNP	NNP	_	15	NMOD
+15	Reilly	_	NNP	NNP	_	19	NMOD
+16	and	_	CC	CC	_	19	NMOD
+17	Lady	_	NNP	NNP	_	19	NMOD
+18	Gaga	_	NNP	NNP	_	19	NMOD
+19	pitching	_	NN	NN	_	10	PMOD
+20	in	_	IN	IN	_	19	NMOD
+
+*****************************************************
+1	With	_	IN	IN	_	7	VMOD
+2	Trump	_	NNP	NNP	_	1	PMOD
+3	in	_	IN	IN	_	2	NMOD
+4	town	_	NN	NN	_	3	PMOD
+5	Washington	_	NNP	NNP	_	6	NMOD
+6	restaurants	_	NNS	NNS	_	7	SUB
+7	await	_	VBP	VBP	_	0	ROOT
+8	a	_	DT	DT	_	9	NMOD
+9	visit	_	NN	NN	_	7	OBJ
+10	from	_	IN	IN	_	9	NMOD
+11	Ivanka	_	NNP	NNP	_	10	PMOD
+
+*****************************************************
+1	Congress	_	NNP	NNP	_	2	SUB
+2	must	_	MD	MD	_	0	ROOT
+3	approve	_	VB	VB	_	2	VC
+4	repealing	_	VBG	VBG	_	3	VMOD
+5	the	_	DT	DT	_	6	NMOD
+6	law	_	NN	NN	_	4	OBJ
+7	which	_	WDT	WDT	_	6	NMOD
+8	says	_	VBZ	VBZ	_	7	SBAR
+9	churches	_	NNS	NNS	_	10	SUB
+10	would	_	MD	MD	_	8	VMOD
+11	lose	_	VB	VB	_	10	VC
+12	taxexempt	_	JJ	JJ	_	13	NMOD
+13	status	_	NN	NN	_	11	OBJ
+14	by	_	IN	IN	_	11	VMOD
+15	endorsing	_	VBG	VBG	_	14	PMOD
+16	candidates	_	NNS	NNS	_	15	OBJ
+
+*****************************************************
+1	Breaking	_	VBG	VBG	_	4	NMOD
+2	News	_	NNP	NNP	_	4	NMOD
+3	President	_	NNP	NNP	_	4	NMOD
+4	Trump	_	NNP	NNP	_	5	SUB
+5	said	_	VBD	VBD	_	0	ROOT
+6	he	_	PRP	PRP	_	7	SUB
+7	would	_	MD	MD	_	5	VMOD
+8	totally	_	RB	RB	_	7	VMOD
+9	destroy	_	VB	VB	_	7	VC
+10	limits	_	NNS	NNS	_	9	OBJ
+11	on	_	IN	IN	_	10	NMOD
+12	political	_	JJ	JJ	_	13	NMOD
+13	activity	_	NN	NN	_	11	PMOD
+14	by	_	IN	IN	_	9	VMOD
+15	taxexempt	_	JJ	JJ	_	16	NMOD
+16	churches	_	NNS	NNS	_	14	PMOD
+
+*****************************************************
+1	Trump	_	NNP	NNP	_	2	SUB
+2	spoke	_	VBD	VBD	_	0	ROOT
+3	out	_	RP	RP	_	2	VMOD
+4	against	_	IN	IN	_	2	VMOD
+5	UC	_	NNP	NNP	_	6	NMOD
+6	Berkeley	_	NNP	NNP	_	4	PMOD
+7	for	_	IN	IN	_	2	VMOD
+8	canceling	_	VBG	VBG	_	7	PMOD
+9	a	_	DT	DT	_	10	NMOD
+10	speech	_	NN	NN	_	8	OBJ
+11	by	_	IN	IN	_	10	NMOD
+12	Milo	_	NNP	NNP	_	13	NMOD
+13	Yiannopoulos	_	NNP	NNP	_	11	PMOD
+14	a	_	DT	DT	_	16	NMOD
+15	rightwing	_	VBG	VBG	_	16	NMOD
+16	editor	_	NN	NN	_	8	OBJ
+
+*****************************************************
+1	President	_	NNP	NNP	_	2	NMOD
+2	Trump	_	NNP	NNP	_	3	SUB
+3	has	_	VBZ	VBZ	_	0	ROOT
+4	a	_	DT	DT	_	5	NMOD
+5	lot	_	NN	NN	_	3	OBJ
+6	of	_	IN	IN	_	5	NMOD
+7	climate	_	NN	NN	_	9	NMOD
+8	policy	_	NN	NN	_	9	NMOD
+9	decisions	_	NNS	NNS	_	6	PMOD
+10	to	_	TO	TO	_	11	VMOD
+11	make	_	VB	VB	_	5	NMOD
+
+1	What	_	WP	WP	_	2	VMOD
+2	would	_	MD	MD	_	0	ROOT
+3	you	_	PRP	PRP	_	2	SUB
+4	do	_	VB	VB	_	2	VMOD
+
+1	Take	_	VB	VB	_	0	ROOT
+2	this	_	DT	DT	_	3	NMOD
+3	quiz	_	NN	NN	_	1	OBJ
+4	to	_	TO	TO	_	5	VMOD
+5	find	_	VB	VB	_	1	VMOD
+6	out	_	RP	RP	_	5	VMOD
+
+*****************************************************
+1	Morning	_	NN	NN	_	3	NMOD
+2	Briefing	_	NN	NN	_	3	NMOD
+3	Here'	_	NNP	NNP	_	0	ROOT
+4	s	_	PRP	PRP	_	3	NMOD
+5	what	_	WP	WP	_	3	NMOD
+6	you	_	PRP	PRP	_	7	SUB
+7	need	_	VBP	VBP	_	5	SBAR
+8	to	_	TO	TO	_	9	VMOD
+9	know	_	VB	VB	_	7	VMOD
+10	to	_	TO	TO	_	11	VMOD
+11	start	_	VB	VB	_	9	VMOD
+12	your	_	PRP$	PRP$	_	13	NMOD
+13	day	_	NN	NN	_	11	OBJ
+
+*****************************************************
+1	Here'	_	NNP	NNP	_	2	SUB
+2	s	_	VBZ	VBZ	_	0	ROOT
+3	how	_	WRB	WRB	_	2	VMOD
+4	senators	_	NNS	NNS	_	5	SUB
+5	voted	_	VBD	VBD	_	3	SBAR
+6	on	_	IN	IN	_	5	VMOD
+7	Rex	_	NNP	NNP	_	8	NMOD
+8	Tillerson	_	NNP	NNP	_	6	PMOD
+
+*****************************************************
+1	A	_	DT	DT	_	2	NMOD
+2	standoff	_	NN	NN	_	7	SUB
+3	in	_	IN	IN	_	2	NMOD
+4	a	_	DT	DT	_	6	NMOD
+5	Delaware	_	NNP	NNP	_	6	NMOD
+6	prison	_	NN	NN	_	3	PMOD
+7	ends	_	VBZ	VBZ	_	0	ROOT
+8	with	_	IN	IN	_	7	VMOD
+9	1	_	CD	CD	_	11	NMOD
+10	employee	_	NN	NN	_	11	NMOD
+11	dead	_	NN	NN	_	8	PMOD
+
+*****************************************************
+1	On	_	IN	IN	_	6	VMOD
+2	Tuesday	_	NNP	NNP	_	1	PMOD
+3	White	_	NNP	NNP	_	5	NMOD
+4	House	_	NNP	NNP	_	5	NMOD
+5	officials	_	NNS	NNS	_	6	SUB
+6	were	_	VBD	VBD	_	0	ROOT
+7	whispering	_	VBG	VBG	_	6	VC
+8	that	_	IN	IN	_	7	VMOD
+9	Judge	_	NNP	NNP	_	11	NMOD
+10	Thomas	_	NNP	NNP	_	11	NMOD
+11	Hardiman	_	NNP	NNP	_	12	SUB
+12	was	_	VBD	VBD	_	8	SBAR
+13	heading	_	VBG	VBG	_	12	VC
+14	toward	_	IN	IN	_	13	VMOD
+15	Washington	_	NNP	NNP	_	14	PMOD
+
+*****************************************************
+1	Is	_	VBZ	VBZ	_	0	ROOT
+2	democracy	_	NN	NN	_	1	PRD
+3	sick	_	JJ	JJ	_	1	PRD
+4	or	_	CC	CC	_	1	VMOD
+5	is	_	VBZ	VBZ	_	1	VMOD
+6	it	_	PRP	PRP	_	5	SUB
+7	just	_	RB	RB	_	5	VMOD
+8	waking	_	VBG	VBG	_	5	VMOD
+9	up	_	RP	RP	_	8	VMOD
+
+1	Listen	_	VB	VB	_	0	ROOT
+2	to	_	TO	TO	_	1	VMOD
+3	The	_	DT	DT	_	4	NMOD
+4	Daily	_	NNP	NNP	_	2	PMOD
+5	a	_	DT	DT	_	9	NMOD
+6	new	_	JJ	JJ	_	9	NMOD
+7	audio	_	JJ	JJ	_	9	NMOD
+8	news	_	NN	NN	_	9	NMOD
+9	report	_	NN	NN	_	4	NMOD
+
+*****************************************************
+1	6	_	CD	CD	_	3	NMOD
+2	ways	_	NNS	NNS	_	3	NMOD
+3	Girls	_	NNS	NNS	_	4	SUB
+4	changed	_	VBD	VBD	_	0	ROOT
+5	television	_	NN	NN	_	4	OBJ
+
+1	Or	_	CC	CC	_	3	NMOD
+2	didn'	_	NN	NN	_	3	NMOD
+3	t	_	NN	NN	_	0	ROOT
+
+*****************************************************
+1	A	_	DT	DT	_	3	NMOD
+2	dark	_	JJ	JJ	_	3	NMOD
+3	view	_	NN	NN	_	6	SUB
+4	of	_	IN	IN	_	3	NMOD
+5	Islam	_	NNP	NNP	_	4	PMOD
+6	has	_	VBZ	VBZ	_	0	ROOT
+7	long	_	RB	RB	_	6	VMOD
+8	flourished	_	VBN	VBN	_	6	VC
+9	on	_	IN	IN	_	8	VMOD
+10	the	_	DT	DT	_	12	NMOD
+11	far	_	JJ	JJ	_	12	NMOD
+12	right	_	NN	NN	_	9	PMOD
+
+1	Now	_	RB	RB	_	3	VMOD
+2	Trump	_	NNP	NNP	_	3	SUB
+3	has	_	VBZ	VBZ	_	0	ROOT
+4	brought	_	VBN	VBN	_	3	VC
+5	that	_	DT	DT	_	6	NMOD
+6	view	_	NN	NN	_	4	OBJ
+7	to	_	TO	TO	_	4	VMOD
+8	the	_	DT	DT	_	10	NMOD
+9	White	_	NNP	NNP	_	10	NMOD
+10	House	_	NNP	NNP	_	7	PMOD
+
+*****************************************************
+1	Trump	_	NNP	NNP	_	2	SUB
+2	got	_	VBD	VBD	_	0	ROOT
+3	the	_	DT	DT	_	5	NMOD
+4	White	_	NNP	NNP	_	5	NMOD
+5	House	_	NNP	NNP	_	2	OBJ
+6	involved	_	VBD	VBD	_	5	NMOD
+7	in	_	IN	IN	_	6	VMOD
+8	a	_	DT	DT	_	10	NMOD
+9	student	_	NN	NN	_	10	NMOD
+10	riot	_	NN	NN	_	7	PMOD
+11	that	_	WDT	WDT	_	10	NMOD
+12	forced	_	VBD	VBD	_	11	SBAR
+13	the	_	DT	DT	_	14	NMOD
+14	cancellation	_	NN	NN	_	12	OBJ
+15	of	_	IN	IN	_	14	NMOD
+16	a	_	DT	DT	_	17	NMOD
+17	speech	_	NN	NN	_	15	PMOD
+18	by	_	IN	IN	_	17	NMOD
+19	Milo	_	NNP	NNP	_	20	NMOD
+20	Yiannopoulos	_	NNP	NNP	_	18	PMOD
+
+*****************************************************
+1	Putin	_	NNP	NNP	_	2	SUB
+2	is	_	VBZ	VBZ	_	0	ROOT
+3	making	_	VBG	VBG	_	2	VC
+4	his	_	PRP$	PRP$	_	6	NMOD
+5	first	_	JJ	JJ	_	6	NMOD
+6	foray	_	NN	NN	_	3	OBJ
+7	into	_	IN	IN	_	6	NMOD
+8	Europe	_	NNP	NNP	_	7	PMOD
+9	in	_	IN	IN	_	6	NMOD
+10	the	_	DT	DT	_	12	NMOD
+11	Trump	_	NNP	NNP	_	12	NMOD
+12	era	_	NN	NN	_	9	PMOD
+13	his	_	PRP$	PRP$	_	14	NMOD
+14	position	_	NN	NN	_	16	SUB
+15	much	_	RB	RB	_	16	VMOD
+16	improved	_	VBD	VBD	_	12	NMOD
+17	since	_	IN	IN	_	16	VMOD
+18	his	_	PRP$	PRP$	_	20	NMOD
+19	last	_	JJ	JJ	_	20	NMOD
+20	trip	_	NN	NN	_	17	PMOD
+21	there	_	RB	RB	_	20	NMOD
+
+*****************************************************
+1	President	_	NNP	NNP	_	2	NMOD
+2	Trump	_	NNP	NNP	_	3	SUB
+3	has	_	VBZ	VBZ	_	0	ROOT
+4	threatened	_	VBN	VBN	_	3	VC
+5	Iran	_	NNP	NNP	_	4	OBJ
+6	on	_	IN	IN	_	4	VMOD
+7	Twitter	_	NNP	NNP	_	6	PMOD
+
+*****************************************************
+1	She	_	PRP	PRP	_	3	SUB
+2	suddenly	_	RB	RB	_	3	VMOD
+3	told	_	VBD	VBD	_	0	ROOT
+4	me	_	PRP	PRP	_	3	OBJ
+5	aggressively	_	RB	RB	_	3	VMOD
+6	You	_	PRP	PRP	_	7	SUB
+7	have	_	VBP	VBP	_	3	VMOD
+8	to	_	TO	TO	_	9	VMOD
+9	return	_	VB	VB	_	7	VMOD
+10	to	_	TO	TO	_	9	VMOD
+11	your	_	PRP$	PRP$	_	12	NMOD
+12	country	_	NN	NN	_	10	PMOD
+13	because	_	IN	IN	_	9	VMOD
+14	you	_	PRP	PRP	_	15	SUB
+15	endanger	_	VB	VB	_	13	SBAR
+16	our	_	PRP$	PRP$	_	17	NMOD
+17	safety	_	NN	NN	_	15	OBJ
+
+*****************************************************
+1	In	_	IN	IN	_	14	VMOD
+2	a	_	DT	DT	_	5	NMOD
+3	highly	_	RB	RB	_	4	AMOD
+4	unusual	_	JJ	JJ	_	5	NMOD
+5	turn	_	NN	NN	_	1	PMOD
+6	of	_	IN	IN	_	5	NMOD
+7	events	_	NNS	NNS	_	6	PMOD
+8	for	_	IN	IN	_	7	NMOD
+9	a	_	DT	DT	_	11	NMOD
+10	sitting	_	VBG	VBG	_	11	NMOD
+11	president	_	NN	NN	_	8	PMOD
+12	judge	_	NN	NN	_	13	NMOD
+13	orders	_	NNS	NNS	_	14	SUB
+14	Trumpowned	_	VBD	VBD	_	0	ROOT
+15	golf	_	NN	NN	_	16	NMOD
+16	resort	_	NN	NN	_	14	OBJ
+17	to	_	TO	TO	_	18	VMOD
+18	pay	_	VB	VB	_	16	NMOD
+19	57	_	CD	CD	_	20	AMOD
+20	million	_	CD	CD	_	18	OBJ
+
+*****************************************************
+1	The	_	DT	DT	_	3	NMOD
+2	phrase	_	NN	NN	_	3	NMOD
+3	Putin	_	NNP	NNP	_	5	SUB
+4	never	_	RB	RB	_	5	VMOD
+5	uses	_	VBZ	VBZ	_	10	VMOD
+6	about	_	IN	IN	_	5	VMOD
+7	terrorism	_	NN	NN	_	6	PMOD
+8	and	_	CC	CC	_	10	VMOD
+9	Trump	_	NNP	NNP	_	10	SUB
+10	does	_	VBZ	VBZ	_	0	ROOT
+
+*****************************************************
+1	Malcolm	_	NNP	NNP	_	2	NMOD
+2	Turnbull	_	NNP	NNP	_	3	SUB
+3	refused	_	VBD	VBD	_	0	ROOT
+4	to	_	TO	TO	_	5	VMOD
+5	comment	_	VB	VB	_	3	VMOD
+6	on	_	IN	IN	_	5	VMOD
+7	Donald	_	NNP	NNP	_	9	NMOD
+8	Trump	_	NNP	NNP	_	9	NMOD
+9	'	_	POS	POS	_	11	NMOD
+10	s	_	PRP	PRP	_	11	SUB
+11	tone	_	NN	NN	_	6	PMOD
+12	and	_	CC	CC	_	6	PMOD
+13	whether	_	IN	IN	_	6	PMOD
+14	the	_	DT	DT	_	15	NMOD
+15	president	_	NN	NN	_	16	SUB
+16	hung	_	VBD	VBD	_	13	SBAR
+17	up	_	RP	RP	_	16	VMOD
+18	on	_	IN	IN	_	16	VMOD
+19	him	_	PRP	PRP	_	18	PMOD
+
+*****************************************************
+1	2	_	CD	CD	_	3	NMOD
+2	Republican	_	JJ	JJ	_	3	NMOD
+3	senators	_	NNS	NNS	_	4	SUB
+4	said	_	VBD	VBD	_	0	ROOT
+5	they	_	PRP	PRP	_	6	SUB
+6	would	_	MD	MD	_	4	VMOD
+7	vote	_	VB	VB	_	6	VC
+8	against	_	IN	IN	_	7	VMOD
+9	Betsy	_	NNP	NNP	_	12	NMOD
+10	DeVos	_	NNP	NNP	_	12	NMOD
+11	President	_	NNP	NNP	_	12	NMOD
+12	Trump'	_	NNP	NNP	_	13	SUB
+13	s	_	VBZ	VBZ	_	8	SBAR
+14	nominee	_	NN	NN	_	13	OBJ
+15	for	_	IN	IN	_	14	NMOD
+16	education	_	NN	NN	_	17	NMOD
+17	secretary	_	NN	NN	_	15	PMOD
+
+*****************************************************
+1	Just	_	RB	RB	_	3	NMOD
+2	5	_	CD	CD	_	1	AMOD
+3	days	_	NNS	NNS	_	4	PMOD
+4	after	_	IN	IN	_	8	VMOD
+5	taking	_	VBG	VBG	_	4	PMOD
+6	office	_	NN	NN	_	5	OBJ
+7	Trump	_	NNP	NNP	_	8	SUB
+8	was	_	VBD	VBD	_	0	ROOT
+9	presented	_	VBN	VBN	_	8	VC
+10	with	_	IN	IN	_	9	VMOD
+11	the	_	DT	DT	_	12	NMOD
+12	first	_	JJ	JJ	_	10	PMOD
+13	of	_	IN	IN	_	12	NMOD
+14	what	_	WP	WP	_	13	PMOD
+15	will	_	MD	MD	_	14	SBAR
+16	be	_	VB	VB	_	15	VC
+17	many	_	JJ	JJ	_	19	NMOD
+18	lifeordeath	_	JJ	JJ	_	19	NMOD
+19	decisions	_	NNS	NNS	_	16	PRD
+
+*****************************************************
+1	A	_	DT	DT	_	2	NMOD
+2	speech	_	NN	NN	_	9	SUB
+3	by	_	IN	IN	_	2	NMOD
+4	the	_	DT	DT	_	8	NMOD
+5	rightwing	_	VBG	VBG	_	8	NMOD
+6	editor	_	NN	NN	_	8	NMOD
+7	Milo	_	NNP	NNP	_	8	NMOD
+8	Yiannopoulos	_	NNP	NNP	_	3	PMOD
+9	was	_	VBD	VBD	_	0	ROOT
+10	canceled	_	VBN	VBN	_	9	VC
+11	amid	_	IN	IN	_	10	VMOD
+12	protests	_	NNS	NNS	_	11	PMOD
+13	at	_	IN	IN	_	12	NMOD
+14	Berkeley	_	NNP	NNP	_	13	PMOD
+
+*****************************************************
+1	On	_	IN	IN	_	4	VMOD
+2	President	_	NNP	NNP	_	3	NMOD
+3	Trump'	_	NNP	NNP	_	1	PMOD
+4	s	_	VBZ	VBZ	_	0	ROOT
+5	foreign	_	JJ	JJ	_	7	NMOD
+6	policy	_	NN	NN	_	7	NMOD
+7	muse	_	NN	NN	_	4	OBJ
+
+*****************************************************
+1	The	_	DT	DT	_	3	NMOD
+2	Trump	_	NNP	NNP	_	3	NMOD
+3	administration	_	NN	NN	_	4	SUB
+4	threatened	_	VBD	VBD	_	0	ROOT
+5	reprisals	_	NNS	NNS	_	15	SUB
+6	against	_	IN	IN	_	5	NMOD
+7	Iran	_	NNP	NNP	_	6	PMOD
+8	for	_	IN	IN	_	5	NMOD
+9	its	_	PRP$	PRP$	_	14	NMOD
+10	recent	_	JJ	JJ	_	14	NMOD
+11	missile	_	NN	NN	_	14	NMOD
+12	test	_	NN	NN	_	14	NMOD
+13	but	_	CC	CC	_	14	NMOD
+14	didn'	_	NN	NN	_	8	PMOD
+15	t	_	MD	MD	_	4	VMOD
+16	specify	_	VB	VB	_	15	VC
+17	actions	_	NNS	NNS	_	16	OBJ
+
+*****************************************************
+1	UN	_	JJ	JJ	_	2	NMOD
+2	experts	_	NNS	NNS	_	3	SUB
+3	called	_	VBD	VBD	_	0	ROOT
+4	President	_	NNP	NNP	_	5	NMOD
+5	Trump'	_	NNP	NNP	_	6	SUB
+6	s	_	VBZ	VBZ	_	12	NMOD
+7	executive	_	NN	NN	_	8	NMOD
+8	order	_	NN	NN	_	6	OBJ
+9	discriminatory	_	JJ	JJ	_	8	NMOD
+10	and	_	CC	CC	_	12	NMOD
+11	a	_	DT	DT	_	12	NMOD
+12	breach	_	NN	NN	_	3	VMOD
+13	of	_	IN	IN	_	12	NMOD
+14	human	_	JJ	JJ	_	16	NMOD
+15	rights	_	NNS	NNS	_	16	NMOD
+16	obligations	_	NNS	NNS	_	13	PMOD
+
+*****************************************************
+1	A	_	DT	DT	_	3	NMOD
+2	Syrian	_	JJ	JJ	_	3	NMOD
+3	infant	_	NN	NN	_	8	SUB
+4	born	_	VBN	VBN	_	3	NMOD
+5	without	_	IN	IN	_	4	VMOD
+6	an	_	DT	DT	_	7	NMOD
+7	eye	_	NN	NN	_	5	PMOD
+8	was	_	VBD	VBD	_	0	ROOT
+9	all	_	DT	DT	_	10	SUB
+10	set	_	VBN	VBN	_	8	VC
+11	to	_	TO	TO	_	12	VMOD
+12	resettle	_	VB	VB	_	10	VMOD
+13	in	_	IN	IN	_	12	VMOD
+14	the	_	DT	DT	_	15	NMOD
+15	US	_	NNP	NNP	_	13	PMOD
+
+1	Then	_	RB	RB	_	3	VMOD
+2	Trump'	_	NNP	NNP	_	3	SUB
+3	s	_	VBZ	VBZ	_	0	ROOT
+4	executive	_	NN	NN	_	5	NMOD
+5	order	_	NN	NN	_	6	SUB
+6	happened	_	VBD	VBD	_	3	VMOD
+
+*****************************************************
+1	The	_	DT	DT	_	3	NMOD
+2	constant	_	JJ	JJ	_	3	NMOD
+3	wash	_	NN	NN	_	6	SUB
+4	of	_	IN	IN	_	3	NMOD
+5	uncertainties	_	NNS	NNS	_	4	PMOD
+6	is	_	VBZ	VBZ	_	11	VMOD
+7	emotionally	_	RB	RB	_	6	VMOD
+8	draining	_	VBG	VBG	_	6	VC
+9	and	_	CC	CC	_	11	AMOD
+10	physically	_	RB	RB	_	11	AMOD
+11	harmful	_	JJ	JJ	_	0	ROOT
+
+1	How	_	WRB	WRB	_	0	ROOT
+2	to	_	TO	TO	_	3	VMOD
+3	adjust	_	VB	VB	_	1	SBAR
+4	your	_	PRP$	PRP$	_	6	NMOD
+5	media	_	NNS	NNS	_	6	NMOD
+6	diet	_	NN	NN	_	3	OBJ
+
+*****************************************************
+1	In	_	IN	IN	_	4	VMOD
+2	case	_	NN	NN	_	1	PMOD
+3	you	_	PRP	PRP	_	4	SUB
+4	missed	_	VBD	VBD	_	0	ROOT
+5	it	_	PRP	PRP	_	4	OBJ
+6	Beyonc	_	NNP	NNP	_	7	SUB
+7	is	_	VBZ	VBZ	_	4	VMOD
+8	pregnant	_	JJ	JJ	_	7	PRD
+9	with	_	IN	IN	_	8	AMOD
+10	twins	_	NNP	NNP	_	9	PMOD
+
+*****************************************************
+1	Malcolm	_	NNP	NNP	_	2	NMOD
+2	Turnbull	_	NNP	NNP	_	3	SUB
+3	refused	_	VBD	VBD	_	0	ROOT
+4	to	_	TO	TO	_	5	VMOD
+5	comment	_	VB	VB	_	3	VMOD
+6	on	_	IN	IN	_	5	VMOD
+7	Donald	_	NNP	NNP	_	8	NMOD
+8	Trump'	_	NNP	NNP	_	6	PMOD
+9	s	_	VBZ	VBZ	_	12	DEP
+10	tone	_	NN	NN	_	9	OBJ
+11	and	_	CC	CC	_	12	DEP
+12	whether	_	IN	IN	_	3	VMOD
+13	the	_	DT	DT	_	14	NMOD
+14	president	_	NN	NN	_	15	SUB
+15	hung	_	VBD	VBD	_	12	SBAR
+16	up	_	RP	RP	_	15	VMOD
+17	on	_	IN	IN	_	15	VMOD
+18	him	_	PRP	PRP	_	17	PMOD
+
+*****************************************************
+1	Why	_	WRB	WRB	_	0	ROOT
+2	it'	_	NN	NN	_	3	SUB
+3	s	_	VBZ	VBZ	_	1	SBAR
+4	already	_	RB	RB	_	3	VMOD
+5	difficult	_	JJ	JJ	_	3	PRD
+6	to	_	TO	TO	_	7	VMOD
+7	gain	_	VB	VB	_	3	VMOD
+8	entry	_	NN	NN	_	7	OBJ
+9	into	_	IN	IN	_	8	NMOD
+10	the	_	DT	DT	_	11	NMOD
+11	US	_	NNP	NNP	_	9	PMOD
+
+*****************************************************
+1	More	_	JJR	JJR	_	2	AMOD
+2	than	_	IN	IN	_	6	NMOD
+3	1000	_	CD	CD	_	2	AMOD
+4	German	_	JJ	JJ	_	6	NMOD
+5	police	_	NN	NN	_	6	NMOD
+6	officers	_	NNS	NNS	_	7	SUB
+7	raided	_	VBD	VBD	_	0	ROOT
+8	homes	_	NNS	NNS	_	11	NMOD
+9	offices	_	NNS	NNS	_	11	NMOD
+10	and	_	CC	CC	_	11	NMOD
+11	mosques	_	NNS	NNS	_	7	OBJ
+12	on	_	IN	IN	_	11	NMOD
+13	Wednesday	_	NNP	NNP	_	12	PMOD
+
+1	Only	_	RB	RB	_	3	NMOD
+2	one	_	CD	CD	_	1	AMOD
+3	person	_	NN	NN	_	4	SUB
+4	was	_	VBD	VBD	_	0	ROOT
+5	arrested	_	VBN	VBN	_	4	VC
+
+*****************************************************
+1	A	_	DT	DT	_	2	NMOD
+2	call	_	NN	NN	_	7	SUB
+3	between	_	IN	IN	_	2	NMOD
+4	Trump	_	NNP	NNP	_	6	NMOD
+5	and	_	CC	CC	_	6	NMOD
+6	Australia'	_	NNP	NNP	_	3	PMOD
+7	s	_	VBZ	VBZ	_	0	ROOT
+8	prime	_	JJ	JJ	_	9	NMOD
+9	minister	_	NN	NN	_	10	SUB
+10	could	_	MD	MD	_	7	VMOD
+11	develop	_	VB	VB	_	10	VC
+12	into	_	IN	IN	_	11	VMOD
+13	a	_	DT	DT	_	15	NMOD
+14	diplomatic	_	JJ	JJ	_	15	NMOD
+15	rift	_	NN	NN	_	12	PMOD
+16	between	_	IN	IN	_	15	NMOD
+17	2	_	CD	CD	_	19	NMOD
+18	stalwart	_	NN	NN	_	19	NMOD
+19	allies	_	NNS	NNS	_	16	PMOD
+
+*****************************************************
+1	Emmanuelle	_	NNP	NNP	_	2	NMOD
+2	Riva	_	NNP	NNP	_	11	SUB
+3	the	_	DT	DT	_	4	NMOD
+4	star	_	NN	NN	_	11	SUB
+5	of	_	IN	IN	_	4	NMOD
+6	Hiroshima	_	NNP	NNP	_	8	NMOD
+7	Mon	_	NNP	NNP	_	8	NMOD
+8	Amour	_	NNP	NNP	_	10	NMOD
+9	and	_	CC	CC	_	10	NMOD
+10	Amour	_	NNP	NNP	_	5	PMOD
+11	died	_	VBD	VBD	_	0	ROOT
+12	on	_	IN	IN	_	11	VMOD
+13	Friday	_	NNP	NNP	_	12	PMOD
+14	in	_	IN	IN	_	11	VMOD
+15	Paris	_	NNP	NNP	_	14	PMOD
+
+1	She	_	PRP	PRP	_	2	SUB
+2	was	_	VBD	VBD	_	0	ROOT
+3	89	_	CD	CD	_	2	PRD
+
+*****************************************************
+1	Donald	_	NNP	NNP	_	2	NMOD
+2	Trump	_	NNP	NNP	_	3	SUB
+3	talks	_	VBZ	VBZ	_	0	ROOT
+4	about	_	IN	IN	_	3	VMOD
+5	media	_	NNS	NNS	_	7	NMOD
+6	bias	_	NN	NN	_	7	NMOD
+7	crime	_	NN	NN	_	10	NMOD
+8	and	_	CC	CC	_	10	NMOD
+9	Frederick	_	NNP	NNP	_	10	NMOD
+10	Douglass	_	NNP	NNP	_	4	PMOD
+11	at	_	IN	IN	_	10	NMOD
+12	Black	_	NNP	NNP	_	15	NMOD
+13	History	_	NN	NN	_	15	NMOD
+14	Month	_	NNP	NNP	_	15	NMOD
+15	event	_	NN	NN	_	11	PMOD
+
+*****************************************************
+1	In	_	IN	IN	_	7	VMOD
+2	South	_	NNP	NNP	_	3	NMOD
+3	Korea	_	NNP	NNP	_	1	PMOD
+4	Defense	_	NNP	NNP	_	6	NMOD
+5	Secretary	_	NNP	NNP	_	6	NMOD
+6	Mattis	_	NNP	NNP	_	7	SUB
+7	Tries	_	VBZ	VBZ	_	0	ROOT
+8	to	_	TO	TO	_	9	VMOD
+9	Reassure	_	VB	VB	_	7	VMOD
+10	an	_	DT	DT	_	11	NMOD
+11	Ally	_	NN	NN	_	9	OBJ
+
+*****************************************************
+1	How	_	WRB	WRB	_	0	ROOT
+2	to	_	TO	TO	_	3	VMOD
+3	plan	_	VB	VB	_	1	SBAR
+4	a	_	DT	DT	_	6	NMOD
+5	safe	_	JJ	JJ	_	6	NMOD
+6	trip	_	NN	NN	_	3	OBJ
+7	for	_	IN	IN	_	6	NMOD
+8	LGBT	_	NNP	NNP	_	10	NMOD
+9	business	_	NN	NN	_	10	NMOD
+10	travelers	_	NNS	NNS	_	7	PMOD
+
+*****************************************************
+1	Her	_	PRP$	PRP$	_	5	NMOD
+2	husband	_	NN	NN	_	5	NMOD
+3	and	_	CC	CC	_	5	NMOD
+4	2	_	CD	CD	_	5	NMOD
+5	sons	_	NNS	NNS	_	6	SUB
+6	are	_	VBP	VBP	_	16	VMOD
+7	for	_	IN	IN	_	6	PRD
+8	now	_	RB	RB	_	7	PMOD
+9	locked	_	VBN	VBN	_	6	VC
+10	out	_	IN	IN	_	9	VMOD
+11	of	_	IN	IN	_	10	PMOD
+12	the	_	DT	DT	_	13	NMOD
+13	US	_	NNP	NNP	_	11	PMOD
+14	and	_	CC	CC	_	16	VMOD
+15	she	_	PRP	PRP	_	16	SUB
+16	can'	_	MD	MD	_	0	ROOT
+17	t	_	RB	RB	_	16	VMOD
+18	travel	_	VB	VB	_	16	VC
+19	away	_	RB	RB	_	18	VMOD
+20	or	_	CC	CC	_	18	VMOD
+21	risk	_	NN	NN	_	18	OBJ
+22	being	_	VBG	VBG	_	18	VMOD
+23	denied	_	VBN	VBN	_	22	VC
+24	reentry	_	NN	NN	_	23	OBJ
+
+*****************************************************
+1	Ribollita	_	NNP	NNP	_	4	NMOD
+2	A	_	NNP	NNP	_	4	NMOD
+3	Tuscan	_	NNP	NNP	_	4	NMOD
+4	classic	_	NN	NN	_	0	ROOT
+5	for	_	IN	IN	_	4	NMOD
+6	cold	_	JJ	JJ	_	7	NMOD
+7	nights	_	NNS	NNS	_	5	PMOD
+
+*****************************************************
+1	Tamron	_	NNP	NNP	_	2	NMOD
+2	Hall	_	NNP	NNP	_	3	SUB
+3	leaves	_	VBZ	VBZ	_	0	ROOT
+4	Today	_	NN	NN	_	5	NMOD
+5	show	_	NN	NN	_	7	NMOD
+6	and	_	CC	CC	_	7	NMOD
+7	NBC	_	NNP	NNP	_	3	VMOD
+
+*****************************************************
+1	Dozens	_	NNS	NNS	_	6	SUB
+2	of	_	IN	IN	_	1	NMOD
+3	Dakota	_	NNP	NNP	_	5	NMOD
+4	Pipeline	_	NNP	NNP	_	5	NMOD
+5	Protesters	_	NNS	NNS	_	2	PMOD
+6	Are	_	VBP	VBP	_	0	ROOT
+7	Arrested	_	VBN	VBN	_	6	VC
+
+*****************************************************
+1	USAustralia	_	JJ	JJ	_	2	NMOD
+2	Rift	_	NN	NN	_	3	SUB
+3	Is	_	VBZ	VBZ	_	0	ROOT
+4	Possible	_	JJ	JJ	_	3	PRD
+5	After	_	IN	IN	_	3	VMOD
+6	Trump	_	NNP	NNP	_	8	NMOD
+7	Ends	_	NNPS	NNPS	_	8	NMOD
+8	Call	_	NNP	NNP	_	5	PMOD
+9	With	_	IN	IN	_	8	NMOD
+10	Prime	_	NNP	NNP	_	11	NMOD
+11	Minister	_	NNP	NNP	_	9	PMOD
+
+*****************************************************
+1	The	_	DT	DT	_	3	NMOD
+2	Super	_	NNP	NNP	_	3	NMOD
+3	Bowl	_	NNP	NNP	_	4	SUB
+4	is	_	VBZ	VBZ	_	0	ROOT
+5	approaching	_	VBG	VBG	_	4	VC
+
+1	Here'	_	NNP	NNP	_	2	SUB
+2	s	_	VBZ	VBZ	_	0	ROOT
+3	what	_	WP	WP	_	2	VMOD
+4	you	_	PRP	PRP	_	5	SUB
+5	need	_	VBP	VBP	_	3	SBAR
+6	to	_	TO	TO	_	7	VMOD
+7	know	_	VB	VB	_	5	VMOD
+
+*****************************************************
+1	Pointlessness	_	NN	NN	_	2	SUB
+2	is	_	VBZ	VBZ	_	0	ROOT
+3	coming	_	VBG	VBG	_	2	VC
+4	to	_	TO	TO	_	5	VMOD
+5	define	_	VB	VB	_	3	VMOD
+6	American	_	JJ	JJ	_	8	NMOD
+7	foreign	_	JJ	JJ	_	8	NMOD
+8	policy	_	NN	NN	_	5	OBJ
+
+1	Mr	_	NNP	NNP	_	2	NMOD
+2	Trump	_	NNP	NNP	_	3	SUB
+3	lacks	_	VBZ	VBZ	_	0	ROOT
+4	an	_	DT	DT	_	6	NMOD
+5	end	_	NN	NN	_	6	NMOD
+6	game	_	NN	NN	_	3	OBJ
+
+*****************************************************
+1	If	_	IN	IN	_	9	VMOD
+2	you	_	PRP	PRP	_	3	SUB
+3	miss	_	VBP	VBP	_	1	SBAR
+4	the	_	DT	DT	_	6	NMOD
+5	glory	_	NN	NN	_	6	NMOD
+6	days	_	NNS	NNS	_	9	SUB
+7	of	_	IN	IN	_	6	NMOD
+8	Homeland	_	NN	NN	_	7	PMOD
+9	try	_	VBP	VBP	_	0	ROOT
+10	the	_	DT	DT	_	13	NMOD
+11	original	_	JJ	JJ	_	13	NMOD
+12	Israeli	_	NNP	NNP	_	13	NMOD
+13	series	_	NN	NN	_	9	OBJ
+14	that	_	WDT	WDT	_	13	NMOD
+15	inspired	_	VBD	VBD	_	14	SBAR
+16	it	_	PRP	PRP	_	15	OBJ
+
+*****************************************************
+1	Surfacing	_	VBG	VBG	_	0	ROOT
+2	Five	_	CD	CD	_	3	NMOD
+3	Places	_	NNS	NNS	_	1	OBJ
+4	to	_	TO	TO	_	5	VMOD
+5	Go	_	VB	VB	_	1	VMOD
+6	in	_	IN	IN	_	5	VMOD
+7	Zurich	_	NNP	NNP	_	6	PMOD
+
+*****************************************************
+1	Why	_	WRB	WRB	_	0	ROOT
+2	the	_	DT	DT	_	4	NMOD
+3	White	_	NNP	NNP	_	4	NMOD
+4	House	_	NNP	NNP	_	5	SUB
+5	seems	_	VBZ	VBZ	_	1	SBAR
+6	a	_	DT	DT	_	8	NMOD
+7	little	_	RB	RB	_	8	AMOD
+8	jealous	_	JJ	JJ	_	5	PRD
+9	of	_	IN	IN	_	8	AMOD
+10	Germany	_	NNP	NNP	_	9	PMOD
+
+*****************************************************
+1	Trump	_	NNP	NNP	_	2	NMOD
+2	nominees	_	NNS	NNS	_	3	SUB
+3	await	_	VBP	VBP	_	0	ROOT
+4	committee	_	NN	NN	_	5	NMOD
+5	votes	_	NNS	NNS	_	3	OBJ
+6	amid	_	IN	IN	_	5	NMOD
+7	Democratic	_	JJ	JJ	_	9	NMOD
+8	protests	_	NNS	NNS	_	9	NMOD
+9	boycotts	_	NNS	NNS	_	6	PMOD
+
+*****************************************************
+1	Trump	_	NNP	NNP	_	2	SUB
+2	implied	_	VBD	VBD	_	0	ROOT
+3	Frederick	_	NNP	NNP	_	4	NMOD
+4	Douglass	_	NNP	NNP	_	5	SUB
+5	was	_	VBD	VBD	_	2	VMOD
+6	alive	_	JJ	JJ	_	5	PRD
+
+1	The	_	DT	DT	_	2	NMOD
+2	abolitionist'	_	NN	NN	_	3	SUB
+3	s	_	VBZ	VBZ	_	0	ROOT
+4	family	_	NN	NN	_	5	SUB
+5	offered	_	VBD	VBD	_	3	VMOD
+6	a	_	DT	DT	_	8	NMOD
+7	history	_	NN	NN	_	8	NMOD
+8	lesson	_	NN	NN	_	5	OBJ
+
+*****************************************************
+1	He	_	PRP	PRP	_	2	SUB
+2	called	_	VBD	VBD	_	0	ROOT
+3	Trump	_	NNP	NNP	_	5	NMOD
+4	a	_	DT	DT	_	5	NMOD
+5	threat	_	NN	NN	_	2	VMOD
+
+1	Now	_	RB	RB	_	3	VMOD
+2	Germany'	_	NNP	NNP	_	3	SUB
+3	s	_	VBZ	VBZ	_	0	ROOT
+4	foreign	_	JJ	JJ	_	5	NMOD
+5	minister	_	NN	NN	_	6	SUB
+6	is	_	VBZ	VBZ	_	3	VMOD
+7	headed	_	VBN	VBN	_	6	VC
+8	to	_	TO	TO	_	9	VMOD
+9	DC	_	VB	VB	_	7	VMOD
+
+*****************************************************
+1	Analysis	_	NNP	NNP	_	2	NMOD
+2	Trump	_	NNP	NNP	_	5	NMOD
+3	draft	_	NN	NN	_	5	NMOD
+4	executive	_	NN	NN	_	5	NMOD
+5	order	_	NN	NN	_	0	ROOT
+6	full	_	JJ	JJ	_	5	NMOD
+7	of	_	IN	IN	_	6	AMOD
+8	sound	_	NN	NN	_	10	NMOD
+9	and	_	CC	CC	_	10	NMOD
+10	fury	_	NN	NN	_	7	PMOD
+11	on	_	IN	IN	_	10	NMOD
+12	immigration	_	NN	NN	_	15	NMOD
+13	welfare	_	NN	NN	_	15	NMOD
+14	and	_	CC	CC	_	15	NMOD
+15	deportation	_	NN	NN	_	11	PMOD
+
+*****************************************************
+1	No	_	DT	DT	_	2	NMOD
+2	joke	_	NN	NN	_	0	ROOT
+3	Colts'	_	NNP	NNP	_	5	NMOD
+4	Pat	_	NNP	NNP	_	5	NMOD
+5	McAfee	_	NNP	NNP	_	6	SUB
+6	retires	_	VBZ	VBZ	_	2	NMOD
+7	from	_	IN	IN	_	6	VMOD
+8	NFL	_	NNP	NNP	_	7	PMOD
+9	to	_	TO	TO	_	10	VMOD
+10	focus	_	VB	VB	_	6	VMOD
+11	on	_	IN	IN	_	10	VMOD
+12	comedy	_	NN	NN	_	11	PMOD
+
+*****************************************************
+1	Anxious	_	JJ	JJ	_	2	NMOD
+2	Indians	_	NNPS	NNPS	_	3	SUB
+3	turn	_	VBP	VBP	_	0	ROOT
+4	to	_	TO	TO	_	5	VMOD
+5	astrologers	_	VB	VB	_	3	VMOD
+6	for	_	IN	IN	_	5	VMOD
+7	insight	_	NNP	NNP	_	6	PMOD
+8	into	_	IN	IN	_	5	VMOD
+9	future	_	NN	NN	_	8	PMOD
+10	under	_	IN	IN	_	5	VMOD
+11	Trump	_	NNP	NNP	_	10	PMOD
+
+*****************************************************
+1	Dear	_	NNP	NNP	_	4	NMOD
+2	Mr	_	NNP	NNP	_	4	NMOD
+3	President	_	NNP	NNP	_	4	NMOD
+4	This	_	NNP	NNP	_	5	SUB
+5	is	_	VBZ	VBZ	_	0	ROOT
+6	how	_	WRB	WRB	_	5	PRD
+7	federal	_	JJ	JJ	_	6	AMOD
+8	funding	_	NN	NN	_	6	AMOD
+9	to	_	TO	TO	_	8	NMOD
+10	universities	_	NNS	NNS	_	11	NMOD
+11	works	_	NNS	NNS	_	9	PMOD
+
+*****************************************************
+1	John	_	NNP	NNP	_	3	NMOD
+2	Kent	_	NNP	NNP	_	3	NMOD
+3	Cooke	_	NNP	NNP	_	6	SUB
+4	didn'	_	RB	RB	_	6	VMOD
+5	t	_	RB	RB	_	6	VMOD
+6	get	_	VB	VB	_	0	ROOT
+7	his	_	PRP$	PRP$	_	8	NMOD
+8	father'	_	NN	NN	_	10	NMOD
+9	s	_	PRP	PRP	_	10	NMOD
+10	Redskins	_	NNP	NNP	_	6	OBJ
+
+1	He	_	PRP	PRP	_	2	SUB
+2	got	_	VBD	VBD	_	0	ROOT
+3	something	_	NN	NN	_	2	OBJ
+4	better	_	JJR	JJR	_	3	NMOD
+
+*****************************************************
+1	A	_	DT	DT	_	2	NMOD
+2	pastor	_	NN	NN	_	3	SUB
+3	wrote	_	VBD	VBD	_	0	ROOT
+4	a	_	DT	DT	_	5	NMOD
+5	book	_	NN	NN	_	3	OBJ
+6	about	_	IN	IN	_	5	NMOD
+7	being	_	VBG	VBG	_	6	PMOD
+8	a	_	DT	DT	_	10	NMOD
+9	better	_	JJR	JJR	_	10	NMOD
+10	man	_	NN	NN	_	7	PRD
+
+1	Weeks	_	NNS	NNS	_	2	AMOD
+2	later	_	RB	RB	_	4	VMOD
+3	he	_	PRP	PRP	_	4	SUB
+4	was	_	VBD	VBD	_	0	ROOT
+5	caught	_	VBN	VBN	_	4	VC
+6	naked	_	JJ	JJ	_	5	VMOD
+7	in	_	IN	IN	_	5	VMOD
+8	an	_	DT	DT	_	9	NMOD
+9	affair	_	NN	NN	_	7	PMOD
+
+*****************************************************
+1	Trump'	_	NNP	NNP	_	2	SUB
+2	s	_	VBZ	VBZ	_	0	ROOT
+3	vaccine	_	NN	NN	_	4	NMOD
+4	views	_	NNS	NNS	_	2	OBJ
+5	at	_	IN	IN	_	2	VMOD
+6	odds	_	NNS	NNS	_	5	PMOD
+7	with	_	IN	IN	_	6	NMOD
+8	those	_	DT	DT	_	7	PMOD
+9	of	_	IN	IN	_	8	NMOD
+10	most	_	JJS	JJS	_	11	NMOD
+11	Americans	_	NNPS	NNPS	_	9	PMOD
+12	study	_	NN	NN	_	13	SUB
+13	says	_	VBZ	VBZ	_	8	NMOD
+
+*****************************************************

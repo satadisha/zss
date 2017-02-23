@@ -10,6 +10,18 @@ import re
 import string
 import zss
 
+list1_to_compare=[]
+list2_to_compare=[]
+
+
+def index_2d(myList, v):
+    result=[]
+    for i, x in enumerate(myList):
+        if v in x:
+            result.append(i)
+            result.append(x.index(v))
+            return result
+
 def insert_cost(A):
     #print("inserting "+A.my_label)
     cost=3
@@ -20,11 +32,45 @@ def remove_cost(A):
     cost=3
     return cost
 
+def shallow_match_parent(A,B):
+    if(len(list1_to_compare)>0 & len(list2_to_compare)>0):
+        index_A= index_2d(list1_to_compare, A)
+        index_B= index_2d(list2_to_compare, B)
+        parent_index_A_i=index_A[0]
+        parent_index_A_j=int(A.parentID)
+        parent_index_B_i=index_B[0]
+        parent_index_B_j=int(B.parentID)
+        parent_A=list1_to_compare[parent_index_A_i][parent_index_A_j]
+        parent_B=list2_to_compare[parent_index_B_i][parent_index_B_j]
+        if(parent_A.form==parent_B.form):
+            return True
+        else:
+            return False
+    else:
+           return False
+   
+def match_parent(A,B):
+    if(len(list1_to_compare)>0 & len(list2_to_compare)>0):
+        index_A= index_2d(list1_to_compare, A)
+        index_B= index_2d(list2_to_compare, B)
+        parent_index_A_i=index_A[0]
+        parent_index_A_j=int(A.parentID)
+        parent_index_B_i=index_B[0]
+        parent_index_B_j=int(B.parentID)
+        parent_A=list1_to_compare[parent_index_A_i][parent_index_A_j]
+        parent_B=list2_to_compare[parent_index_B_i][parent_index_B_j]
+        if((parent_A.form==parent_B.form) & shallow_match_parent(parent_A,parent_B)):
+            return True
+        else:
+            return False
+    else:
+        return False
+
 def update_cost(A,B):
     incost=0
     if(A.upostag!=B.upostag):
         incost+=1
-    if(A.parentID!=B.parentID):
+    if(match_parent(A,B)):
         incost+=1
     if(A.form==B.form):
         cost=incost
@@ -36,6 +82,7 @@ def update_cost(A,B):
 extract_holder=[]
 
 def lookup(postag):
+    rplc=""
     if(postag=="NN" or postag=="NNS"):
         rplc="N"
     if(postag=="PRP" or postag=="WP"):
@@ -77,28 +124,80 @@ def lookup(postag):
 
 
 sentence_holder=[]
-files_to_open=["output3.txt","test.predict"]
+files_to_open=["stanford_processed_input.txt","test.predict"]
 c=0
+pos_holder={}
+holder_pos_holder=[]
+
 for file in files_to_open:
     line_holders=[]
     with open(file,encoding="utf-8") as f:
         hold=f.read()
-        trees=hold.split("\n\n")
+        if(file=="stanford_processed_input.txt"):
+
+            trees=hold.split("\n***********************************************************\n")
+        else:
+            trees=hold.split("\n\n")
+
         #print("+++"+str(len(trees)))
         for tree in trees:
             line_holders.append(tree.split("\n"))
+            #print(tree)
+
+        for tree in line_holders:
+
+            for sentence_to_remove in list(tree):
+                if(sentence_to_remove==""):
+                    #print("hello")
+                    tree.remove(sentence_to_remove)
+
+           #print(tree)
+        
+
 
 
         for tree in line_holders:
-            
+            pos_holder.clear()
+            biggest_id="0"
+            prev_id="0"
+            offset_id=""
+            #print(tree)
+
+            # for sentence_to_remove in list(tree):
+            #     print(sentence_to_remove)
+            #     if(sentence_to_remove==""):
+            #         print("hello")
+            #         tree.remove(sentence_to_remove)
             for sentence in tree:
                 b=sentence.split("\t")
                 rplc=""
+                #print(sentence)
                 if(file=="test.predict"):
                     sentence_holder.append(Tree(b[0],b[1],b[2],b[3],b[4],b[5],b[6],b[7]))
+
                 else:
-                    rplc=lookup(b[3])
-                    sentence_holder.append(Tree(b[0],b[1],b[2],rplc,rplc,b[5],b[6],b[7]))
+                    if(int(b[0])>int(biggest_id)):
+                        #print(str(pos_holder.get(b[0],None)))
+                        #print(b[0]+" "+b[1])
+                        rplc=lookup(b[3])
+                        biggest_id=b[0]
+                        offset_id=b[0]
+                        sentence_holder.append(Tree(b[0],b[1],b[2],rplc,rplc,b[5],b[6],b[7]))
+                    else:
+                        #print(str(int(biggest_id)+1)+ " "+b[1])
+                        if(b[6]!="0"):
+
+                            rplc=lookup(b[3])
+                            sentence_holder.append(Tree(str(int(biggest_id)+1),b[1],b[2],rplc,rplc,b[5],str(int(b[6])+int(offset_id)),b[7]))   
+                            biggest_id=str(int(biggest_id)+1)
+                        else:
+                            b[6]="-0"
+                            sentence_holder.append(Tree(str(int(biggest_id)+1),b[1],b[2],rplc,rplc,b[5],b[6],b[7]))
+                            biggest_id=str(int(biggest_id)+1) 
+                              
+       
+
+            holder_pos_holder.append(deepcopy(pos_holder))
 
             #print(sentence_holder)
             extract_holder.append(deepcopy(sentence_holder))                           
@@ -107,14 +206,14 @@ for file in files_to_open:
     if(c==0):
         list1_to_compare=deepcopy(extract_holder)
         extract_holder.clear()
-       # print(len(list1_to_compare))
-      #  print(len(extract_holder))
+        #print(len(list1_to_compare))
+        #print(len(extract_holder))
        # print("-")
 
     if(c==1):
         list2_to_compare=deepcopy(extract_holder)
         extract_holder.clear()
-      ##  print(len(list2_to_compare))
+        #print(len(list2_to_compare))
       #  print(len(extract_holder))
     #print(c)
 
@@ -142,9 +241,12 @@ for file in files_to_open:
 
 
 
-
     c+=1
 ## end of iterations.
+for tree in list1_to_compare:
+    for node in tree:
+            print(node.form +" "+ node.wordID)
+    print("\n")
     
 root1=None
 root2=None
@@ -152,8 +254,6 @@ dummy_form="Dummy"
 dummy_parent="999"
 dummy_id=0
 file_to_write=open('tree_outputs.txt', 'w',encoding="utf-8")
-input_tweets=open('tweet_origin_names','r',encoding="utf-8")
-tweets=tweets.split("\n")
 
 
 
@@ -165,14 +265,17 @@ for i in range(len(list1_to_compare)):
         if(list1_to_compare[i][j].parentID=="0"):
             root1=list1_to_compare[i][j]
             dummy1.add_child(root1)
+        if(list1_to_compare[i][j].parentID=="-0"):
+            dummy1.add_child(list1_to_compare[i][j])       
            # (RenderTree(dummy1))
     for j in range(len(list2_to_compare[i])):
         if(list2_to_compare[i][j].parentID=="0"):
             root2=list2_to_compare[i][j]
             dummy2.add_child(root2)
+    print("Stanford Tree:")
+    print(RenderTree(dummy1))
 
-    files_to_write.write("Tweet Text \n")
-    files_to_write.write(tweets[i])
+    print(RenderTree(dummy2))
     file_to_write.write("Tree for normal parser.\n")
     file_to_write.write(str(RenderTree(dummy1))+"\n")
     file_to_write.write("Tree for tweet parser.\n")
@@ -180,6 +283,7 @@ for i in range(len(list1_to_compare)):
 
     if(root1 and root2):
         dist = zss.distance(dummy1, dummy2, Tree.get_children, insert_cost, remove_cost, update_cost)
+        print(" Distance is "+str(dist))
         file_to_write.write("Distance is "+str(dist)+"\n")
         file_to_write.write("*****************************************************"+"\n")
         

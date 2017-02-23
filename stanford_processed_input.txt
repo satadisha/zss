@@ -1,0 +1,1620 @@
+1	New	_	^	^	_	2	compound	_	_
+2	U.K.	_	^	^	_	3	nsubj	_	_
+3	free	_	V	V	_	0	root	_	_
+4	trade	_	N	N	_	5	compound	_	_
+5	agreements	_	N	N	_	12	nsubj	_	_
+6	with	_	P	P	_	9	case	_	_
+7	non-European	_	A	A	_	9	amod	_	_
+8	Union	_	^	^	_	9	compound	_	_
+9	nations	_	N	N	_	5	nmod	_	_
+10	won't	_	V	V	_	12	aux	_	_
+12	offset	_	V	V	_	3	ccomp	_	_
+13	the	_	D	D	_	14	det	_	_
+14	impact	_	N	N	_	12	dobj	_	_
+15	of	_	P	P	_	16	mark	_	_
+16	leaving	_	V	V	_	14	acl	_	_
+17	the	_	D	D	_	18	det	_	_
+18	EU	_	N	N	_	16	dobj	_	_
+
+***********************************************************
+2	Bloomberg	_	^	^	_	3	compound	_	_
+3	LP	_	^	^	_	5	nsubj	_	_
+4	is	_	V	V	_	5	cop	_	_
+5	proud	_	A	A	_	0	root	_	_
+6	to	_	P	P	_	7	mark	_	_
+7	celebrate	_	V	V	_	5	xcomp	_	_
+8	Black	_	^	^	_	10	compound	_	_
+9	History	_	^	^	_	10	compound	_	_
+10	Month	_	^	^	_	7	nmod:tmod	_	_
+1	Read	_	V	V	_	0	root	_	_
+2	about	_	P	P	_	4	case	_	_
+3	the	_	D	D	_	4	det	_	_
+4	story	_	N	N	_	1	nmod	_	_
+5	behind	_	P	P	_	7	case	_	_
+6	the	_	D	D	_	7	det	_	_
+7	image	_	N	N	_	4	nmod	_	_
+8	below	_	P	P	_	7	amod	_	_
+
+***********************************************************
+1	Leaders	_	N	N	_	2	nsubj	_	_
+2	suggest	_	V	V	_	0	root	_	_
+3	that	_	P	P	_	8	mark	_	_
+4	talent	_	N	N	_	5	compound	_	_
+5	shortage	_	N	N	_	8	nsubj	_	_
+6	is	_	V	V	_	8	cop	_	_
+7	a	_	D	D	_	8	det	_	_
+8	myth	_	N	N	_	2	ccomp	_	_
+9	due	_	A	A	_	8	amod	_	_
+10	to	_	P	P	_	12	case	_	_
+11	the	_	D	D	_	12	det	_	_
+12	influence	_	N	N	_	9	nmod	_	_
+13	of	_	P	P	_	16	case	_	_
+14	our	_	D	D	_	16	nmod:poss	_	_
+15	unconscious	_	A	A	_	16	amod	_	_
+16	biases	_	N	N	_	12	nmod	_	_
+
+***********************************************************
+1	Turkey	_	^	^	_	2	nsubj	_	_
+2	says	_	V	V	_	0	root	_	_
+3	more	_	A	A	_	4	amod	_	_
+4	tightening	_	N	N	_	8	nsubj	_	_
+5	possible	_	A	A	_	8	dep	_	_
+6	as	_	P	P	_	8	mark	_	_
+7	inflation	_	N	N	_	8	nsubj	_	_
+8	surges	_	V	V	_	2	xcomp	_	_
+
+***********************************************************
+1	Ghost	_	N	N	_	5	nsubj	_	_
+2	of	_	P	P	_	3	case	_	_
+3	1990s	_	$	$	_	1	nmod	_	_
+4	is	_	V	V	_	5	aux	_	_
+5	haunting	_	V	V	_	0	root	_	_
+6	dollar	_	N	N	_	5	dobj	_	_
+7	and	_	&	&	_	5	cc	_	_
+8	slowing	_	V	V	_	5	conj	_	_
+9	further	_	A	A	_	10	amod	_	_
+10	gains	_	N	N	_	8	dobj	_	_
+
+***********************************************************
+1	Latin	_	^	^	_	2	compound	_	_
+2	America	_	^	^	_	3	nsubj	_	_
+3	abandons	_	V	V	_	0	root	_	_
+4	fuel	_	N	N	_	5	compound	_	_
+5	subsidies	_	N	N	_	3	dobj	_	_
+6	in	_	P	P	_	7	case	_	_
+7	shift	_	N	N	_	5	nmod	_	_
+8	to	_	P	P	_	9	case	_	_
+9	austerity	_	N	N	_	3	nmod	_	_
+
+***********************************************************
+1	What	_	O	O	_	4	dobj	_	_
+2	are	_	V	V	_	4	aux	_	_
+3	employees	_	N	N	_	4	nsubj	_	_
+4	expecting	_	V	V	_	0	root	_	_
+5	in	_	P	P	_	7	case	_	_
+6	the	_	D	D	_	7	det	_	_
+7	workplace	_	N	N	_	4	nmod	_	_
+8	in	_	P	P	_	9	case	_	_
+9	2017	_	$	$	_	7	nmod	_	_
+1	Five	_	$	$	_	2	nummod	_	_
+2	trends	_	N	N	_	0	root	_	_
+3	companies	_	N	N	_	6	nsubj	_	_
+4	should	_	V	V	_	6	aux	_	_
+5	be	_	V	V	_	6	cop	_	_
+6	mindful	_	A	A	_	2	acl:relcl	_	_
+7	of	_	P	P	_	6	nmod	_	_
+
+***********************************************************
+1	Our	_	D	D	_	2	nmod:poss	_	_
+2	employees	_	N	N	_	3	nsubj	_	_
+3	amplify	_	V	V	_	0	root	_	_
+4	the	_	D	D	_	5	det	_	_
+5	legacy	_	N	N	_	3	dobj	_	_
+6	of	_	P	P	_	7	case	_	_
+7	generosity	_	N	N	_	5	nmod	_	_
+8	and	_	&	&	_	7	cc	_	_
+9	compassion	_	N	N	_	7	conj	_	_
+10	that	_	D	D	_	12	nsubjpass	_	_
+11	is	_	V	V	_	12	auxpass	_	_
+12	engrained	_	V	V	_	5	acl:relcl	_	_
+13	in	_	P	P	_	16	case	_	_
+14	the	_	D	D	_	16	det	_	_
+15	Bloomberg	_	^	^	_	16	compound	_	_
+16	culture	_	N	N	_	12	nmod	_	_
+
+***********************************************************
+1	Russian	_	A	A	_	2	amod	_	_
+2	consumer	_	N	N	_	0	root	_	_
+3	demand	_	N	N	_	14	nsubj	_	_
+5	which	_	D	D	_	6	nsubj	_	_
+6	came	_	V	V	_	3	acl:relcl	_	_
+7	undone	_	V	V	_	6	dep	_	_
+8	quickly	_	R	R	_	7	advmod	_	_
+9	during	_	P	P	_	11	case	_	_
+10	a	_	D	D	_	11	det	_	_
+11	recession	_	N	N	_	7	nmod	_	_
+13	will	_	V	V	_	14	aux	_	_
+14	take	_	V	V	_	2	acl:relcl	_	_
+15	time	_	N	N	_	14	dobj	_	_
+16	to	_	P	P	_	17	mark	_	_
+17	put	_	V	V	_	14	advcl	_	_
+18	together	_	R	R	_	17	advmod	_	_
+19	again	_	R	R	_	17	advmod	_	_
+
+***********************************************************
+1	Iron	_	^	^	_	2	compound	_	_
+2	ore	_	^	^	_	3	nsubj	_	_
+3	extends	_	V	V	_	0	root	_	_
+4	new-year	_	A	A	_	5	amod	_	_
+5	ascent	_	N	N	_	3	dobj	_	_
+6	as	_	P	P	_	9	mark	_	_
+7	slump	_	N	N	_	8	compound	_	_
+8	warnings	_	N	N	_	9	nsubj	_	_
+9	intensify	_	V	V	_	3	dep	_	_
+
+***********************************************************
+1	Business	_	^	^	_	2	compound	_	_
+2	growth	_	N	N	_	3	nsubj	_	_
+3	comes	_	V	V	_	0	root	_	_
+4	from	_	P	P	_	6	case	_	_
+5	multiple	_	A	A	_	6	amod	_	_
+6	directions	_	N	N	_	3	nmod	_	_
+8	including	_	V	V	_	9	case	_	_
+9	people	_	N	N	_	3	nmod	_	_
+
+***********************************************************
+1	To	_	P	P	_	2	mark	_	_
+2	get	_	V	V	_	11	advcl	_	_
+3	the	_	D	D	_	4	det	_	_
+4	best	_	A	A	_	2	dobj	_	_
+5	from	_	P	P	_	7	case	_	_
+6	millennial	_	A	A	_	7	amod	_	_
+7	employees	_	N	N	_	2	nmod	_	_
+9	managers	_	N	N	_	11	nsubj	_	_
+10	must	_	V	V	_	11	aux	_	_
+11	understand	_	V	V	_	0	root	_	_
+12	their	_	D	D	_	13	nmod:poss	_	_
+13	motivations	_	N	N	_	11	dobj	_	_
+14	and	_	&	&	_	11	cc	_	_
+15	adapt	_	V	V	_	11	conj	_	_
+16	accordingly	_	R	R	_	15	advmod	_	_
+
+***********************************************************
+1	Philippine	_	A	A	_	2	amod	_	_
+2	peso	_	N	N	_	0	root	_	_
+3	rated	_	V	V	_	2	acl	_	_
+4	Asia's	_	Z	^	_	8	nmod:poss	_	_
+6	most	_	R	R	_	7	advmod	_	_
+7	resilient	_	A	A	_	8	amod	_	_
+8	currency	_	N	N	_	3	dobj	_	_
+9	for	_	P	P	_	10	case	_	_
+10	2017	_	$	$	_	8	nmod	_	_
+
+***********************************************************
+1	It	_	O	O	_	6	nsubj	_	_
+2	hasn't	_	V	V	_	6	aux	_	_
+4	been	_	V	V	_	6	cop	_	_
+5	this	_	R	R	_	6	advmod	_	_
+6	safe	_	A	A	_	0	root	_	_
+7	to	_	P	P	_	8	mark	_	_
+8	own	_	V	V	_	6	xcomp	_	_
+9	emerging	_	V	V	_	11	amod	_	_
+10	market	_	N	N	_	11	compound	_	_
+11	bonds	_	N	N	_	8	dobj	_	_
+12	for	_	P	P	_	14	case	_	_
+13	a	_	D	D	_	14	det	_	_
+14	couple	_	N	N	_	11	nmod	_	_
+15	of	_	P	P	_	16	case	_	_
+16	years	_	N	N	_	14	nmod	_	_
+1	Or	_	&	&	_	2	cc	_	_
+2	has	_	V	V	_	0	root	_	_
+3	it	_	O	O	_	2	dobj	_	_
+
+***********************************************************
+1	Kuwaiti	_	^	^	_	2	compound	_	_
+2	stocks	_	N	N	_	4	nsubj	_	_
+3	have	_	V	V	_	4	aux	_	_
+4	started	_	V	V	_	0	root	_	_
+5	the	_	D	D	_	6	det	_	_
+6	year	_	N	N	_	4	nmod:tmod	_	_
+7	with	_	P	P	_	9	case	_	_
+8	a	_	D	D	_	9	det	_	_
+9	charge	_	N	N	_	4	nmod	_	_
+
+***********************************************************
+1	The	_	D	D	_	7	det	_	_
+2	2017	_	^	^	_	7	compound	_	_
+3	Bloomberg	_	^	^	_	7	compound	_	_
+4	Financial	_	^	^	_	7	compound	_	_
+5	Services	_	^	^	_	7	compound	_	_
+6	Gender-Equality	_	^	^	_	7	compound	_	_
+7	Index	_	^	^	_	10	nsubjpass	_	_
+8	has	_	V	V	_	10	aux	_	_
+9	been	_	V	V	_	10	auxpass	_	_
+10	announced	_	V	V	_	0	root	_	_
+
+***********************************************************
+1	Future	_	^	^	_	0	root	_	_
+2	of	_	P	P	_	3	case	_	_
+3	manufacturing	_	N	N	_	1	nmod	_	_
+4	in	_	P	P	_	6	case	_	_
+5	the	_	D	D	_	6	det	_	_
+6	brain	_	N	N	_	3	nmod	_	_
+8	not	_	R	R	_	9	neg	_	_
+9	hands	_	N	N	_	6	appos	_	_
+
+***********************************************************
+1	Neurodiversity	_	R	R	_	4	advmod	_	_
+2	is	_	V	V	_	4	cop	_	_
+3	an	_	D	D	_	4	det	_	_
+4	area	_	N	N	_	0	root	_	_
+5	that	_	P	P	_	8	mark	_	_
+6	organizations	_	N	N	_	8	nsubj	_	_
+7	are	_	V	V	_	8	aux	_	_
+8	beginning	_	V	V	_	4	dep	_	_
+9	to	_	P	P	_	10	mark	_	_
+10	take	_	V	V	_	8	xcomp	_	_
+11	seriously	_	R	R	_	10	advmod	_	_
+
+***********************************************************
+1	Automated	_	V	V	_	2	amod	_	_
+2	traders	_	N	N	_	3	nsubj	_	_
+3	take	_	V	V	_	0	root	_	_
+4	over	_	P	P	_	5	case	_	_
+5	Bitcoin	_	^	^	_	3	nmod	_	_
+6	as	_	P	P	_	9	case	_	_
+7	easy	_	A	A	_	9	amod	_	_
+8	money	_	N	N	_	9	compound	_	_
+9	beckons	_	N	N	_	3	nmod	_	_
+
+***********************************************************
+1	How	_	R	R	_	6	advmod	_	_
+2	can	_	V	V	_	6	aux	_	_
+3	traditional	_	A	A	_	5	amod	_	_
+4	news	_	N	N	_	5	compound	_	_
+5	outlets	_	N	N	_	6	nsubj	_	_
+6	ensure	_	V	V	_	0	root	_	_
+7	reporting	_	N	N	_	9	nsubj	_	_
+8	is	_	V	V	_	9	cop	_	_
+9	accurate	_	A	A	_	6	ccomp	_	_
+10	and	_	&	&	_	9	cc	_	_
+11	reflects	_	V	V	_	9	conj	_	_
+12	diverse	_	A	A	_	13	amod	_	_
+13	perspectives	_	N	N	_	11	dobj	_	_
+
+***********************************************************
+1	Strengthening	_	V	V	_	0	root	_	_
+2	and	_	&	&	_	1	cc	_	_
+3	enriching	_	V	V	_	1	conj	_	_
+4	our	_	D	D	_	5	nmod:poss	_	_
+5	communities	_	N	N	_	1	dobj	_	_
+6	is	_	V	V	_	7	cop	_	_
+7	one	_	$	$	_	5	acl:relcl	_	_
+8	of	_	P	P	_	11	case	_	_
+9	the	_	D	D	_	11	det	_	_
+10	core	_	A	A	_	11	amod	_	_
+11	principles	_	N	N	_	7	nmod	_	_
+12	at	_	P	P	_	13	case	_	_
+13	Bloomberg	_	^	^	_	11	nmod	_	_
+
+***********************************************************
+1	Why	_	A	A	_	3	amod	_	_
+2	global	_	A	A	_	3	amod	_	_
+3	markets	_	N	N	_	5	nsubj	_	_
+4	are	_	V	V	_	5	aux	_	_
+5	resisting	_	V	V	_	0	root	_	_
+6	the	_	D	D	_	7	det	_	_
+7	bears	_	N	N	_	5	dobj	_	_
+
+***********************************************************
+1	The	_	D	D	_	2	det	_	_
+2	challenges	_	N	N	_	9	nsubj	_	_
+3	millennial	_	A	A	_	4	amod	_	_
+4	women	_	N	N	_	5	nsubj	_	_
+5	face	_	V	V	_	2	acl:relcl	_	_
+6	in	_	P	P	_	8	case	_	_
+7	the	_	D	D	_	8	det	_	_
+8	workplace	_	N	N	_	5	nmod	_	_
+9	extends	_	V	V	_	0	root	_	_
+10	far	_	R	R	_	9	advmod	_	_
+11	beyond	_	P	P	_	13	case	_	_
+12	pay	_	N	N	_	13	compound	_	_
+13	differences	_	N	N	_	10	nmod	_	_
+
+***********************************************************
+1	FTSE	_	^	^	_	3	compound	_	_
+2	100	_	$	$	_	3	nummod	_	_
+3	Index	_	^	^	_	4	nsubj	_	_
+4	closed	_	V	V	_	0	root	_	_
+5	at	_	P	P	_	6	case	_	_
+6	record	_	N	N	_	4	nmod	_	_
+7	each	_	D	D	_	8	det	_	_
+8	day	_	N	N	_	4	nmod:tmod	_	_
+9	since	_	P	P	_	12	mark	_	_
+10	UK	_	^	^	_	11	compound	_	_
+11	markets	_	N	N	_	12	nsubj	_	_
+12	reopened	_	V	V	_	4	advcl	_	_
+13	post-Christmas	_	N	N	_	12	dobj	_	_
+15	a	_	D	D	_	16	det	_	_
+16	feat	_	N	N	_	13	appos	_	_
+17	achieved	_	V	V	_	16	acl	_	_
+18	only	_	R	R	_	20	advmod	_	_
+19	once	_	R	R	_	20	advmod	_	_
+20	before	_	R	R	_	17	advmod	_	_
+
+***********************************************************
+1	Asia's	_	Z	^	_	4	nmod:poss	_	_
+3	financial	_	A	A	_	4	amod	_	_
+4	industry	_	N	N	_	6	nsubj	_	_
+5	is	_	V	V	_	6	aux	_	_
+6	lining	_	V	V	_	0	root	_	_
+7	up	_	R	R	_	6	compound:prt	_	_
+8	behind	_	P	P	_	9	case	_	_
+9	Blockchain	_	^	^	_	6	nmod	_	_
+
+***********************************************************
+1	Everyday	_	A	A	_	2	amod	_	_
+2	activities	_	N	N	_	7	nsubj	_	_
+3	in	_	P	P	_	5	case	_	_
+4	the	_	D	D	_	5	det	_	_
+5	workplace	_	N	N	_	2	nmod	_	_
+6	can	_	V	V	_	7	aux	_	_
+7	make	_	V	V	_	0	root	_	_
+8	an	_	D	D	_	9	det	_	_
+9	impact	_	N	N	_	7	dobj	_	_
+1	Some	_	D	D	_	3	det	_	_
+2	simple	_	A	A	_	3	amod	_	_
+3	things	_	N	N	_	5	nsubj	_	_
+4	to	_	P	P	_	5	mark	_	_
+5	embrace	_	V	V	_	0	root	_	_
+6	diversity	_	N	N	_	5	dobj	_	_
+7	and	_	&	&	_	6	cc	_	_
+8	inclusion	_	N	N	_	6	conj	_	_
+
+***********************************************************
+1	The	_	D	D	_	4	det	_	_
+2	three-decade	_	A	A	_	4	amod	_	_
+3	bull	_	N	N	_	4	compound	_	_
+4	market	_	N	N	_	7	nsubj	_	_
+5	for	_	P	P	_	6	case	_	_
+6	bonds	_	N	N	_	4	nmod	_	_
+7	shows	_	V	V	_	0	root	_	_
+8	signs	_	N	N	_	7	dobj	_	_
+9	of	_	P	P	_	10	mark	_	_
+10	running	_	V	V	_	8	acl	_	_
+11	out	_	R	R	_	10	compound:prt	_	_
+12	of	_	P	P	_	13	case	_	_
+13	steam	_	N	N	_	10	nmod	_	_
+
+***********************************************************
+1	Solar	_	^	^	_	3	nsubj	_	_
+2	could	_	V	V	_	3	aux	_	_
+3	beat	_	V	V	_	0	root	_	_
+4	coal	_	N	N	_	3	dobj	_	_
+5	to	_	P	P	_	9	mark	_	_
+6	be	_	V	V	_	9	cop	_	_
+7	the	_	D	D	_	9	det	_	_
+8	cheapest	_	A	A	_	9	amod	_	_
+9	power	_	N	N	_	3	advcl	_	_
+10	on	_	P	P	_	11	case	_	_
+11	Earth	_	^	^	_	9	nmod	_	_
+
+***********************************************************
+1	As	_	P	P	_	3	mark	_	_
+2	2016	_	$	$	_	3	nsubj	_	_
+3	closes	_	V	V	_	10	advcl	_	_
+4	out	_	R	R	_	3	compound:prt	_	_
+6	here	_	R	R	_	10	advmod	_	_
+7	are	_	V	V	_	10	cop	_	_
+8	the	_	D	D	_	10	det	_	_
+9	notable	_	A	A	_	10	amod	_	_
+10	diversity	_	N	N	_	0	root	_	_
+11	and	_	&	&	_	10	cc	_	_
+12	inclusion	_	N	N	_	13	compound	_	_
+13	trends	_	N	N	_	10	conj	_	_
+14	we	_	O	O	_	15	nsubj	_	_
+15	observed	_	V	V	_	10	acl:relcl	_	_
+16	this	_	D	D	_	17	det	_	_
+17	year	_	N	N	_	15	nmod:tmod	_	_
+
+***********************************************************
+1	Strategists	_	N	N	_	2	nsubj	_	_
+2	predict	_	V	V	_	0	root	_	_
+3	growth	_	N	N	_	2	dobj	_	_
+4	in	_	P	P	_	6	case	_	_
+5	Asian	_	A	A	_	6	amod	_	_
+6	markets	_	N	N	_	2	nmod	_	_
+7	for	_	P	P	_	8	case	_	_
+8	2017	_	$	$	_	6	nmod	_	_
+
+***********************************************************
+1	Historic	_	A	A	_	3	amod	_	_
+2	Saudi	_	A	A	_	3	amod	_	_
+3	budget	_	N	N	_	4	nsubj	_	_
+4	shows	_	V	V	_	0	root	_	_
+5	effort	_	N	N	_	4	dobj	_	_
+6	to	_	P	P	_	7	mark	_	_
+7	win	_	V	V	_	4	advcl	_	_
+8	support	_	N	N	_	7	dobj	_	_
+9	for	_	P	P	_	10	case	_	_
+10	change	_	N	N	_	7	nmod	_	_
+
+***********************************************************
+1	Eastern	_	A	A	_	2	amod	_	_
+2	promise	_	N	N	_	0	root	_	_
+4	The	_	D	D	_	5	det	_	_
+5	rise	_	N	N	_	2	dep	_	_
+6	of	_	P	P	_	8	case	_	_
+7	family	_	N	N	_	8	compound	_	_
+8	offices	_	N	N	_	5	nmod	_	_
+9	in	_	P	P	_	12	case	_	_
+10	the	_	D	D	_	12	det	_	_
+11	Middle	_	^	^	_	12	compound	_	_
+12	East	_	^	^	_	2	nmod	_	_
+13	and	_	&	&	_	12	cc	_	_
+14	Southeast	_	^	^	_	15	compound	_	_
+15	Asia	_	^	^	_	12	conj	_	_
+
+***********************************************************
+1	Asset	_	^	^	_	2	compound	_	_
+2	managers	_	N	N	_	4	nsubj	_	_
+3	have	_	V	V	_	4	aux	_	_
+4	seen	_	V	V	_	0	root	_	_
+5	onboarding	_	N	N	_	8	compound	_	_
+6	and	_	&	&	_	5	cc	_	_
+7	system	_	N	N	_	5	conj	_	_
+8	costs	_	N	N	_	9	nsubj	_	_
+9	increase	_	V	V	_	4	ccomp	_	_
+11	and	_	&	&	_	4	cc	_	_
+12	onboarding	_	V	V	_	13	amod	_	_
+13	times	_	N	N	_	16	nsubj	_	_
+14	have	_	V	V	_	16	aux	_	_
+15	also	_	R	R	_	16	advmod	_	_
+16	lengthened	_	V	V	_	4	conj	_	_
+
+***********************************************************
+1	Happy	_	A	A	_	2	amod	_	_
+2	Holidays	_	N	N	_	0	root	_	_
+3	from	_	P	P	_	5	case	_	_
+4	Bloomberg	_	^	^	_	5	compound	_	_
+5	LP	_	^	^	_	2	nmod	_	_
+
+***********************************************************
+1	When	_	R	R	_	2	advmod	_	_
+2	looking	_	V	V	_	14	advcl	_	_
+3	for	_	P	P	_	4	case	_	_
+4	ways	_	N	N	_	2	nmod	_	_
+5	to	_	P	P	_	6	mark	_	_
+6	find	_	V	V	_	2	xcomp	_	_
+7	and	_	&	&	_	6	cc	_	_
+8	keep	_	V	V	_	6	conj	_	_
+9	young	_	A	A	_	10	amod	_	_
+10	employees	_	N	N	_	6	dobj	_	_
+12	don't	_	V	V	_	14	aux	_	_
+14	assume	_	V	V	_	0	root	_	_
+15	there	_	X	X	_	16	expl	_	_
+16	is	_	V	V	_	14	ccomp	_	_
+17	a	_	D	D	_	20	det	_	_
+19	one	_	N	N	_	20	compound	_	_
+20	size	_	N	N	_	16	nsubj	_	_
+21	fits	_	V	V	_	20	acl:relcl	_	_
+22	all	_	D	D	_	21	dobj	_	_
+24	approach	_	V	V	_	22	acl:relcl	_	_
+
+***********************************************************
+1	Philippines	_	^	^	_	2	nsubj	_	_
+2	mulling	_	V	V	_	0	root	_	_
+3	Bitcoin	_	A	A	_	4	amod	_	_
+4	regulation	_	N	N	_	2	dobj	_	_
+5	as	_	P	P	_	8	mark	_	_
+6	remittance	_	A	A	_	7	amod	_	_
+7	use	_	N	N	_	8	nsubj	_	_
+8	surges	_	V	V	_	2	advcl	_	_
+
+***********************************************************
+1	Boring	_	V	V	_	5	amod	_	_
+2	Wall	_	^	^	_	5	compound	_	_
+3	Street	_	^	^	_	5	compound	_	_
+4	analyst	_	N	N	_	5	compound	_	_
+5	notes	_	N	N	_	7	nsubj	_	_
+6	are	_	V	V	_	7	cop	_	_
+7	out	_	R	R	_	0	root	_	_
+1	Bold	_	R	R	_	5	advmod	_	_
+3	funny	_	A	A	_	5	nsubj	_	_
+4	are	_	V	V	_	5	cop	_	_
+5	in	_	P	P	_	0	root	_	_
+
+***********************************************************
+1	As	_	P	P	_	5	mark	_	_
+2	recent	_	A	A	_	4	amod	_	_
+3	market-impacting	_	A	A	_	4	amod	_	_
+4	events	_	N	N	_	5	nsubj	_	_
+5	continue	_	V	V	_	12	advcl	_	_
+6	to	_	P	P	_	7	mark	_	_
+7	unfold	_	V	V	_	5	xcomp	_	_
+9	the	_	D	D	_	10	det	_	_
+10	UK	_	^	^	_	12	nsubj	_	_
+11	is	_	V	V	_	12	aux	_	_
+12	showing	_	V	V	_	0	root	_	_
+13	signs	_	N	N	_	12	dobj	_	_
+14	of	_	P	P	_	15	mark	_	_
+15	becoming	_	V	V	_	13	acl	_	_
+16	an	_	D	D	_	18	det	_	_
+17	emerging	_	V	V	_	18	amod	_	_
+18	market	_	N	N	_	15	xcomp	_	_
+
+***********************************************************
+1	Our	_	D	D	_	2	nmod:poss	_	_
+2	partnership	_	N	N	_	6	nsubj	_	_
+3	with	_	P	P	_	5	case	_	_
+4	Goldman	_	^	^	_	5	compound	_	_
+5	Sachs	_	^	^	_	2	nmod	_	_
+6	helps	_	V	V	_	0	root	_	_
+7	@GS10KSmallBiz	_	N	N	_	8	nsubj	_	_
+8	accelerate	_	V	V	_	6	ccomp	_	_
+9	growth	_	N	N	_	8	dobj	_	_
+10	with	_	P	P	_	11	case	_	_
+11	advice	_	N	N	_	8	nmod	_	_
+12	from	_	P	P	_	14	case	_	_
+13	our	_	D	D	_	14	nmod:poss	_	_
+14	CEOs	_	N	N	_	11	nmod	_	_
+15	and	_	&	&	_	14	cc	_	_
+16	employees	_	N	N	_	14	conj	_	_
+
+***********************************************************
+1	With	_	P	P	_	2	case	_	_
+2	gold	_	N	N	_	4	nmod	_	_
+3	prices	_	N	N	_	4	nsubj	_	_
+4	stuck	_	V	V	_	12	advcl	_	_
+5	in	_	P	P	_	7	case	_	_
+7	purgatory	_	A	A	_	4	advcl	_	_
+10	hedge	_	N	N	_	11	compound	_	_
+11	funds	_	N	N	_	12	nsubj	_	_
+12	pull	_	V	V	_	0	root	_	_
+13	out	_	R	R	_	12	compound:prt	_	_
+
+***********************************************************
+1	Matthew	_	^	^	_	2	compound	_	_
+2	McConaughey	_	^	^	_	3	nsubj	_	_
+3	said	_	V	V	_	0	root	_	_
+4	that	_	P	P	_	8	mark	_	_
+5	Hollywood	_	^	^	_	8	nsubj	_	_
+6	should	_	V	V	_	8	aux	_	_
+8	embrace	_	V	V	_	3	ccomp	_	_
+10	President	_	^	^	_	11	compound	_	_
+11	Trump's	_	Z	^	_	13	nmod:poss	_	_
+13	election	_	N	N	_	8	dobj	_	_
+14	and	_	&	&	_	13	cc	_	_
+15	work	_	N	N	_	13	conj	_	_
+16	with	_	P	P	_	17	case	_	_
+17	him	_	O	O	_	13	nmod	_	_
+
+***********************************************************
+1	Volunteers	_	N	N	_	3	nsubj	_	_
+2	had	_	V	V	_	3	aux	_	_
+3	stocked	_	V	V	_	0	root	_	_
+4	the	_	D	D	_	5	det	_	_
+5	refrigerator	_	N	N	_	3	dobj	_	_
+6	and	_	&	&	_	5	cc	_	_
+7	the	_	D	D	_	8	det	_	_
+8	cabinets	_	N	N	_	5	conj	_	_
+9	with	_	P	P	_	10	case	_	_
+10	food	_	N	N	_	3	nmod	_	_
+1	The	_	D	D	_	2	det	_	_
+2	table	_	N	N	_	4	nsubjpass	_	_
+3	was	_	V	V	_	4	auxpass	_	_
+4	set	_	V	V	_	0	root	_	_
+5	for	_	P	P	_	6	case	_	_
+6	5	_	$	$	_	4	nmod	_	_
+8	with	_	P	P	_	9	case	_	_
+9	flowers	_	N	N	_	4	nmod	_	_
+
+***********************************************************
+1	Arnold	_	^	^	_	2	compound	_	_
+2	Schwarzenegger	_	^	^	_	3	nsubj	_	_
+3	fired	_	V	V	_	0	root	_	_
+4	back	_	R	R	_	3	advmod	_	_
+5	at	_	P	P	_	7	case	_	_
+6	President	_	^	^	_	7	compound	_	_
+7	Trump	_	^	^	_	3	nmod	_	_
+8	over	_	P	P	_	10	case	_	_
+9	ratings	_	N	N	_	10	compound	_	_
+10	jab	_	N	N	_	7	nmod	_	_
+
+***********************************************************
+1	A	_	D	D	_	3	det	_	_
+2	K.K.K.	_	^	^	_	3	compound	_	_
+3	group	_	N	N	_	5	nsubj	_	_
+4	has	_	V	V	_	5	aux	_	_
+5	found	_	V	V	_	0	root	_	_
+6	a	_	D	D	_	8	det	_	_
+7	legal	_	A	A	_	8	amod	_	_
+8	way	_	N	N	_	5	dobj	_	_
+9	to	_	P	P	_	10	mark	_	_
+10	get	_	V	V	_	5	advcl	_	_
+11	attention	_	N	N	_	10	dobj	_	_
+12	in	_	P	P	_	13	case	_	_
+13	Maine	_	^	^	_	10	nmod	_	_
+15	leaving	_	V	V	_	10	parataxis	_	_
+16	fliers	_	N	N	_	15	dobj	_	_
+17	on	_	P	P	_	18	case	_	_
+18	lawns	_	^	^	_	15	nmod	_	_
+19	at	_	P	P	_	20	case	_	_
+20	night	_	N	N	_	15	nmod	_	_
+
+***********************************************************
+1	Authorities	_	N	N	_	2	nsubj	_	_
+2	said	_	V	V	_	0	root	_	_
+3	they	_	O	O	_	5	nsubj	_	_
+4	had	_	V	V	_	5	aux	_	_
+5	arrested	_	V	V	_	2	ccomp	_	_
+6	about	_	P	P	_	10	case	_	_
+7	75	_	$	$	_	10	nummod	_	_
+8	Dakota	_	^	^	_	10	compound	_	_
+9	Pipeline	_	^	^	_	10	compound	_	_
+10	protesters	_	N	N	_	5	nmod	_	_
+
+***********************************************************
+1	Senate	_	^	^	_	2	compound	_	_
+2	Committee	_	^	^	_	3	nsubj	_	_
+3	approves	_	V	V	_	0	root	_	_
+4	Scott	_	^	^	_	5	compound	_	_
+5	Pruitt	_	^	^	_	3	dobj	_	_
+7	President	_	^	^	_	8	compound	_	_
+8	Trump's	_	Z	^	_	11	nmod:poss	_	_
+10	divisive	_	A	A	_	11	amod	_	_
+11	pick	_	N	N	_	5	appos	_	_
+12	to	_	P	P	_	13	mark	_	_
+13	run	_	V	V	_	11	acl	_	_
+14	the	_	D	D	_	15	det	_	_
+15	EPA	_	^	^	_	13	dobj	_	_
+
+***********************************************************
+1	He	_	O	O	_	2	nsubj	_	_
+2	took	_	V	V	_	0	root	_	_
+3	her	_	O	O	_	2	dobj	_	_
+4	to	_	P	P	_	6	case	_	_
+5	the	_	D	D	_	6	det	_	_
+6	hospital	_	N	N	_	2	nmod	_	_
+7	when	_	R	R	_	10	advmod	_	_
+8	she	_	O	O	_	10	nsubjpass	_	_
+9	was	_	V	V	_	10	auxpass	_	_
+10	injured	_	V	V	_	2	advcl	_	_
+11	in	_	P	P	_	15	case	_	_
+12	the	_	D	D	_	15	det	_	_
+13	Boston	_	^	^	_	15	compound	_	_
+14	Marathon	_	^	^	_	15	compound	_	_
+15	bombing	_	N	N	_	10	nmod	_	_
+1	Now	_	R	R	_	4	advmod	_	_
+2	they're	_	L	O	_	4	nsubj	_	_
+4	getting	_	V	V	_	0	root	_	_
+5	married	_	A	A	_	4	xcomp	_	_
+
+***********************************************************
+1	What	_	O	O	_	10	dobj	_	_
+2	do	_	V	V	_	10	aux	_	_
+3	the	_	D	D	_	4	det	_	_
+4	Kochs	_	^	^	_	10	nsubj	_	_
+6	the	_	D	D	_	7	det	_	_
+7	NRA	_	N	N	_	4	appos	_	_
+8	and	_	&	&	_	7	cc	_	_
+9	evangelicals	_	N	N	_	7	conj	_	_
+10	agree	_	V	V	_	0	root	_	_
+11	on	_	R	R	_	10	compound:prt	_	_
+1	Pushing	_	^	^	_	3	compound	_	_
+2	Supreme	_	^	^	_	3	compound	_	_
+3	Court	_	^	^	_	4	nsubj	_	_
+4	pick	_	V	V	_	0	root	_	_
+5	Neil	_	^	^	_	6	compound	_	_
+6	Gorsuch	_	^	^	_	4	dobj	_	_
+7	through	_	R	R	_	4	advmod	_	_
+
+***********************************************************
+1	Politics	_	N	N	_	3	nsubj	_	_
+2	is	_	V	V	_	3	aux	_	_
+3	infusing	_	V	V	_	0	root	_	_
+4	the	_	D	D	_	6	det	_	_
+5	Super	_	^	^	_	6	compound	_	_
+6	Bowl	_	^	^	_	3	dobj	_	_
+7	like	_	P	P	_	8	case	_	_
+8	never	_	R	R	_	3	advcl	_	_
+9	before	_	R	R	_	3	advmod	_	_
+11	with	_	P	P	_	13	case	_	_
+12	President	_	^	^	_	13	compound	_	_
+13	Trump	_	^	^	_	3	nmod	_	_
+15	Bill	_	^	^	_	16	compound	_	_
+16	O'Reilly	_	^	^	_	13	conj	_	_
+17	and	_	&	&	_	13	cc	_	_
+18	Lady	_	^	^	_	19	compound	_	_
+19	Gaga	_	^	^	_	13	conj	_	_
+20	pitching	_	V	V	_	19	acl	_	_
+21	in	_	R	R	_	20	compound:prt	_	_
+
+***********************************************************
+1	With	_	P	P	_	2	case	_	_
+2	Trump	_	^	^	_	8	nmod	_	_
+3	in	_	P	P	_	4	case	_	_
+4	town	_	N	N	_	2	nmod	_	_
+6	Washington	_	^	^	_	7	compound	_	_
+7	restaurants	_	N	N	_	8	nsubj	_	_
+8	await	_	V	V	_	0	root	_	_
+9	a	_	D	D	_	10	det	_	_
+10	visit	_	N	N	_	8	dobj	_	_
+12	from	_	P	P	_	13	case	_	_
+13	Ivanka	_	^	^	_	8	nmod	_	_
+
+***********************************************************
+1	Congress	_	^	^	_	3	nsubj	_	_
+2	must	_	V	V	_	3	aux	_	_
+3	approve	_	V	V	_	0	root	_	_
+4	repealing	_	V	V	_	3	xcomp	_	_
+5	the	_	D	D	_	6	det	_	_
+6	law	_	N	N	_	4	dobj	_	_
+8	which	_	D	D	_	9	nsubj	_	_
+9	says	_	V	V	_	6	acl:relcl	_	_
+10	churches	_	N	N	_	12	nsubj	_	_
+11	would	_	V	V	_	12	aux	_	_
+12	lose	_	V	V	_	9	ccomp	_	_
+13	tax-exempt	_	A	A	_	14	amod	_	_
+14	status	_	N	N	_	12	dobj	_	_
+15	by	_	P	P	_	16	mark	_	_
+16	endorsing	_	V	V	_	12	advcl	_	_
+17	candidates	_	N	N	_	16	dobj	_	_
+
+***********************************************************
+1	Breaking	_	^	^	_	2	compound	_	_
+2	News	_	^	^	_	0	root	_	_
+4	President	_	^	^	_	5	compound	_	_
+5	Trump	_	^	^	_	6	nsubj	_	_
+6	said	_	V	V	_	2	parataxis	_	_
+7	he	_	O	O	_	11	nsubj	_	_
+8	would	_	V	V	_	11	aux	_	_
+10	totally	_	R	R	_	11	advmod	_	_
+11	destroy	_	V	V	_	6	ccomp	_	_
+13	limits	_	N	N	_	11	dobj	_	_
+14	on	_	P	P	_	16	case	_	_
+15	political	_	A	A	_	16	amod	_	_
+16	activity	_	N	N	_	13	nmod	_	_
+17	by	_	P	P	_	19	case	_	_
+18	tax-exempt	_	A	A	_	19	amod	_	_
+19	churches	_	N	N	_	11	nmod	_	_
+
+***********************************************************
+1	Trump	_	^	^	_	2	nsubj	_	_
+2	spoke	_	V	V	_	0	root	_	_
+3	out	_	R	R	_	2	compound:prt	_	_
+4	against	_	P	P	_	6	case	_	_
+5	UC	_	^	^	_	6	compound	_	_
+6	Berkeley	_	^	^	_	2	nmod	_	_
+7	for	_	P	P	_	8	mark	_	_
+8	canceling	_	V	V	_	6	acl	_	_
+9	a	_	D	D	_	10	det	_	_
+10	speech	_	N	N	_	8	dobj	_	_
+11	by	_	P	P	_	13	case	_	_
+12	Milo	_	^	^	_	13	compound	_	_
+13	Yiannopoulos	_	^	^	_	8	nmod	_	_
+15	a	_	D	D	_	17	det	_	_
+16	right-wing	_	A	A	_	17	amod	_	_
+17	editor	_	N	N	_	13	appos	_	_
+
+***********************************************************
+1	President	_	^	^	_	2	compound	_	_
+2	Trump	_	^	^	_	3	nsubj	_	_
+3	has	_	V	V	_	0	root	_	_
+4	a	_	D	D	_	5	det	_	_
+5	lot	_	N	N	_	3	dobj	_	_
+6	of	_	P	P	_	9	case	_	_
+7	climate	_	N	N	_	9	compound	_	_
+8	policy	_	N	N	_	9	compound	_	_
+9	decisions	_	N	N	_	5	nmod	_	_
+10	to	_	P	P	_	11	mark	_	_
+11	make	_	V	V	_	5	acl	_	_
+1	What	_	O	O	_	4	dobj	_	_
+2	would	_	V	V	_	4	aux	_	_
+3	you	_	O	O	_	4	nsubj	_	_
+4	do	_	V	V	_	0	root	_	_
+1	Take	_	V	V	_	0	root	_	_
+2	this	_	D	D	_	3	det	_	_
+3	quiz	_	N	N	_	1	dobj	_	_
+4	to	_	P	P	_	5	mark	_	_
+5	find	_	V	V	_	3	acl	_	_
+6	out	_	R	R	_	5	compound:prt	_	_
+
+***********************************************************
+1	Morning	_	^	^	_	2	compound	_	_
+2	Briefing	_	^	^	_	0	root	_	_
+4	Here's	_	L	R	_	2	nsubj	_	_
+6	what	_	O	O	_	8	dobj	_	_
+7	you	_	O	O	_	8	nsubj	_	_
+8	need	_	V	V	_	5	ccomp	_	_
+9	to	_	P	P	_	10	mark	_	_
+10	know	_	V	V	_	8	xcomp	_	_
+11	to	_	P	P	_	12	mark	_	_
+12	start	_	V	V	_	10	xcomp	_	_
+13	your	_	D	D	_	14	nmod:poss	_	_
+14	day	_	N	N	_	12	nmod:tmod	_	_
+
+***********************************************************
+2	Here's	_	L	R	_	0	nsubj	_	_
+4	how	_	R	R	_	6	advmod	_	_
+5	senators	_	N	N	_	6	nsubj	_	_
+6	voted	_	V	V	_	3	ccomp	_	_
+7	on	_	P	P	_	9	case	_	_
+8	Rex	_	^	^	_	9	compound	_	_
+9	Tillerson	_	^	^	_	6	nmod	_	_
+
+***********************************************************
+1	A	_	D	D	_	2	det	_	_
+2	standoff	_	N	N	_	7	nsubj	_	_
+3	in	_	P	P	_	6	case	_	_
+4	a	_	D	D	_	6	det	_	_
+5	Delaware	_	^	^	_	6	compound	_	_
+6	prison	_	N	N	_	2	nmod	_	_
+7	ends	_	V	V	_	0	root	_	_
+8	with	_	P	P	_	11	case	_	_
+9	1	_	$	$	_	11	nummod	_	_
+10	employee	_	N	N	_	11	compound	_	_
+11	dead	_	N	N	_	7	nmod	_	_
+
+***********************************************************
+1	On	_	P	P	_	2	case	_	_
+2	Tuesday	_	^	^	_	8	nmod	_	_
+4	White	_	^	^	_	6	compound	_	_
+5	House	_	^	^	_	6	compound	_	_
+6	officials	_	N	N	_	8	nsubj	_	_
+7	were	_	V	V	_	8	aux	_	_
+8	whispering	_	V	V	_	0	root	_	_
+9	that	_	P	P	_	14	mark	_	_
+10	Judge	_	^	^	_	12	compound	_	_
+11	Thomas	_	^	^	_	12	compound	_	_
+12	Hardiman	_	^	^	_	14	nsubj	_	_
+13	was	_	V	V	_	14	aux	_	_
+14	heading	_	V	V	_	8	ccomp	_	_
+15	toward	_	P	P	_	16	case	_	_
+16	Washington	_	^	^	_	14	nmod	_	_
+
+***********************************************************
+2	Is	_	R	R	_	4	advmod	_	_
+3	democracy	_	V	V	_	4	aux	_	_
+4	sick	_	A	A	_	0	root	_	_
+6	or	_	&	&	_	4	cc	_	_
+7	is	_	V	V	_	10	aux	_	_
+8	it	_	O	O	_	10	nsubj	_	_
+9	just	_	R	R	_	10	advmod	_	_
+10	waking	_	V	V	_	4	conj	_	_
+11	up	_	R	R	_	10	compound:prt	_	_
+1	Listen	_	V	V	_	0	root	_	_
+2	to	_	P	P	_	4	case	_	_
+3	The	_	D	D	_	4	det	_	_
+4	Daily	_	^	^	_	1	nmod	_	_
+6	a	_	D	D	_	10	det	_	_
+7	new	_	A	A	_	10	amod	_	_
+8	audio	_	A	A	_	10	amod	_	_
+9	news	_	N	N	_	10	compound	_	_
+10	report	_	N	N	_	4	appos	_	_
+
+***********************************************************
+1	6	_	$	$	_	2	nummod	_	_
+2	ways	_	N	N	_	6	nsubj	_	_
+4	Girls	_	^	^	_	2	dep	_	_
+6	changed	_	V	V	_	0	root	_	_
+7	television	_	N	N	_	6	dobj	_	_
+1	Or	_	&	&	_	2	cc	_	_
+2	didn't	_	V	V	_	0	root	_	_
+
+***********************************************************
+1	A	_	D	D	_	3	det	_	_
+2	dark	_	A	A	_	3	amod	_	_
+3	view	_	N	N	_	8	nsubj	_	_
+4	of	_	P	P	_	5	case	_	_
+5	Islam	_	^	^	_	3	nmod	_	_
+6	has	_	V	V	_	8	aux	_	_
+7	long	_	R	R	_	8	advmod	_	_
+8	flourished	_	V	V	_	0	root	_	_
+9	on	_	P	P	_	12	case	_	_
+10	the	_	D	D	_	12	det	_	_
+11	far	_	R	R	_	12	advmod	_	_
+12	right	_	A	A	_	8	nmod	_	_
+1	Now	_	R	R	_	4	advmod	_	_
+2	Trump	_	^	^	_	4	nsubj	_	_
+3	has	_	V	V	_	4	aux	_	_
+4	brought	_	V	V	_	0	root	_	_
+5	that	_	D	D	_	6	det	_	_
+6	view	_	N	N	_	4	dobj	_	_
+7	to	_	P	P	_	10	case	_	_
+8	the	_	D	D	_	10	det	_	_
+9	White	_	^	^	_	10	compound	_	_
+10	House	_	^	^	_	4	nmod	_	_
+
+***********************************************************
+1	Trump	_	^	^	_	2	nsubj	_	_
+2	got	_	V	V	_	0	root	_	_
+3	the	_	D	D	_	5	det	_	_
+4	White	_	^	^	_	5	compound	_	_
+5	House	_	^	^	_	2	dobj	_	_
+6	involved	_	V	V	_	5	acl	_	_
+7	in	_	P	P	_	10	case	_	_
+8	a	_	D	D	_	10	det	_	_
+9	student	_	N	N	_	10	compound	_	_
+10	riot	_	N	N	_	6	nmod	_	_
+11	that	_	D	D	_	12	nsubj	_	_
+12	forced	_	V	V	_	10	acl:relcl	_	_
+13	the	_	D	D	_	14	det	_	_
+14	cancellation	_	N	N	_	12	dobj	_	_
+15	of	_	P	P	_	17	case	_	_
+16	a	_	D	D	_	17	det	_	_
+17	speech	_	N	N	_	14	nmod	_	_
+18	by	_	P	P	_	20	case	_	_
+19	Milo	_	^	^	_	20	compound	_	_
+20	Yiannopoulos	_	^	^	_	12	nmod	_	_
+
+***********************************************************
+1	Putin	_	^	^	_	3	nsubj	_	_
+2	is	_	V	V	_	3	aux	_	_
+3	making	_	V	V	_	17	ccomp	_	_
+4	his	_	D	D	_	6	nmod:poss	_	_
+5	first	_	A	A	_	6	amod	_	_
+6	foray	_	N	N	_	3	dobj	_	_
+7	into	_	P	P	_	8	case	_	_
+8	Europe	_	^	^	_	3	nmod	_	_
+9	in	_	P	P	_	12	case	_	_
+10	the	_	D	D	_	12	det	_	_
+11	Trump	_	^	^	_	12	compound	_	_
+12	era	_	N	N	_	8	nmod	_	_
+14	his	_	D	D	_	15	nmod:poss	_	_
+15	position	_	N	N	_	17	nsubj	_	_
+16	much	_	R	R	_	17	advmod	_	_
+17	improved	_	V	V	_	0	root	_	_
+18	since	_	P	P	_	21	case	_	_
+19	his	_	D	D	_	21	nmod:poss	_	_
+20	last	_	A	A	_	21	amod	_	_
+21	trip	_	N	N	_	17	nmod	_	_
+22	there	_	R	R	_	17	advmod	_	_
+
+***********************************************************
+1	President	_	^	^	_	2	compound	_	_
+2	Trump	_	^	^	_	4	nsubj	_	_
+3	has	_	V	V	_	4	aux	_	_
+4	threatened	_	V	V	_	0	root	_	_
+5	Iran	_	^	^	_	4	dobj	_	_
+6	on	_	P	P	_	7	case	_	_
+7	Twitter	_	^	^	_	5	nmod	_	_
+
+***********************************************************
+2	She	_	O	O	_	4	nsubj	_	_
+3	suddenly	_	R	R	_	4	advmod	_	_
+4	told	_	V	V	_	0	root	_	_
+5	me	_	O	O	_	4	dobj	_	_
+6	aggressively	_	R	R	_	4	advmod	_	_
+9	You	_	O	O	_	10	nsubj	_	_
+10	have	_	V	V	_	4	ccomp	_	_
+11	to	_	P	P	_	12	mark	_	_
+12	return	_	V	V	_	10	xcomp	_	_
+13	to	_	P	P	_	15	case	_	_
+14	your	_	D	D	_	15	nmod:poss	_	_
+15	country	_	N	N	_	12	nmod	_	_
+16	because	_	P	P	_	18	mark	_	_
+17	you	_	O	O	_	18	nsubj	_	_
+18	endanger	_	V	V	_	12	advcl	_	_
+19	our	_	D	D	_	20	nmod:poss	_	_
+20	safety	_	N	N	_	18	dobj	_	_
+
+***********************************************************
+1	In	_	P	P	_	5	case	_	_
+2	a	_	D	D	_	5	det	_	_
+3	highly	_	R	R	_	4	advmod	_	_
+4	unusual	_	A	A	_	5	amod	_	_
+5	turn	_	N	N	_	15	nmod	_	_
+6	of	_	P	P	_	7	case	_	_
+7	events	_	N	N	_	5	nmod	_	_
+8	for	_	P	P	_	11	case	_	_
+9	a	_	D	D	_	11	det	_	_
+10	sitting	_	V	V	_	11	amod	_	_
+11	president	_	N	N	_	7	nmod	_	_
+13	judge	_	N	N	_	14	compound	_	_
+14	orders	_	N	N	_	15	nsubj	_	_
+15	Trump-owned	_	V	V	_	0	root	_	_
+16	golf	_	N	N	_	17	compound	_	_
+17	resort	_	N	N	_	15	dobj	_	_
+18	to	_	P	P	_	19	mark	_	_
+19	pay	_	V	V	_	15	advcl	_	_
+20	$	_	,	,	_	19	dobj	_	_
+21	5.7	_	$	$	_	22	compound	_	_
+22	million	_	$	$	_	20	nummod	_	_
+
+***********************************************************
+1	The	_	D	D	_	3	det	_	_
+2	phrase	_	N	N	_	3	compound	_	_
+3	Putin	_	N	N	_	5	nsubj	_	_
+4	never	_	R	R	_	5	neg	_	_
+5	uses	_	V	V	_	0	root	_	_
+6	about	_	P	P	_	7	case	_	_
+7	terrorism	_	N	N	_	5	nmod	_	_
+9	and	_	&	&	_	11	cc	_	_
+10	Trump	_	^	^	_	11	nsubj	_	_
+11	does	_	V	V	_	5	parataxis	_	_
+
+***********************************************************
+1	Malcolm	_	^	^	_	2	compound	_	_
+2	Turnbull	_	^	^	_	3	nsubj	_	_
+3	refused	_	V	V	_	0	root	_	_
+4	to	_	P	P	_	5	mark	_	_
+5	comment	_	V	V	_	3	ccomp	_	_
+6	on	_	P	P	_	10	case	_	_
+7	Donald	_	^	^	_	8	compound	_	_
+8	Trump's	_	Z	^	_	10	nmod:poss	_	_
+10	tone	_	N	N	_	5	nmod	_	_
+11	and	_	&	&	_	5	cc	_	_
+12	whether	_	P	P	_	15	mark	_	_
+13	the	_	D	D	_	14	det	_	_
+14	president	_	N	N	_	15	nsubj	_	_
+15	hung	_	V	V	_	5	conj	_	_
+16	up	_	R	R	_	15	compound:prt	_	_
+17	on	_	P	P	_	18	case	_	_
+18	him	_	O	O	_	15	nmod	_	_
+
+***********************************************************
+1	2	_	$	$	_	3	nummod	_	_
+2	Republican	_	A	A	_	3	amod	_	_
+3	senators	_	N	N	_	4	nsubj	_	_
+4	said	_	V	V	_	0	root	_	_
+5	they	_	O	O	_	7	nsubj	_	_
+6	would	_	V	V	_	7	aux	_	_
+7	vote	_	V	V	_	4	ccomp	_	_
+8	against	_	P	P	_	10	case	_	_
+9	Betsy	_	^	^	_	10	compound	_	_
+10	DeVos	_	^	^	_	7	nmod	_	_
+12	President	_	^	^	_	13	compound	_	_
+13	Trump's	_	Z	^	_	15	nmod:poss	_	_
+15	nominee	_	N	N	_	10	appos	_	_
+16	for	_	P	P	_	18	case	_	_
+17	education	_	N	N	_	18	compound	_	_
+18	secretary	_	N	N	_	15	nmod	_	_
+
+***********************************************************
+1	Just	_	R	R	_	3	advmod	_	_
+2	5	_	$	$	_	3	nummod	_	_
+3	days	_	N	N	_	10	dep	_	_
+4	after	_	P	P	_	3	mark	_	_
+5	taking	_	V	V	_	3	dep	_	_
+6	office	_	N	N	_	5	dobj	_	_
+8	Trump	_	^	^	_	10	nsubjpass	_	_
+9	was	_	V	V	_	10	auxpass	_	_
+10	presented	_	V	V	_	0	root	_	_
+11	with	_	P	P	_	13	case	_	_
+12	the	_	D	D	_	13	det	_	_
+13	first	_	A	A	_	10	nmod	_	_
+14	of	_	P	P	_	20	mark	_	_
+15	what	_	O	O	_	20	nsubj	_	_
+16	will	_	V	V	_	20	aux	_	_
+17	be	_	V	V	_	20	cop	_	_
+18	many	_	A	A	_	20	amod	_	_
+19	life-or-death	_	A	A	_	20	amod	_	_
+20	decisions	_	N	N	_	13	acl	_	_
+
+***********************************************************
+1	A	_	D	D	_	2	det	_	_
+2	speech	_	N	N	_	10	nsubjpass	_	_
+3	by	_	P	P	_	8	case	_	_
+4	the	_	D	D	_	8	det	_	_
+5	right-wing	_	A	A	_	8	amod	_	_
+6	editor	_	N	N	_	8	compound	_	_
+7	Milo	_	^	^	_	8	compound	_	_
+8	Yiannopoulos	_	^	^	_	2	nmod	_	_
+9	was	_	V	V	_	10	auxpass	_	_
+10	canceled	_	V	V	_	0	root	_	_
+11	amid	_	P	P	_	12	case	_	_
+12	protests	_	N	N	_	10	nmod	_	_
+13	at	_	P	P	_	14	case	_	_
+14	Berkeley	_	^	^	_	12	nmod	_	_
+
+***********************************************************
+1	On	_	P	P	_	7	case	_	_
+2	President	_	^	^	_	3	compound	_	_
+3	Trump's	_	Z	^	_	7	nmod:poss	_	_
+5	foreign	_	A	A	_	7	amod	_	_
+6	policy	_	N	N	_	7	compound	_	_
+7	muse	_	N	N	_	0	root	_	_
+
+***********************************************************
+1	The	_	D	D	_	3	det	_	_
+2	Trump	_	^	^	_	3	compound	_	_
+3	administration	_	N	N	_	4	nsubj	_	_
+4	threatened	_	V	V	_	0	root	_	_
+5	reprisals	_	N	N	_	4	dobj	_	_
+6	against	_	P	P	_	7	case	_	_
+7	Iran	_	^	^	_	4	nmod	_	_
+8	for	_	P	P	_	12	case	_	_
+9	its	_	D	D	_	12	nmod:poss	_	_
+10	recent	_	A	A	_	12	amod	_	_
+11	missile	_	N	N	_	12	compound	_	_
+12	test	_	N	N	_	4	nmod	_	_
+14	but	_	&	&	_	4	cc	_	_
+15	didn't	_	V	V	_	17	aux	_	_
+17	specify	_	V	V	_	4	conj	_	_
+18	actions	_	N	N	_	17	dobj	_	_
+
+***********************************************************
+1	UN	_	^	^	_	2	compound	_	_
+2	experts	_	N	N	_	3	nsubj	_	_
+3	called	_	V	V	_	0	root	_	_
+4	President	_	^	^	_	5	compound	_	_
+5	Trump's	_	Z	^	_	9	nmod:poss	_	_
+7	executive	_	A	A	_	9	amod	_	_
+8	order	_	N	N	_	9	compound	_	_
+9	discriminatory	_	N	N	_	3	dobj	_	_
+10	and	_	&	&	_	9	cc	_	_
+11	a	_	D	D	_	12	det	_	_
+12	breach	_	N	N	_	9	conj	_	_
+13	of	_	P	P	_	16	case	_	_
+14	human	_	A	A	_	16	amod	_	_
+15	rights	_	N	N	_	16	compound	_	_
+16	obligations	_	N	N	_	12	nmod	_	_
+
+***********************************************************
+1	A	_	D	D	_	3	det	_	_
+2	Syrian	_	A	A	_	3	amod	_	_
+3	infant	_	N	N	_	10	nsubjpass	_	_
+4	born	_	V	V	_	3	acl	_	_
+5	without	_	P	P	_	7	case	_	_
+6	an	_	D	D	_	7	det	_	_
+7	eye	_	N	N	_	4	nmod	_	_
+8	was	_	V	V	_	10	auxpass	_	_
+9	all	_	R	R	_	10	advmod	_	_
+10	set	_	V	V	_	0	root	_	_
+11	to	_	P	P	_	12	mark	_	_
+12	resettle	_	V	V	_	10	xcomp	_	_
+13	in	_	P	P	_	15	case	_	_
+14	the	_	D	D	_	15	det	_	_
+15	U.S.	_	^	^	_	12	nmod	_	_
+1	Then	_	R	R	_	6	advmod	_	_
+2	Trump's	_	Z	^	_	5	nmod:poss	_	_
+4	executive	_	A	A	_	5	amod	_	_
+5	order	_	N	N	_	6	nsubj	_	_
+6	happened	_	V	V	_	0	root	_	_
+
+***********************************************************
+2	The	_	D	D	_	4	det	_	_
+3	constant	_	A	A	_	4	amod	_	_
+4	wash	_	N	N	_	9	nsubj	_	_
+5	of	_	P	P	_	6	case	_	_
+6	uncertainties	_	N	N	_	4	nmod	_	_
+7	is	_	V	V	_	9	cop	_	_
+8	emotionally	_	R	R	_	9	advmod	_	_
+9	draining	_	V	V	_	0	root	_	_
+10	and	_	&	&	_	9	cc	_	_
+11	physically	_	R	R	_	12	advmod	_	_
+12	harmful	_	A	A	_	9	conj	_	_
+1	How	_	R	R	_	3	dep	_	_
+2	to	_	P	P	_	3	mark	_	_
+3	adjust	_	V	V	_	0	root	_	_
+4	your	_	D	D	_	6	nmod:poss	_	_
+5	media	_	N	N	_	6	compound	_	_
+6	diet	_	N	N	_	3	dobj	_	_
+
+***********************************************************
+1	In	_	P	P	_	2	case	_	_
+2	case	_	N	N	_	4	nmod	_	_
+3	you	_	O	O	_	4	nsubj	_	_
+4	missed	_	V	V	_	0	root	_	_
+5	it	_	O	O	_	4	dobj	_	_
+7	Beyoncé	_	^	^	_	9	nsubj	_	_
+8	is	_	V	V	_	9	cop	_	_
+9	pregnant	_	A	A	_	4	parataxis	_	_
+10	with	_	P	P	_	11	case	_	_
+11	twins	_	N	N	_	9	nmod	_	_
+
+***********************************************************
+1	Malcolm	_	^	^	_	2	compound	_	_
+2	Turnbull	_	^	^	_	3	nsubj	_	_
+3	refused	_	V	V	_	0	root	_	_
+4	to	_	P	P	_	5	mark	_	_
+5	comment	_	V	V	_	3	ccomp	_	_
+6	on	_	P	P	_	10	case	_	_
+7	Donald	_	^	^	_	8	compound	_	_
+8	Trump's	_	Z	^	_	10	nmod:poss	_	_
+10	tone	_	N	N	_	5	nmod	_	_
+11	and	_	&	&	_	5	cc	_	_
+12	whether	_	P	P	_	15	mark	_	_
+13	the	_	D	D	_	14	det	_	_
+14	president	_	N	N	_	15	nsubj	_	_
+15	hung	_	V	V	_	5	conj	_	_
+16	up	_	R	R	_	15	compound:prt	_	_
+17	on	_	P	P	_	18	case	_	_
+18	him	_	O	O	_	15	nmod	_	_
+
+***********************************************************
+1	Why	_	R	R	_	5	advmod	_	_
+2	it's	_	L	O	_	5	nsubj	_	_
+4	already	_	R	R	_	5	advmod	_	_
+5	difficult	_	A	A	_	0	root	_	_
+6	to	_	P	P	_	7	mark	_	_
+7	gain	_	V	V	_	5	xcomp	_	_
+8	entry	_	N	N	_	7	dobj	_	_
+9	into	_	P	P	_	11	case	_	_
+10	the	_	D	D	_	11	det	_	_
+11	U.S.	_	^	^	_	7	nmod	_	_
+
+***********************************************************
+1	More	_	A	A	_	3	advmod	_	_
+2	than	_	P	P	_	1	mwe	_	_
+3	1,000	_	$	$	_	6	nummod	_	_
+4	German	_	A	A	_	6	amod	_	_
+5	police	_	N	N	_	6	compound	_	_
+6	officers	_	N	N	_	7	nsubj	_	_
+7	raided	_	V	V	_	0	root	_	_
+8	homes	_	N	N	_	7	dobj	_	_
+10	offices	_	N	N	_	8	conj	_	_
+11	and	_	&	&	_	8	cc	_	_
+12	mosques	_	N	N	_	8	conj	_	_
+13	on	_	P	P	_	14	case	_	_
+14	Wednesday	_	^	^	_	7	nmod	_	_
+1	Only	_	R	R	_	3	advmod	_	_
+2	one	_	$	$	_	3	nummod	_	_
+3	person	_	N	N	_	5	nsubjpass	_	_
+4	was	_	V	V	_	5	auxpass	_	_
+5	arrested	_	V	V	_	0	root	_	_
+
+***********************************************************
+1	A	_	D	D	_	2	det	_	_
+2	call	_	N	N	_	11	nsubj	_	_
+3	between	_	P	P	_	4	case	_	_
+4	Trump	_	^	^	_	2	nmod	_	_
+5	and	_	&	&	_	2	cc	_	_
+6	Australia's	_	Z	^	_	9	nmod:poss	_	_
+8	prime	_	A	A	_	9	amod	_	_
+9	minister	_	N	N	_	2	conj	_	_
+10	could	_	V	V	_	11	aux	_	_
+11	develop	_	V	V	_	0	root	_	_
+12	into	_	P	P	_	15	case	_	_
+13	a	_	D	D	_	15	det	_	_
+14	diplomatic	_	A	A	_	15	amod	_	_
+15	rift	_	N	N	_	11	nmod	_	_
+16	between	_	P	P	_	19	case	_	_
+17	2	_	$	$	_	19	nummod	_	_
+18	stalwart	_	A	A	_	19	amod	_	_
+19	allies	_	N	N	_	15	nmod	_	_
+
+***********************************************************
+1	Emmanuelle	_	^	^	_	2	compound	_	_
+2	Riva	_	^	^	_	17	nsubj	_	_
+4	the	_	D	D	_	5	det	_	_
+5	star	_	N	N	_	2	appos	_	_
+6	of	_	P	P	_	10	case	_	_
+8	Hiroshima	_	^	^	_	10	compound	_	_
+9	Mon	_	^	^	_	10	compound	_	_
+10	Amour	_	^	^	_	5	nmod	_	_
+12	and	_	&	&	_	10	cc	_	_
+14	Amour	_	^	^	_	10	conj	_	_
+17	died	_	V	V	_	0	root	_	_
+18	on	_	P	P	_	19	case	_	_
+19	Friday	_	^	^	_	17	nmod	_	_
+20	in	_	P	P	_	21	case	_	_
+21	Paris	_	^	^	_	17	nmod	_	_
+1	She	_	O	O	_	3	nsubj	_	_
+2	was	_	V	V	_	3	cop	_	_
+3	89	_	$	$	_	0	root	_	_
+
+***********************************************************
+1	Donald	_	^	^	_	2	compound	_	_
+2	Trump	_	^	^	_	0	root	_	_
+3	talks	_	N	N	_	2	dep	_	_
+4	about	_	P	P	_	6	case	_	_
+5	media	_	N	N	_	6	compound	_	_
+6	bias	_	N	N	_	3	nmod	_	_
+8	crime	_	N	N	_	6	conj	_	_
+9	and	_	&	&	_	6	cc	_	_
+10	Frederick	_	^	^	_	11	compound	_	_
+11	Douglass	_	^	^	_	6	conj	_	_
+12	at	_	P	P	_	16	case	_	_
+13	Black	_	^	^	_	16	compound	_	_
+14	History	_	^	^	_	16	compound	_	_
+15	Month	_	^	^	_	16	compound	_	_
+16	event	_	N	N	_	3	nmod	_	_
+
+***********************************************************
+1	In	_	P	P	_	3	case	_	_
+2	South	_	^	^	_	3	compound	_	_
+3	Korea	_	^	^	_	8	nmod	_	_
+5	Defense	_	^	^	_	7	compound	_	_
+6	Secretary	_	^	^	_	7	compound	_	_
+7	Mattis	_	^	^	_	8	nsubj	_	_
+8	Tries	_	V	V	_	0	root	_	_
+9	to	_	P	P	_	10	mark	_	_
+10	Reassure	_	V	V	_	8	xcomp	_	_
+11	an	_	D	D	_	12	det	_	_
+12	Ally	_	N	N	_	10	dobj	_	_
+
+***********************************************************
+1	How	_	R	R	_	3	advmod	_	_
+2	to	_	P	P	_	3	mark	_	_
+3	plan	_	V	V	_	0	root	_	_
+4	a	_	D	D	_	6	det	_	_
+5	safe	_	A	A	_	6	amod	_	_
+6	trip	_	N	N	_	3	dobj	_	_
+7	for	_	P	P	_	10	case	_	_
+8	LGBT	_	A	A	_	10	amod	_	_
+9	business	_	N	N	_	10	compound	_	_
+10	travelers	_	N	N	_	6	nmod	_	_
+
+***********************************************************
+1	Her	_	D	D	_	2	nmod:poss	_	_
+2	husband	_	N	N	_	9	nsubjpass	_	_
+3	and	_	&	&	_	2	cc	_	_
+4	2	_	$	$	_	5	nummod	_	_
+5	sons	_	N	N	_	2	conj	_	_
+6	are	_	V	V	_	9	auxpass	_	_
+7	for	_	P	P	_	8	case	_	_
+8	now	_	R	R	_	9	nmod	_	_
+9	locked	_	V	V	_	0	root	_	_
+10	out	_	R	R	_	9	compound:prt	_	_
+11	of	_	P	P	_	13	case	_	_
+12	the	_	D	D	_	13	det	_	_
+13	U.S.	_	^	^	_	9	nmod	_	_
+15	and	_	&	&	_	9	cc	_	_
+16	she	_	O	O	_	19	nsubj	_	_
+17	can't	_	V	V	_	19	aux	_	_
+19	travel	_	V	V	_	9	conj	_	_
+20	away	_	R	R	_	19	compound:prt	_	_
+22	or	_	&	&	_	19	cc	_	_
+23	risk	_	N	N	_	19	conj	_	_
+24	being	_	V	V	_	25	auxpass	_	_
+25	denied	_	V	V	_	23	xcomp	_	_
+26	re-entry	_	R	R	_	25	advmod	_	_
+
+***********************************************************
+1	Ribollita	_	^	^	_	0	root	_	_
+3	A	_	D	D	_	5	det	_	_
+4	Tuscan	_	A	A	_	5	amod	_	_
+5	classic	_	N	N	_	1	dep	_	_
+6	for	_	P	P	_	8	case	_	_
+7	cold	_	A	A	_	8	amod	_	_
+8	nights	_	N	N	_	5	nmod	_	_
+
+***********************************************************
+2	Tamron	_	^	^	_	4	compound	_	_
+3	Hall	_	^	^	_	4	compound	_	_
+4	leaves	_	N	N	_	12	nsubj	_	_
+7	Today	_	^	^	_	12	nmod:tmod	_	_
+10	show	_	N	N	_	12	nsubj	_	_
+11	and	_	&	&	_	12	cc	_	_
+12	NBC	_	V	V	_	0	root	_	_
+
+***********************************************************
+1	Dozens	_	N	N	_	7	nsubjpass	_	_
+2	of	_	P	P	_	5	case	_	_
+3	Dakota	_	^	^	_	5	compound	_	_
+4	Pipeline	_	^	^	_	5	compound	_	_
+5	Protesters	_	^	^	_	1	nmod	_	_
+6	Are	_	V	V	_	7	auxpass	_	_
+7	Arrested	_	V	V	_	0	root	_	_
+
+***********************************************************
+1	U.S.-Australia	_	A	A	_	4	amod	_	_
+2	Rift	_	^	^	_	4	compound	_	_
+3	Is	_	^	^	_	4	compound	_	_
+4	Possible	_	^	^	_	0	root	_	_
+5	After	_	P	P	_	8	case	_	_
+6	Trump	_	^	^	_	8	compound	_	_
+7	Ends	_	^	^	_	8	compound	_	_
+8	Call	_	^	^	_	4	nmod	_	_
+9	With	_	P	P	_	11	case	_	_
+10	Prime	_	^	^	_	11	compound	_	_
+11	Minister	_	^	^	_	4	nmod	_	_
+
+***********************************************************
+1	The	_	D	D	_	3	det	_	_
+2	Super	_	^	^	_	3	compound	_	_
+3	Bowl	_	^	^	_	5	nsubj	_	_
+4	is	_	V	V	_	5	aux	_	_
+5	approaching	_	V	V	_	0	root	_	_
+1	Here's	_	L	R	_	0	nsubj	_	_
+3	what	_	O	O	_	5	dobj	_	_
+4	you	_	O	O	_	5	nsubj	_	_
+5	need	_	V	V	_	2	ccomp	_	_
+6	to	_	P	P	_	7	mark	_	_
+7	know	_	V	V	_	5	xcomp	_	_
+
+***********************************************************
+2	Pointlessness	_	^	^	_	4	nsubj	_	_
+3	is	_	V	V	_	4	aux	_	_
+4	coming	_	V	V	_	0	root	_	_
+5	to	_	P	P	_	6	mark	_	_
+6	define	_	V	V	_	4	xcomp	_	_
+7	American	_	A	A	_	9	amod	_	_
+8	foreign	_	A	A	_	9	amod	_	_
+9	policy	_	N	N	_	6	dobj	_	_
+1	Mr.	_	^	^	_	2	compound	_	_
+2	Trump	_	^	^	_	3	nsubj	_	_
+3	lacks	_	V	V	_	0	root	_	_
+4	an	_	D	D	_	6	det	_	_
+5	end	_	N	N	_	6	compound	_	_
+6	game	_	N	N	_	3	dobj	_	_
+
+***********************************************************
+1	If	_	P	P	_	3	mark	_	_
+2	you	_	O	O	_	3	nsubj	_	_
+3	miss	_	V	V	_	0	root	_	_
+4	the	_	D	D	_	5	det	_	_
+5	glory	_	N	N	_	3	iobj	_	_
+6	days	_	N	N	_	3	dobj	_	_
+7	of	_	P	P	_	9	case	_	_
+9	Homeland	_	^	^	_	6	nmod	_	_
+12	try	_	V	V	_	6	dep	_	_
+13	the	_	D	D	_	16	det	_	_
+14	original	_	A	A	_	16	amod	_	_
+15	Israeli	_	A	A	_	16	amod	_	_
+16	series	_	N	N	_	12	dobj	_	_
+17	that	_	D	D	_	18	nsubj	_	_
+18	inspired	_	V	V	_	16	acl:relcl	_	_
+19	it	_	O	O	_	18	dobj	_	_
+
+***********************************************************
+1	Surfacing	_	V	V	_	0	root	_	_
+3	Five	_	$	$	_	4	nummod	_	_
+4	Places	_	^	^	_	1	dobj	_	_
+5	to	_	P	P	_	6	mark	_	_
+6	Go	_	V	V	_	1	parataxis	_	_
+7	in	_	P	P	_	8	case	_	_
+8	Zurich	_	^	^	_	6	nmod	_	_
+
+***********************************************************
+1	Why	_	R	R	_	5	advmod	_	_
+2	the	_	D	D	_	4	det	_	_
+3	White	_	^	^	_	4	compound	_	_
+4	House	_	^	^	_	5	nsubj	_	_
+5	seems	_	V	V	_	0	root	_	_
+6	a	_	D	D	_	8	det	_	_
+7	little	_	A	A	_	8	amod	_	_
+8	jealous	_	N	N	_	5	xcomp	_	_
+9	of	_	P	P	_	10	case	_	_
+10	Germany	_	^	^	_	8	nmod	_	_
+
+***********************************************************
+1	Trump	_	^	^	_	2	compound	_	_
+2	nominees	_	N	N	_	3	nsubj	_	_
+3	await	_	V	V	_	0	root	_	_
+4	committee	_	N	N	_	5	compound	_	_
+5	votes	_	N	N	_	3	dobj	_	_
+6	amid	_	P	P	_	8	case	_	_
+7	Democratic	_	A	A	_	8	amod	_	_
+8	protests	_	N	N	_	3	nmod	_	_
+10	boycotts	_	N	N	_	8	appos	_	_
+
+***********************************************************
+1	Trump	_	^	^	_	2	nsubj	_	_
+2	implied	_	V	V	_	0	root	_	_
+3	Frederick	_	^	^	_	4	compound	_	_
+4	Douglass	_	^	^	_	6	nsubj	_	_
+5	was	_	V	V	_	6	cop	_	_
+6	alive	_	A	A	_	2	ccomp	_	_
+1	The	_	D	D	_	2	det	_	_
+2	abolitionist's	_	S	N	_	4	nmod:poss	_	_
+4	family	_	N	N	_	5	nsubj	_	_
+5	offered	_	V	V	_	0	root	_	_
+6	a	_	G	G	_	5	dobj	_	_
+9	history	_	N	N	_	10	nsubj	_	_
+10	lesson	_	V	V	_	6	acl:relcl	_	_
+
+***********************************************************
+1	He	_	O	O	_	2	nsubj	_	_
+2	called	_	V	V	_	0	root	_	_
+3	Trump	_	^	^	_	6	dep	_	_
+5	a	_	D	D	_	6	det	_	_
+6	threat	_	N	N	_	2	xcomp	_	_
+1	Now	_	R	R	_	8	nsubjpass	_	_
+3	Germany's	_	Z	^	_	6	nmod:poss	_	_
+5	foreign	_	A	A	_	6	amod	_	_
+6	minister	_	N	N	_	1	appos	_	_
+7	is	_	V	V	_	8	auxpass	_	_
+8	headed	_	V	V	_	0	root	_	_
+9	to	_	P	P	_	10	case	_	_
+10	D.C.	_	^	^	_	8	nmod	_	_
+
+***********************************************************
+1	Analysis	_	^	^	_	0	root	_	_
+3	Trump	_	^	^	_	6	compound	_	_
+4	draft	_	N	N	_	6	compound	_	_
+5	executive	_	N	N	_	6	compound	_	_
+6	order	_	N	N	_	1	dep	_	_
+7	full	_	A	A	_	9	case	_	_
+8	of	_	P	P	_	9	case	_	_
+9	sound	_	N	N	_	6	nmod	_	_
+10	and	_	&	&	_	9	cc	_	_
+11	fury	_	N	N	_	9	conj	_	_
+12	on	_	P	P	_	13	case	_	_
+13	immigration	_	N	N	_	9	nmod	_	_
+15	welfare	_	N	N	_	13	conj	_	_
+16	and	_	&	&	_	13	cc	_	_
+17	deportation	_	N	N	_	13	conj	_	_
+
+***********************************************************
+1	No	_	D	D	_	2	neg	_	_
+2	joke	_	N	N	_	0	root	_	_
+4	Colts'	_	Z	^	_	7	nmod:poss	_	_
+6	Pat	_	^	^	_	7	compound	_	_
+7	McAfee	_	^	^	_	8	nsubj	_	_
+8	retires	_	V	V	_	2	parataxis	_	_
+9	from	_	P	P	_	10	case	_	_
+10	NFL	_	^	^	_	8	nmod	_	_
+11	to	_	P	P	_	12	mark	_	_
+12	focus	_	V	V	_	8	xcomp	_	_
+13	on	_	P	P	_	14	case	_	_
+14	comedy	_	N	N	_	12	nmod	_	_
+
+***********************************************************
+1	Anxious	_	A	A	_	2	amod	_	_
+2	Indians	_	^	^	_	3	nsubj	_	_
+3	turn	_	V	V	_	0	root	_	_
+4	to	_	P	P	_	5	case	_	_
+5	astrologers	_	N	N	_	3	nmod	_	_
+6	for	_	P	P	_	7	case	_	_
+7	insight	_	N	N	_	5	nmod	_	_
+8	into	_	P	P	_	9	case	_	_
+9	future	_	N	N	_	3	nmod	_	_
+10	under	_	P	P	_	11	case	_	_
+11	Trump	_	^	^	_	9	nmod	_	_
+
+***********************************************************
+1	Dear	_	^	^	_	3	compound	_	_
+2	Mr.	_	^	^	_	3	compound	_	_
+3	President	_	^	^	_	0	root	_	_
+5	This	_	D	D	_	6	nsubj	_	_
+6	is	_	V	V	_	3	parataxis	_	_
+7	how	_	R	R	_	12	advmod	_	_
+8	federal	_	A	A	_	9	amod	_	_
+9	funding	_	N	N	_	12	nsubj	_	_
+10	to	_	P	P	_	11	case	_	_
+11	universities	_	N	N	_	9	nmod	_	_
+12	works	_	V	V	_	6	ccomp	_	_
+
+***********************************************************
+1	John	_	^	^	_	3	compound	_	_
+2	Kent	_	^	^	_	3	compound	_	_
+3	Cooke	_	^	^	_	6	nsubj	_	_
+4	didn't	_	V	V	_	6	aux	_	_
+6	get	_	V	V	_	0	root	_	_
+7	his	_	D	D	_	8	nmod:poss	_	_
+8	father's	_	S	N	_	10	nmod:poss	_	_
+10	Redskins	_	N	N	_	6	dobj	_	_
+1	He	_	O	O	_	2	nsubj	_	_
+2	got	_	V	V	_	0	root	_	_
+3	something	_	N	N	_	2	dobj	_	_
+4	better	_	R	R	_	2	advmod	_	_
+
+***********************************************************
+1	A	_	D	D	_	2	det	_	_
+2	pastor	_	N	N	_	3	nsubj	_	_
+3	wrote	_	V	V	_	0	root	_	_
+4	a	_	D	D	_	5	det	_	_
+5	book	_	N	N	_	3	dobj	_	_
+6	about	_	P	P	_	10	mark	_	_
+7	being	_	V	V	_	10	cop	_	_
+8	a	_	D	D	_	10	det	_	_
+9	better	_	A	A	_	10	amod	_	_
+10	man	_	N	N	_	3	advcl	_	_
+1	Weeks	_	N	N	_	2	nmod:npmod	_	_
+2	later	_	R	R	_	6	advmod	_	_
+4	he	_	O	O	_	6	nsubjpass	_	_
+5	was	_	V	V	_	6	auxpass	_	_
+6	caught	_	V	V	_	0	root	_	_
+7	naked	_	A	A	_	6	advmod	_	_
+9	in	_	P	P	_	11	case	_	_
+10	an	_	D	D	_	11	det	_	_
+11	affair	_	N	N	_	6	nmod	_	_
+
+***********************************************************
+1	Trump's	_	Z	^	_	4	nmod:poss	_	_
+3	vaccine	_	N	N	_	4	compound	_	_
+4	views	_	N	N	_	14	nsubj	_	_
+5	at	_	P	P	_	6	case	_	_
+6	odds	_	N	N	_	4	nmod	_	_
+7	with	_	P	P	_	8	case	_	_
+8	those	_	D	D	_	6	nmod	_	_
+9	of	_	P	P	_	11	case	_	_
+10	most	_	A	A	_	11	amod	_	_
+11	Americans	_	N	N	_	8	nmod	_	_
+13	study	_	N	N	_	11	appos	_	_
+14	says	_	V	V	_	0	root	_	_
+
+***********************************************************
