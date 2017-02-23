@@ -1,18 +1,24 @@
-1. Tree for normal parser.
+90. Tree for normal parser.
 'Dummy'
-└── 'Investing'
-    ├── 'BitCoins'
-    └── 'via'
-        └── 'process'
-            ├── 'our'
-            └── 'creative'
+└── "McCain's"
+    ├── 'John'
+    └── 'tweet'
+        ├── 'deletes'
+        │   └── 'son'
+        └── 'slamming'
+            └── 'defense'
+                ├── "Trump's"
+                └── 'Putin'
 Tree for tweet parser.
 'Dummy'
-└── 'Investing'
-    ├── 'BitCoins'
-    └── 'via'
-        └── 'process'
-            ├── 'our'
-            └── 'creative'
-Distance is 6
+└── 'deletes'
+    ├── 'son'
+    │   └── 'John'
+    │       └── "McCain's"
+    └── 'tweet'
+        └── 'slamming'
+            └── 'defense'
+                └── 'Putin'
+                    └── "Trump's"
+Distance is 19
 *****************************************************

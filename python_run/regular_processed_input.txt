@@ -1,0 +1,1673 @@
+1	NEW	_	^	^	_	2	NMOD
+2	REPORT	_	^	^	_	3	SUB
+3	remains	_	V	V	_	0	ROOT
+4	one	_	$	$	_	3	PRD
+5	of	_	P	P	_	4	NMOD
+6	the	_	D	D	_	7	NMOD
+7	continent's	_	L	N	_	11	SUB
+9	most	_	R	R	_	10	AMOD
+10	buoyant	_	A	A	_	11	NMOD
+11	economies	_	N	N	_	5	PMOD
+12	with	_	P	P	_	11	NMOD
+13	a	_	D	D	_	15	NMOD
+14	growth	_	N	N	_	15	NMOD
+15	rate	_	N	N	_	12	PMOD
+16	of	_	P	P	_	15	NMOD
+17	79	_	$	$	_	16	PMOD
+18	in	_	P	P	_	15	NMOD
+19	2016	_	$	$	_	18	PMOD
+
+*****************************************************
+1	Investing	_	V	V	_	0	ROOT
+2	BitCoins	_	N	N	_	1	OBJ
+3	via	_	P	P	_	1	VMOD
+4	our	_	D	D	_	6	NMOD
+5	creative	_	A	A	_	6	NMOD
+6	process	_	N	N	_	3	PMOD
+
+*****************************************************
+1	Where's	_	Z	^	_	0	SUB
+3	your	_	D	D	_	5	NMOD
+4	first	_	A	A	_	5	NMOD
+5	stop	_	N	N	_	1	OBJ
+6	in	_	P	P	_	1	VMOD
+7	the	_	D	D	_	8	NMOD
+8	morning	_	N	N	_	6	PMOD
+1	BECNYC's	_	Z	^	_	3	NMOD
+3	elevated	_	V	V	_	0	ROOT
+4	bacon	_	N	N	_	5	NMOD
+5	egg	_	N	N	_	8	NMOD
+6	and	_	&	&	_	8	NMOD
+7	cheese	_	N	N	_	8	NMOD
+8	makes	_	N	N	_	3	OBJ
+9	this	_	D	D	_	10	NMOD
+10	decision	_	N	N	_	3	VMOD
+11	a	_	D	D	_	12	NMOD
+12	nobrain	_	N	N	_	3	OBJ
+
+*****************************************************
+1	Try	_	V	V	_	0	ROOT
+2	this	_	D	D	_	3	NMOD
+3	quiz	_	N	N	_	1	OBJ
+4	from	_	P	P	_	3	NMOD
+5	blogdecristina	_	N	N	_	4	PMOD
+6	to	_	P	P	_	7	VMOD
+7	find	_	V	V	_	1	VMOD
+8	out	_	R	R	_	7	VMOD
+9	about	_	P	P	_	7	VMOD
+10	some	_	D	D	_	9	PMOD
+11	of	_	P	P	_	10	NMOD
+12	the	_	D	D	_	16	NMOD
+13	most	_	R	R	_	14	AMOD
+14	common	_	A	A	_	16	NMOD
+15	pronunciation	_	N	N	_	16	NMOD
+16	mistakes	_	N	N	_	11	PMOD
+17	in	_	P	P	_	16	NMOD
+18	exams	_	N	N	_	17	PMOD
+
+*****************************************************
+1	We'	_	^	^	_	2	NMOD
+2	re	_	^	^	_	3	SUB
+3	moving	_	V	V	_	0	ROOT
+1	Please	_	!	!	_	2	VMOD
+2	follow	_	V	V	_	0	ROOT
+3	your	_	D	D	_	9	NMOD
+4	local	_	A	A	_	9	NMOD
+5	McDonalds	_	^	^	_	9	NMOD
+6	McDonaldsKSA	_	^	^	_	9	NMOD
+7	McDonaldsUAE	_	^	^	_	9	NMOD
+8	McDonaldsQatar	_	^	^	_	9	NMOD
+9	McDonaldsKuwait	_	^	^	_	2	OBJ
+
+*****************************************************
+1	Yes	_	!	!	_	3	VMOD
+2	we	_	O	O	_	3	SUB
+3	can	_	V	V	_	0	ROOT
+1	Yes	_	!	!	_	3	VMOD
+2	we	_	O	O	_	3	SUB
+3	did	_	V	V	_	0	ROOT
+1	Thank	_	V	V	_	0	ROOT
+2	you	_	O	O	_	1	OBJ
+3	for	_	P	P	_	1	VMOD
+4	being	_	V	V	_	3	PMOD
+5	a	_	D	D	_	6	NMOD
+6	part	_	N	N	_	4	PRD
+7	of	_	P	P	_	6	NMOD
+8	the	_	D	D	_	11	NMOD
+9	past	_	A	A	_	11	NMOD
+10	eight	_	$	$	_	11	NMOD
+11	years	_	N	N	_	7	PMOD
+
+*****************************************************
+1	With	_	P	P	_	10	VMOD
+2	its	_	D	D	_	4	NMOD
+3	superior	_	A	A	_	4	NMOD
+4	range	_	N	N	_	1	PMOD
+5	this	_	D	D	_	6	NMOD
+6	777300ER	_	^	^	_	9	NMOD
+7	and	_	&	&	_	9	NMOD
+8	its	_	D	D	_	9	NMOD
+9	windows	_	N	N	_	10	SUB
+10	will	_	V	V	_	0	ROOT
+11	show	_	V	V	_	10	VC
+12	you	_	O	O	_	11	OBJ
+13	the	_	D	D	_	14	NMOD
+14	world	_	N	N	_	11	OBJ
+
+*****************************************************
+1	BCC	_	^	^	_	2	SUB
+2	publishes	_	V	V	_	0	ROOT
+3	Trade	_	^	^	_	5	NMOD
+4	Survey	_	^	^	_	5	NMOD
+5	tomorrow	_	N	N	_	2	OBJ
+6	looking	_	V	V	_	2	VMOD
+7	at	_	P	P	_	6	VMOD
+8	impact	_	N	N	_	7	PMOD
+9	of	_	P	P	_	8	NMOD
+10	falling	_	V	V	_	9	PMOD
+11	pound	_	N	N	_	10	OBJ
+12	on	_	P	P	_	10	VMOD
+13	biz	_	N	N	_	12	PMOD
+1	BCCAdam	_	N	N	_	2	SUB
+2	will	_	V	V	_	0	ROOT
+3	be	_	V	V	_	2	VC
+4	on	_	P	P	_	3	PRD
+5	CNBC	_	^	^	_	4	PMOD
+6	at	_	P	P	_	3	VMOD
+7	0645	_	$	$	_	6	PMOD
+8	discussing	_	V	V	_	3	VMOD
+9	the	_	D	D	_	10	NMOD
+10	results	_	N	N	_	8	OBJ
+
+*****************************************************
+1	What	_	O	O	_	2	VMOD
+2	Matters	_	V	V	_	0	ROOT
+3	Katherine	_	^	^	_	6	NMOD
+4	Johnson	_	^	^	_	6	NMOD
+5	NASA	_	^	^	_	6	NMOD
+6	Pioneer	_	^	^	_	8	NMOD
+7	and	_	&	&	_	8	NMOD
+8	Computer	_	^	^	_	2	OBJ
+
+*****************************************************
+1	Tips	_	N	N	_	15	NMOD
+2	from	_	P	P	_	1	NMOD
+3	residents	_	N	N	_	2	PMOD
+4	to	_	P	P	_	2	PMOD
+5	students	_	N	N	_	4	PMOD
+6	on	_	P	P	_	5	NMOD
+7	how	_	R	R	_	6	PMOD
+8	to	_	P	P	_	9	VMOD
+9	weigh	_	V	V	_	7	SBAR
+10	your	_	D	D	_	12	NMOD
+11	specialty	_	N	N	_	12	NMOD
+12	options	_	N	N	_	9	OBJ
+13	and	_	&	&	_	15	NMOD
+14	worklife	_	A	A	_	15	NMOD
+15	preferences	_	N	N	_	0	ROOT
+
+*****************************************************
+1	Looking	_	V	V	_	0	ROOT
+2	for	_	P	P	_	1	VMOD
+3	an	_	D	D	_	2	PMOD
+1	We've	_	L	A	_	3	NMOD
+3	got	_	V	V	_	0	ROOT
+4	over	_	P	P	_	3	VMOD
+5	4000	_	$	$	_	4	PMOD
+6	of	_	P	P	_	5	NMOD
+7	them	_	O	O	_	6	PMOD
+1	Here	_	R	R	_	2	VMOD
+2	are	_	V	V	_	0	ROOT
+3	just	_	R	R	_	5	NMOD
+4	a	_	D	D	_	5	NMOD
+5	few	_	A	A	_	2	PRD
+6	at	_	P	P	_	2	VMOD
+7	our	_	D	D	_	9	NMOD
+8	collaboration	_	N	N	_	9	NMOD
+9	meeting	_	N	N	_	6	PMOD
+
+*****************************************************
+1	Intimate	_	A	A	_	3	NMOD
+2	partner	_	N	N	_	3	NMOD
+3	violence	_	N	N	_	0	ROOT
+4	screening	_	V	V	_	3	NMOD
+5	guidance	_	N	N	_	4	OBJ
+6	in	_	P	P	_	4	VMOD
+7	new	_	A	A	_	8	NMOD
+8	issue	_	N	N	_	6	PMOD
+9	of	_	P	P	_	8	NMOD
+10	Journal	_	^	^	_	9	PMOD
+11	of	_	P	P	_	10	NMOD
+12	Women's	_	Z	^	_	11	PMOD
+14	Health	_	^	^	_	11	PMOD
+
+*****************************************************
+1	How	_	R	R	_	0	ROOT
+2	Federal	_	^	^	_	4	NMOD
+3	Funding	_	^	^	_	4	NMOD
+4	Works	_	^	^	_	1	SBAR
+5	at	_	P	P	_	4	NMOD
+6	'	_	G	G	_	7	NMOD
+7	infosheet	_	N	N	_	5	PMOD
+8	released	_	V	V	_	7	NMOD
+9	by	_	P	P	_	8	VMOD
+10	PPFA	_	^	^	_	9	PMOD
+
+*****************************************************
+1	Join	_	V	V	_	0	ROOT
+2	us	_	O	O	_	1	OBJ
+3	in	_	P	P	_	1	VMOD
+4	a	_	D	D	_	6	NMOD
+5	publicprivate	_	A	A	_	6	NMOD
+6	partnership	_	N	N	_	3	PMOD
+7	to	_	P	P	_	8	VMOD
+8	advance	_	V	V	_	6	NMOD
+9	commercial	_	A	A	_	11	NMOD
+10	space	_	N	N	_	11	NMOD
+11	capabilities	_	N	N	_	8	OBJ
+12	and	_	&	&	_	8	VMOD
+13	enable	_	V	V	_	8	VMOD
+14	future	_	A	A	_	16	NMOD
+15	NASA	_	^	^	_	16	NMOD
+16	missions	_	N	N	_	13	OBJ
+
+*****************************************************
+1	Researchers	_	N	N	_	2	SUB
+2	have	_	V	V	_	0	ROOT
+3	developed	_	V	V	_	2	VC
+4	a	_	D	D	_	7	NMOD
+5	customizable	_	A	A	_	7	NMOD
+6	soft	_	A	A	_	7	NMOD
+7	robot	_	N	N	_	3	OBJ
+8	that	_	D	D	_	7	NMOD
+9	fits	_	V	V	_	8	SBAR
+10	around	_	P	P	_	9	VMOD
+11	the	_	D	D	_	12	NMOD
+12	heart	_	N	N	_	10	PMOD
+13	and	_	&	&	_	9	VMOD
+14	helps	_	V	V	_	9	VMOD
+15	it	_	O	O	_	16	SUB
+16	beat	_	V	V	_	14	VMOD
+
+*****************************************************
+1	Enjoy	_	V	V	_	0	ROOT
+2	exclusive	_	A	A	_	4	NMOD
+3	online	_	A	A	_	4	NMOD
+4	discounts	_	N	N	_	1	OBJ
+5	on	_	P	P	_	4	NMOD
+6	Telenor	_	^	^	_	7	NMOD
+7	devices	_	N	N	_	5	PMOD
+8	with	_	P	P	_	7	NMOD
+9	the	_	D	D	_	13	NMOD
+10	Telenor	_	^	^	_	13	NMOD
+11	Big	_	^	^	_	13	NMOD
+12	Bazaar	_	^	^	_	13	NMOD
+13	sale	_	N	N	_	8	PMOD
+1	To	_	P	P	_	2	VMOD
+2	order	_	V	V	_	0	ROOT
+3	now	_	R	R	_	2	VMOD
+4	visit	_	V	V	_	2	VMOD
+
+*****************************************************
+1	It's	_	L	V	_	0	ROOT
+3	our	_	D	D	_	5	NMOD
+4	first	_	A	A	_	5	NMOD
+5	February	_	^	^	_	1	OBJ
+1	Follow	_	V	V	_	0	ROOT
+2	RT	_	^	^	_	1	OBJ
+3	for	_	P	P	_	1	VMOD
+4	a	_	D	D	_	5	NMOD
+5	chance	_	N	N	_	3	PMOD
+6	to	_	P	P	_	5	NMOD
+7	a	_	D	D	_	11	NMOD
+8	Wood	_	^	^	_	11	NMOD
+9	Metal	_	^	^	_	11	NMOD
+10	paint	_	N	N	_	11	NMOD
+11	voucher	_	N	N	_	6	PMOD
+12	to	_	P	P	_	13	VMOD
+13	spruce	_	V	V	_	5	NMOD
+14	up	_	R	R	_	13	VMOD
+
+*****************************************************
+1	First	_	A	A	_	2	NMOD
+2	impressions	_	N	N	_	3	SUB
+3	are	_	V	V	_	0	ROOT
+4	everything	_	N	N	_	3	PRD
+1	Create	_	V	V	_	0	ROOT
+2	that	_	D	D	_	4	NMOD
+3	wow	_	A	A	_	4	NMOD
+4	factor	_	N	N	_	1	OBJ
+5	with	_	P	P	_	4	NMOD
+6	Aura	_	^	^	_	7	NMOD
+7	Exterior	_	^	^	_	5	PMOD
+8	via	_	P	P	_	7	NMOD
+9	Emily	_	^	^	_	10	NMOD
+10	Henderson	_	^	^	_	8	PMOD
+
+*****************************************************
+1	US	_	O	O	_	3	SUB
+2	recycler	_	R	R	_	3	VMOD
+3	boosts	_	V	V	_	0	ROOT
+4	daily	_	A	A	_	5	NMOD
+5	productivity	_	N	N	_	3	OBJ
+6	using	_	V	V	_	5	NMOD
+7	new	_	A	A	_	11	NMOD
+8	Cat	_	^	^	_	11	NMOD
+9	Scrap	_	N	N	_	11	NMOD
+10	Shear	_	^	^	_	11	NMOD
+11	See	_	^	^	_	6	OBJ
+12	it	_	O	O	_	13	SUB
+13	for	_	P	P	_	11	VMOD
+14	yourself	_	O	O	_	13	PMOD
+15	at	_	P	P	_	3	VMOD
+
+*****************************************************
+1	Love	_	V	V	_	0	ROOT
+2	the	_	D	D	_	3	NMOD
+3	convenience	_	N	N	_	1	OBJ
+4	of	_	P	P	_	3	NMOD
+5	cashless	_	A	A	_	6	NMOD
+6	transactions	_	N	N	_	4	PMOD
+1	Grab	_	^	^	_	7	NMOD
+2	these	_	D	D	_	7	NMOD
+3	Limited	_	^	^	_	7	NMOD
+4	Edition	_	N	N	_	7	NMOD
+5	PETRONAS	_	^	^	_	7	NMOD
+6	Gift	_	N	N	_	7	NMOD
+7	Cards	_	N	N	_	8	NMOD
+8	today	_	N	N	_	0	ROOT
+1	More	_	R	R	_	2	AMOD
+2	info	_	R	R	_	0	ROOT
+
+*****************************************************
+1	We	_	O	O	_	2	SUB
+2	had	_	V	V	_	0	ROOT
+3	a	_	D	D	_	4	NMOD
+4	blast	_	N	N	_	2	OBJ
+5	at	_	P	P	_	2	VMOD
+1	Check	_	V	V	_	0	ROOT
+2	out	_	R	R	_	1	VMOD
+3	to	_	P	P	_	4	VMOD
+4	learn	_	V	V	_	1	VMOD
+5	about	_	P	P	_	4	VMOD
+6	more	_	A	A	_	7	NMOD
+7	ways	_	N	N	_	5	PMOD
+8	to	_	P	P	_	9	VMOD
+9	explore	_	V	V	_	7	NMOD
+
+*****************************************************
+1	We	_	O	O	_	2	SUB
+2	are	_	V	V	_	0	ROOT
+3	proud	_	A	A	_	2	PRD
+4	to	_	P	P	_	5	VMOD
+5	stand	_	V	V	_	3	AMOD
+6	up	_	R	R	_	5	VMOD
+7	for	_	P	P	_	5	VMOD
+8	with	_	P	P	_	7	PMOD
+9	CLICSargent	_	^	^	_	8	PMOD
+10	on	_	P	P	_	5	VMOD
+11	World	_	^	^	_	13	NMOD
+12	Cancer	_	^	^	_	13	NMOD
+13	Day	_	^	^	_	10	PMOD
+
+*****************************************************
+1	Join	_	V	V	_	0	ROOT
+2	BloombergLIVE	_	^	^	_	3	NMOD
+3	Feb	_	^	^	_	1	OBJ
+4	16	_	$	$	_	3	NMOD
+5	in	_	P	P	_	1	VMOD
+6	Houston	_	^	^	_	5	PMOD
+7	for	_	P	P	_	1	VMOD
+8	the	_	D	D	_	7	PMOD
+9	with	_	P	P	_	8	NMOD
+10	BHInc	_	^	^	_	12	NMOD
+11	Halliburton	_	^	^	_	12	NMOD
+12	FBI	_	^	^	_	9	PMOD
+
+*****************************************************
+1	At	_	P	P	_	5	VMOD
+2	103	_	$	$	_	1	PMOD
+3	Ruline	_	^	^	_	4	NMOD
+4	Steininger	_	^	^	_	5	SUB
+5	had	_	V	V	_	0	ROOT
+6	an	_	D	D	_	8	NMOD
+7	energy	_	N	N	_	8	NMOD
+8	vibrancy	_	N	N	_	5	OBJ
+9	all	_	D	D	_	10	SUB
+10	should	_	V	V	_	5	VMOD
+11	aspire	_	V	V	_	10	VC
+12	to	_	P	P	_	11	VMOD
+1	My	_	D	D	_	3	NMOD
+2	thoughts	_	N	N	_	3	NMOD
+3	prayers	_	N	N	_	4	SUB
+4	are	_	V	V	_	0	ROOT
+5	w	_	^	^	_	4	PRD
+6	her	_	D	D	_	7	NMOD
+7	family	_	N	N	_	4	PRD
+
+*****************************************************
+1	Atlanta	_	^	^	_	3	NMOD
+2	or	_	&	&	_	3	NMOD
+3	Boston	_	^	^	_	0	ROOT
+1	It's	_	L	V	_	0	ROOT
+3	one	_	$	$	_	1	OBJ
+4	of	_	P	P	_	3	NMOD
+5	those	_	D	D	_	6	NMOD
+6	games	_	N	N	_	4	PMOD
+7	when	_	R	R	_	1	VMOD
+8	we're	_	L	N	_	10	NMOD
+10	conflicted	_	V	V	_	7	SBAR
+1	We	_	O	O	_	2	SUB
+2	have	_	V	V	_	0	ROOT
+3	guidebooks	_	N	N	_	2	OBJ
+4	for	_	P	P	_	3	NMOD
+5	both	_	D	D	_	4	PMOD
+
+*****************************************************
+1	It's	_	L	V	_	0	ROOT
+3	not	_	R	R	_	1	VMOD
+4	about	_	P	P	_	3	PMOD
+5	ideas	_	N	N	_	4	PMOD
+1	It's	_	Z	^	_	0	SUB
+3	about	_	P	P	_	1	VMOD
+4	making	_	V	V	_	3	PMOD
+5	ideas	_	N	N	_	6	SUB
+6	happen	_	V	V	_	4	VMOD
+1	Scott	_	^	^	_	4	NMOD
+2	Belsky	_	^	^	_	4	NMOD
+3	Behance	_	^	^	_	4	NMOD
+4	cofounder	_	N	N	_	0	ROOT
+
+*****************************************************
+1	We'	_	^	^	_	2	NMOD
+2	re	_	^	^	_	0	ROOT
+3	at	_	P	P	_	2	NMOD
+4	the	_	D	D	_	6	NMOD
+5	hrcncgala	_	N	N	_	6	NMOD
+6	tonight	_	N	N	_	3	PMOD
+7	with	_	P	P	_	6	NMOD
+8	our	_	D	D	_	9	NMOD
+9	teammates	_	N	N	_	7	PMOD
+10	celebrating	_	V	V	_	9	NMOD
+11	diversity	_	N	N	_	13	NMOD
+12	and	_	&	&	_	13	NMOD
+13	equality	_	N	N	_	10	OBJ
+14	for	_	P	P	_	13	NMOD
+15	all	_	D	D	_	14	PMOD
+
+*****************************************************
+1	MaraGrp	_	^	^	_	2	NMOD
+2	share	_	N	N	_	0	ROOT
+3	the	_	D	D	_	4	NMOD
+4	vision	_	N	N	_	2	OBJ
+5	of	_	P	P	_	4	NMOD
+6	creating	_	V	V	_	5	PMOD
+7	a	_	D	D	_	12	NMOD
+8	more	_	R	R	_	9	AMOD
+9	financially	_	R	R	_	10	AMOD
+10	inclusive	_	A	A	_	12	NMOD
+11	African	_	A	A	_	12	NMOD
+12	continent	_	N	N	_	6	OBJ
+
+*****************************************************
+1	With	_	P	P	_	8	VMOD
+2	economies	_	N	N	_	1	PMOD
+3	in	_	P	P	_	2	NMOD
+4	flux	_	N	N	_	3	PMOD
+5	the	_	D	D	_	6	NMOD
+6	need	_	N	N	_	8	SUB
+7	for	_	P	P	_	6	NMOD
+8	has	_	V	V	_	0	ROOT
+9	never	_	R	R	_	8	VMOD
+10	been	_	V	V	_	8	VC
+11	greater	_	A	A	_	10	PRD
+1	Get	_	V	V	_	0	ROOT
+2	involved	_	V	V	_	1	VC
+
+*****************************************************
+1	Find	_	V	V	_	0	ROOT
+2	the	_	D	D	_	6	NMOD
+3	perfect	_	A	A	_	6	NMOD
+4	New	_	^	^	_	6	NMOD
+5	Year	_	^	^	_	6	NMOD
+6	New	_	^	^	_	7	NMOD
+7	You	_	O	O	_	8	SUB
+8	color	_	N	N	_	1	OBJ
+1	Glidden	_	^	^	_	4	NMOD
+2	Diamond	_	^	^	_	4	NMOD
+3	Paint	_	N	N	_	4	NMOD
+4	Samples	_	N	N	_	5	SUB
+5	are	_	V	V	_	0	ROOT
+6	50	_	$	$	_	5	PRD
+7	off	_	P	P	_	5	VMOD
+8	online	_	N	N	_	7	PMOD
+9	here	_	R	R	_	5	VMOD
+
+*****************************************************
+1	facebook	_	^	^	_	2	SUB
+2	is	_	V	V	_	0	ROOT
+3	making	_	V	V	_	2	VC
+4	some	_	D	D	_	5	NMOD
+5	tweaks	_	N	N	_	3	OBJ
+6	to	_	P	P	_	3	VMOD
+7	your	_	D	D	_	8	NMOD
+8	News	_	N	N	_	9	SUB
+9	Feeds	_	V	V	_	6	PMOD
+10	via	_	P	P	_	9	VMOD
+11	mashable	_	N	N	_	10	PMOD
+
+*****************************************************
+1	Don't	_	V	^	_	3	SUB
+3	miss	_	V	V	_	0	ROOT
+4	the	_	D	D	_	5	NMOD
+5	spot	_	N	N	_	3	OBJ
+6	for	_	P	P	_	5	NMOD
+7	mcdonalds	_	N	N	_	6	PMOD
+8	by	_	P	P	_	3	VMOD
+9	before	_	P	P	_	8	PMOD
+10	today's	_	L	N	_	9	SUB
+12	big	_	A	A	_	13	NMOD
+13	game	_	N	N	_	10	OBJ
+
+*****************************************************
+1	Hey	_	R	R	_	0	ROOT
+1	We'	_	^	^	_	3	NMOD
+2	re	_	^	^	_	3	NMOD
+3	curious	_	A	A	_	0	ROOT
+4	which	_	D	D	_	3	NMOD
+5	team	_	N	N	_	4	NMOD
+6	are	_	V	V	_	4	SBAR
+7	you	_	O	O	_	6	SUB
+8	rooting	_	V	V	_	6	VMOD
+9	for	_	P	P	_	8	VMOD
+10	during	_	P	P	_	8	VMOD
+11	the	_	D	D	_	12	NMOD
+12	big	_	A	A	_	10	PMOD
+1	game	_	N	N	_	3	NMOD
+2	this	_	D	D	_	3	NMOD
+3	weekend	_	N	N	_	0	ROOT
+
+*****************************************************
+1	A	_	D	D	_	2	NMOD
+2	teammate	_	N	N	_	3	SUB
+3	can	_	V	V	_	0	ROOT
+4	make	_	V	V	_	3	VC
+5	a	_	D	D	_	7	NMOD
+6	weekend	_	N	N	_	7	NMOD
+7	task	_	N	N	_	4	OBJ
+8	a	_	D	D	_	9	NMOD
+9	little	_	A	A	_	10	AMOD
+10	easier	_	A	A	_	7	NMOD
+1	A	_	D	D	_	2	NMOD
+2	friend	_	N	N	_	3	SUB
+3	can	_	V	V	_	0	ROOT
+4	turn	_	V	V	_	3	VC
+5	it	_	O	O	_	4	OBJ
+6	into	_	P	P	_	4	VMOD
+7	a	_	D	D	_	9	NMOD
+8	whole	_	A	A	_	9	NMOD
+9	lot	_	N	N	_	6	PMOD
+10	of	_	P	P	_	9	NMOD
+11	fun	_	N	N	_	10	PMOD
+
+*****************************************************
+1	On	_	P	P	_	9	VMOD
+2	this	_	D	D	_	4	NMOD
+3	Groundhog	_	^	^	_	4	NMOD
+4	Day	_	^	^	_	1	PMOD
+5	3	_	$	$	_	4	NMOD
+6	very	_	R	R	_	7	AMOD
+7	small	_	A	A	_	8	NMOD
+8	asteroids	_	N	N	_	9	SUB
+9	will	_	V	V	_	0	ROOT
+10	safely	_	R	R	_	9	VMOD
+11	pass	_	V	V	_	9	VC
+12	Earth	_	N	N	_	11	OBJ
+1	One	_	$	$	_	2	SUB
+2	is	_	V	V	_	0	ROOT
+3	passing	_	V	V	_	2	VC
+4	within	_	P	P	_	3	VMOD
+5	orbit	_	N	N	_	4	PMOD
+6	of	_	P	P	_	5	NMOD
+7	Earth	_	N	N	_	8	NMOD
+8	moon	_	N	N	_	6	PMOD
+1	None	_	N	N	_	2	SUB
+2	pose	_	V	V	_	0	ROOT
+3	a	_	D	D	_	4	NMOD
+4	risk	_	N	N	_	2	OBJ
+
+*****************************************************
+1	We'll	_	L	A	_	3	NMOD
+3	curate	_	N	N	_	0	ROOT
+4	the	_	D	D	_	6	NMOD
+5	best	_	A	A	_	6	NMOD
+6	frames	_	N	N	_	3	OBJ
+7	for	_	P	P	_	6	NMOD
+8	your	_	D	D	_	10	NMOD
+9	face	_	N	N	_	10	NMOD
+10	shape	_	N	N	_	7	PMOD
+1	Simply	_	R	R	_	2	VMOD
+2	add	_	V	V	_	0	ROOT
+3	them	_	O	O	_	2	OBJ
+4	to	_	P	P	_	2	VMOD
+5	your	_	D	D	_	6	NMOD
+6	favorites	_	N	N	_	4	PMOD
+7	to	_	P	P	_	8	VMOD
+8	find	_	V	V	_	2	VMOD
+9	them	_	O	O	_	8	OBJ
+10	when	_	R	R	_	8	VMOD
+11	you're	_	L	N	_	13	NMOD
+13	ready	_	A	A	_	10	SBAR
+
+*****************************************************
+1	The	_	D	D	_	2	NMOD
+2	book	_	N	N	_	8	SUB
+3	I	_	O	O	_	4	SUB
+4	wrote	_	V	V	_	2	NMOD
+5	with	_	P	P	_	4	VMOD
+6	my	_	D	D	_	7	NMOD
+7	mom	_	N	N	_	5	PMOD
+8	is	_	V	V	_	0	ROOT
+9	now	_	R	R	_	8	VMOD
+10	available	_	A	A	_	8	PRD
+11	in	_	P	P	_	10	AMOD
+12	paperback	_	N	N	_	11	PMOD
+13	with	_	P	P	_	12	NMOD
+14	a	_	D	D	_	16	NMOD
+15	new	_	A	A	_	16	NMOD
+16	chapter	_	N	N	_	13	PMOD
+
+*****************************************************
+1	From	_	P	P	_	16	VMOD
+2	great	_	A	A	_	4	NMOD
+3	NYT	_	^	^	_	4	NMOD
+4	piece	_	N	N	_	6	SUB
+5	on	_	P	P	_	4	NMOD
+6	Gorsuch's	_	Z	^	_	1	PMOD
+8	days	_	N	N	_	6	OBJ
+9	at	_	P	P	_	8	NMOD
+10	Georgetown	_	^	^	_	11	NMOD
+11	Prep	_	^	^	_	9	PMOD
+12	The	_	D	D	_	14	NMOD
+13	school	_	N	N	_	14	NMOD
+14	yearbook	_	N	N	_	16	SUB
+15	jokingly	_	R	R	_	16	VMOD
+16	listed	_	V	V	_	0	ROOT
+17	him	_	O	O	_	16	OBJ
+18	as	_	P	P	_	16	VMOD
+19	founder	_	N	N	_	18	PMOD
+20	of	_	P	P	_	19	NMOD
+21	a	_	D	D	_	24	NMOD
+22	Fascism	_	^	^	_	24	NMOD
+23	Forever'	_	^	^	_	24	NMOD
+24	club	_	N	N	_	20	PMOD
+
+*****************************************************
+1	Every	_	D	D	_	3	NMOD
+2	federal	_	A	A	_	3	NMOD
+3	judge	_	N	N	_	5	SUB
+4	now	_	R	R	_	5	VMOD
+5	knows	_	V	V	_	0	ROOT
+6	that	_	P	P	_	5	VMOD
+7	ruling	_	V	V	_	10	VMOD
+8	against	_	P	P	_	7	VMOD
+9	Trump	_	^	^	_	8	PMOD
+10	means	_	V	V	_	6	SBAR
+11	being	_	V	V	_	10	VMOD
+12	personally	_	R	R	_	13	VMOD
+13	demonized	_	V	V	_	11	VC
+14	by	_	P	P	_	13	VMOD
+15	the	_	D	D	_	16	NMOD
+16	President	_	^	^	_	14	PMOD
+17	to	_	P	P	_	13	VMOD
+18	23	_	$	$	_	19	NMOD
+19	mi	_	N	N	_	17	PMOD
+
+*****************************************************
+1	How	_	R	R	_	2	VMOD
+2	Affects	_	V	V	_	0	ROOT
+3	Split	_	V	V	_	5	NMOD
+4	Test	_	N	N	_	5	NMOD
+5	Results	_	N	N	_	2	OBJ
+
+*****************************************************
+1	Trump	_	^	^	_	2	SUB
+2	does	_	V	V	_	0	ROOT
+3	not	_	R	R	_	2	VMOD
+4	tweet	_	V	V	_	2	VC
+5	very	_	R	R	_	4	VMOD
+6	often	_	R	R	_	5	AMOD
+7	about	_	P	P	_	4	VMOD
+8	his	_	D	D	_	9	NMOD
+9	plans	_	N	N	_	7	PMOD
+10	to	_	P	P	_	11	VMOD
+11	increase	_	V	V	_	9	NMOD
+12	middle	_	A	A	_	14	NMOD
+13	class	_	N	N	_	14	NMOD
+14	incomes	_	N	N	_	17	NMOD
+15	and	_	&	&	_	17	NMOD
+16	living	_	V	V	_	17	NMOD
+17	standards	_	N	N	_	11	OBJ
+
+*****************************************************
+1	I	_	O	O	_	2	SUB
+2	would	_	V	V	_	8	VMOD
+3	drop	_	V	V	_	2	VC
+4	the	_	D	D	_	5	NMOD
+5	mic	_	N	N	_	3	OBJ
+6	but	_	&	&	_	8	VMOD
+7	I	_	O	O	_	8	SUB
+8	know	_	V	V	_	0	ROOT
+9	how	_	R	R	_	8	VMOD
+10	expensive	_	A	A	_	9	AMOD
+11	they	_	O	O	_	12	SUB
+12	are	_	V	V	_	9	SBAR
+1	AllenHenry	_	R	R	_	0	ROOT
+
+*****************************************************
+1	Phil	_	^	^	_	2	NMOD
+2	Simms	_	^	^	_	4	SUB
+3	in	_	P	P	_	2	NMOD
+4	today's	_	L	N	_	0	PMOD
+6	Wall	_	^	^	_	8	NMOD
+7	Street	_	^	^	_	8	NMOD
+8	Journal	_	^	^	_	4	OBJ
+
+*****************************************************
+1	thoughtmotion	_	^	^	_	2	NMOD
+2	Yup	_	^	^	_	0	ROOT
+1	This	_	D	D	_	2	NMOD
+2	anime	_	N	N	_	3	SUB
+3	is	_	V	V	_	0	ROOT
+4	my	_	D	D	_	7	NMOD
+5	own	_	A	A	_	7	NMOD
+6	Mr	_	^	^	_	7	NMOD
+7	Sparkle	_	^	^	_	3	PRD
+1	I'll	_	L	N	_	4	NMOD
+3	never	_	R	R	_	4	VMOD
+4	know	_	V	V	_	10	VMOD
+5	how	_	R	R	_	4	VMOD
+6	it	_	O	O	_	7	SUB
+7	happened	_	V	V	_	5	SBAR
+8	but	_	&	&	_	10	VMOD
+9	it	_	O	O	_	10	SUB
+10	makes	_	V	V	_	0	ROOT
+11	me	_	O	O	_	12	SUB
+12	smile	_	V	V	_	10	VMOD
+13	all	_	D	D	_	12	VMOD
+
+*****************************************************
+1	NBA	_	N	N	_	2	NMOD
+2	Teams	_	N	N	_	3	SUB
+3	Banned	_	V	V	_	0	ROOT
+4	From	_	P	P	_	3	VMOD
+5	Using	_	V	V	_	4	PMOD
+6	Wearables	_	^	^	_	7	NMOD
+7	Data	_	^	^	_	5	OBJ
+8	In	_	P	P	_	5	VMOD
+9	Contract	_	^	^	_	10	NMOD
+10	Negotiations	_	N	N	_	8	PMOD
+11	Player	_	^	^	_	12	NMOD
+12	Transactions	_	N	N	_	10	OBJ
+
+*****************************************************
+1	11	_	^	^	_	2	NMOD
+2	Ways	_	^	^	_	0	ROOT
+3	to	_	P	P	_	2	NMOD
+4	Hack	_	^	^	_	3	PMOD
+5	the	_	D	D	_	8	NMOD
+6	LinkedIn	_	^	^	_	8	NMOD
+7	Pulse	_	N	N	_	8	NMOD
+8	Algorithm	_	^	^	_	4	OBJ
+9	via	_	P	P	_	2	NMOD
+10	larrykim	_	N	N	_	9	PMOD
+
+*****************************************************
+1	Germany	_	^	^	_	2	SUB
+2	struggles	_	V	V	_	0	ROOT
+3	to	_	P	P	_	4	VMOD
+4	fight	_	V	V	_	2	VMOD
+5	antimigrant	_	A	A	_	7	NMOD
+6	fake	_	A	A	_	7	NMOD
+7	news	_	N	N	_	4	OBJ
+8	amid	_	P	P	_	4	VMOD
+9	fears	_	N	N	_	8	PMOD
+10	it	_	O	O	_	11	SUB
+11	could	_	V	V	_	9	NMOD
+12	influence	_	V	V	_	11	VC
+13	its	_	D	D	_	14	NMOD
+14	election	_	N	N	_	12	OBJ
+
+*****************************************************
+1	OLDS	_	N	N	_	0	ROOT
+2	I	_	O	O	_	3	SUB
+3	made	_	V	V	_	1	NMOD
+4	you	_	O	O	_	3	OBJ
+5	a	_	D	D	_	11	NMOD
+6	new	_	A	A	_	11	NMOD
+7	and	_	&	&	_	11	NMOD
+8	slightly	_	R	R	_	9	VMOD
+9	improved	_	V	V	_	11	NMOD
+10	Snapchat	_	A	A	_	11	NMOD
+11	guide	_	N	N	_	3	OBJ
+1	Don't	_	V	^	_	3	SUB
+3	worry	_	V	V	_	0	ROOT
+4	it	_	O	O	_	6	SUB
+5	still	_	R	R	_	6	VMOD
+6	features	_	V	V	_	3	VMOD
+7	samsheffer	_	N	N	_	6	OBJ
+
+*****************************************************
+1	Pinterest	_	^	^	_	2	NMOD
+2	Sargento	_	^	^	_	3	SUB
+3	Kick	_	V	V	_	0	ROOT
+4	Off	_	R	R	_	3	VMOD
+5	Pinterest	_	^	^	_	11	NMOD
+6	MVPP	_	^	^	_	11	NMOD
+7	Most	_	^	^	_	11	NMOD
+8	Valuable	_	^	^	_	11	NMOD
+9	Party	_	^	^	_	11	NMOD
+10	Planner	_	N	N	_	11	NMOD
+11	Microsite	_	^	^	_	3	OBJ
+
+*****************************************************
+1	I	_	O	O	_	2	SUB
+2	get	_	V	V	_	0	ROOT
+3	push	_	N	N	_	4	NMOD
+4	alerts	_	N	N	_	10	SUB
+5	from	_	P	P	_	4	NMOD
+6	Trump	_	^	^	_	8	NMOD
+7	and	_	&	&	_	8	NMOD
+8	Trulia	_	^	^	_	5	PMOD
+9	not	_	R	R	_	10	AMOD
+10	sure	_	A	A	_	2	PRD
+11	which	_	D	D	_	10	AMOD
+12	is	_	V	V	_	11	SBAR
+13	worse	_	A	A	_	12	PRD
+14	for	_	P	P	_	13	AMOD
+15	my	_	D	D	_	17	NMOD
+16	anxiety	_	N	N	_	17	NMOD
+17	levels	_	N	N	_	14	PMOD
+
+*****************************************************
+1	I'	_	^	^	_	2	NMOD
+2	m	_	^	^	_	4	SUB
+3	deeply	_	R	R	_	4	AMOD
+4	grateful	_	A	A	_	0	ROOT
+5	to	_	P	P	_	4	AMOD
+6	all	_	D	D	_	5	PMOD
+7	of	_	P	P	_	6	NMOD
+8	you	_	O	O	_	7	PMOD
+9	whose	_	WP$	WP$	_	8	NMOD
+10	years	_	N	N	_	9	NMOD
+11	of	_	P	P	_	9	NMOD
+12	support	_	N	N	_	11	PMOD
+13	for	_	P	P	_	12	NMOD
+14	xychelsea	_	N	N	_	13	PMOD
+15	won	_	V	V	_	14	NMOD
+16	her	_	D	D	_	17	NMOD
+17	freedom	_	N	N	_	15	OBJ
+
+*****************************************************
+1	Trump's	_	Z	^	_	0	SUB
+3	WhiteSupremacistinChief	_	^	^	_	5	NMOD
+4	Steve	_	^	^	_	5	NMOD
+5	Bannon	_	^	^	_	6	SUB
+6	called	_	V	V	_	1	VMOD
+7	US	_	O	O	_	9	NMOD
+8	Jews	_	^	^	_	9	NMOD
+9	enablers	_	N	N	_	6	OBJ
+10	of	_	P	P	_	9	NMOD
+11	Jihad	_	N	N	_	10	PMOD
+
+*****************************************************
+1	Isn't	_	L	A	_	0	NMOD
+3	it	_	O	O	_	6	SUB
+4	the	_	D	D	_	6	NMOD
+5	second	_	A	A	_	6	NMOD
+6	day	_	N	N	_	1	NMOD
+7	of	_	P	P	_	6	NMOD
+8	the	_	D	D	_	9	NMOD
+9	month	_	N	N	_	7	PMOD
+1	Also	_	R	R	_	2	VMOD
+2	subscribe	_	V	V	_	0	ROOT
+3	I	_	O	O	_	4	SUB
+4	know	_	V	V	_	2	VMOD
+5	the	_	D	D	_	6	NMOD
+6	struggle	_	N	N	_	7	SUB
+7	is	_	V	V	_	4	VMOD
+8	hard	_	A	A	_	7	PRD
+9	but	_	&	&	_	2	VMOD
+
+*****************************************************
+1	Reddit's	_	L	V	_	0	ROOT
+3	worldnews	_	V	V	_	1	VMOD
+4	community	_	N	N	_	5	SUB
+5	used	_	V	V	_	3	VMOD
+6	a	_	D	D	_	7	NMOD
+7	series	_	N	N	_	5	OBJ
+8	of	_	P	P	_	7	NMOD
+9	nudges	_	N	N	_	8	PMOD
+10	to	_	P	P	_	11	VMOD
+11	push	_	V	V	_	5	VMOD
+12	users	_	N	N	_	14	SUB
+13	to	_	P	P	_	14	VMOD
+14	factcheck	_	V	V	_	11	VMOD
+15	suspicious	_	A	A	_	18	NMOD
+16	news	_	N	N	_	18	NMOD
+17	Nieman	_	^	^	_	18	NMOD
+18	Journ	_	^	^	_	14	OBJ
+
+*****************************************************
+1	GeorgeHWBush's	_	Z	^	_	0	SUB
+3	physicians	_	N	N	_	4	SUB
+4	believe	_	V	V	_	1	VMOD
+5	he	_	O	O	_	6	SUB
+6	could	_	V	V	_	4	VMOD
+7	possibly	_	R	R	_	6	VMOD
+8	go	_	V	V	_	6	VC
+9	home	_	N	N	_	8	VMOD
+10	over	_	P	P	_	8	VMOD
+11	the	_	D	D	_	12	NMOD
+12	weekend	_	N	N	_	10	PMOD
+13	per	_	P	P	_	12	NMOD
+14	his	_	D	D	_	15	NMOD
+15	spokesperson	_	N	N	_	13	PMOD
+
+*****************************************************
+1	I	_	O	O	_	2	SUB
+2	read	_	V	V	_	0	ROOT
+3	this	_	D	D	_	4	NMOD
+4	news	_	N	N	_	2	OBJ
+5	with	_	P	P	_	2	VMOD
+6	frustration	_	N	N	_	8	NMOD
+7	and	_	&	&	_	8	NMOD
+8	disappointment	_	N	N	_	5	PMOD
+1	nymag	_	^	^	_	2	SUB
+2	does	_	V	V	_	0	ROOT
+3	great	_	A	A	_	4	NMOD
+4	work	_	N	N	_	2	OBJ
+1	I	_	O	O	_	2	SUB
+2	have	_	V	V	_	0	ROOT
+3	friends	_	N	N	_	2	OBJ
+4	who	_	O	O	_	3	NMOD
+5	work	_	V	V	_	4	SBAR
+6	there	_	R	R	_	5	VMOD
+
+*****************************************************
+1	I	_	O	O	_	2	SUB
+2	started	_	V	V	_	0	ROOT
+3	hospice	_	N	N	_	4	NMOD
+4	care	_	N	N	_	2	OBJ
+5	yesterday	_	N	N	_	2	VMOD
+1	They'	_	^	^	_	2	NMOD
+2	re	_	^	^	_	3	SUB
+3	rehydrating	_	V	V	_	0	ROOT
+4	me	_	O	O	_	3	OBJ
+5	with	_	P	P	_	3	VMOD
+6	an	_	D	D	_	7	NMOD
+7	IV	_	^	^	_	5	PMOD
+8	at	_	P	P	_	3	VMOD
+9	home	_	N	N	_	8	PMOD
+
+*****************************************************
+1	Visiting	_	V	V	_	8	VMOD
+2	the	_	D	D	_	3	NMOD
+3	laplcentral	_	A	A	_	1	OBJ
+4	and	_	&	&	_	1	VMOD
+5	finding	_	V	V	_	1	VMOD
+6	my	_	D	D	_	7	NMOD
+7	app	_	N	N	_	5	OBJ
+8	is	_	V	V	_	0	ROOT
+9	still	_	R	R	_	8	VMOD
+10	working	_	V	V	_	8	VC
+1	kmmullin1	_	$	$	_	0	ROOT
+
+*****************************************************
+1	Pod	_	D	D	_	2	NMOD
+2	accommodation	_	N	N	_	0	ROOT
+3	in	_	P	P	_	2	NMOD
+4	the	_	D	D	_	5	NMOD
+5	middle	_	N	N	_	3	PMOD
+6	of	_	P	P	_	5	NMOD
+7	nowhere	_	R	R	_	8	NMOD
+8	aka	_	N	N	_	6	PMOD
+1	Watching	_	V	V	_	0	ROOT
+2	the	_	D	D	_	3	NMOD
+3	stars	_	N	N	_	1	OBJ
+4	with	_	P	P	_	1	VMOD
+
+*****************************************************
+1	What	_	O	O	_	7	NMOD
+2	I'	_	^	^	_	1	NMOD
+3	m	_	^	^	_	5	NMOD
+4	Into	_	^	^	_	5	NMOD
+5	January	_	^	^	_	7	NMOD
+6	2017	_	$	$	_	7	NMOD
+7	edition	_	N	N	_	0	ROOT
+1	What	_	O	O	_	2	VMOD
+2	are	_	V	V	_	0	ROOT
+3	you	_	O	O	_	2	SUB
+4	into	_	P	P	_	2	VMOD
+5	right	_	R	R	_	4	PMOD
+6	now	_	R	R	_	5	AMOD
+1	Thanks	_	N	N	_	2	NMOD
+2	AnneBogel	_	^	^	_	0	ROOT
+
+*****************************************************
+1	TV	_	N	N	_	6	NMOD
+2	Assignment	_	N	N	_	6	NMOD
+3	EditorsThis	_	^	^	_	6	NMOD
+4	online	_	A	A	_	6	NMOD
+5	Poynter	_	^	^	_	6	NMOD
+6	seminar	_	N	N	_	7	SUB
+7	is	_	V	V	_	0	ROOT
+8	focused	_	V	V	_	7	VC
+9	on	_	P	P	_	8	VMOD
+10	the	_	D	D	_	12	NMOD
+11	essential	_	A	A	_	12	NMOD
+12	work	_	N	N	_	9	PMOD
+13	you	_	O	O	_	14	SUB
+14	do	_	V	V	_	12	NMOD
+1	Enrollment	_	N	N	_	2	NMOD
+2	deadline	_	N	N	_	0	ROOT
+3	near	_	P	P	_	2	NMOD
+
+*****************************************************
+1	Miami	_	^	^	_	4	NMOD
+2	Hurricane	_	^	^	_	4	NMOD
+3	alum	_	N	N	_	4	NMOD
+4	cmatiash	_	N	N	_	5	SUB
+5	represents	_	V	V	_	0	ROOT
+6	The	_	^	^	_	7	NMOD
+7	U	_	^	^	_	5	OBJ
+8	in	_	P	P	_	5	VMOD
+9	Georgia	_	^	^	_	8	PMOD
+
+*****************************************************
+1	The	_	D	D	_	4	NMOD
+2	new	_	A	A	_	4	NMOD
+3	original	_	A	A	_	4	NMOD
+4	sin	_	N	N	_	0	ROOT
+5	of	_	P	P	_	4	NMOD
+6	online	_	N	N	_	7	NMOD
+7	publishing	_	N	N	_	5	PMOD
+
+*****************************************************
+1	Fox	_	^	^	_	2	SUB
+2	has	_	V	V	_	0	ROOT
+3	treated	_	V	V	_	2	VC
+4	me	_	O	O	_	3	OBJ
+5	very	_	R	R	_	6	AMOD
+6	nice	_	A	A	_	3	VMOD
+1	Wherever	_	R	R	_	0	ROOT
+2	Fox	_	^	^	_	3	SUB
+3	is	_	V	V	_	1	SBAR
+4	thank	_	V	V	_	3	VC
+5	you	_	O	O	_	4	OBJ
+
+*****************************************************
+1	In	_	P	P	_	4	VMOD
+2	Wisconsin	_	^	^	_	1	PMOD
+3	you	_	O	O	_	4	SUB
+4	can	_	V	V	_	0	ROOT
+5	be	_	V	V	_	4	VC
+6	found	_	V	V	_	5	VC
+7	not	_	R	R	_	8	AMOD
+8	guilty	_	A	A	_	6	VMOD
+9	by	_	P	P	_	6	VMOD
+10	a	_	D	D	_	11	NMOD
+11	jury	_	N	N	_	9	PMOD
+12	of	_	P	P	_	11	NMOD
+13	your	_	D	D	_	14	NMOD
+14	peers	_	N	N	_	12	PMOD
+1	And	_	&	&	_	3	VMOD
+2	still	_	R	R	_	3	VMOD
+3	be	_	V	V	_	0	ROOT
+4	sent	_	V	V	_	3	VC
+5	to	_	P	P	_	4	VMOD
+6	prison	_	N	N	_	5	PMOD
+
+*****************************************************
+1	No	_	D	D	_	3	NMOD
+2	more	_	A	A	_	3	NMOD
+3	journalists	_	N	N	_	4	SUB
+4	cozying	_	V	V	_	0	ROOT
+5	up	_	R	R	_	4	VMOD
+6	to	_	P	P	_	4	VMOD
+7	celebrities	_	N	N	_	11	NMOD
+8	and	_	&	&	_	11	NMOD
+9	heartily	_	A	A	_	11	NMOD
+10	applauding	_	N	N	_	11	NMOD
+11	politicians	_	N	N	_	6	PMOD
+12	including	_	V	V	_	11	NMOD
+13	the	_	D	D	_	14	NMOD
+14	president	_	N	N	_	12	PMOD
+
+*****************************************************
+1	New	_	^	^	_	5	NMOD
+2	FCC	_	^	^	_	5	NMOD
+3	chair	_	N	N	_	5	NMOD
+4	blocks	_	N	N	_	5	NMOD
+5	Internet	_	^	^	_	0	ROOT
+6	for	_	P	P	_	5	NMOD
+7	the	_	D	D	_	8	NMOD
+8	poor	_	A	A	_	6	PMOD
+
+*****************************************************
+1	President	_	^	^	_	2	NMOD
+2	Trump	_	^	^	_	3	SUB
+3	has	_	V	V	_	18	VMOD
+4	some	_	D	D	_	5	NMOD
+5	meetings	_	N	N	_	3	OBJ
+6	and	_	&	&	_	3	VMOD
+7	may	_	V	V	_	3	VMOD
+8	play	_	V	V	_	7	VC
+9	a	_	D	D	_	11	NMOD
+10	few	_	A	A	_	11	NMOD
+11	holes	_	N	N	_	8	OBJ
+12	of	_	P	P	_	11	NMOD
+13	golf	_	N	N	_	17	NMOD
+14	today	_	N	N	_	17	NMOD
+15	White	_	^	^	_	17	NMOD
+16	House	_	^	^	_	17	NMOD
+17	aide	_	N	N	_	12	PMOD
+18	says	_	V	V	_	0	ROOT
+
+*****************************************************
+1	Trump's	_	Z	^	_	0	SUB
+3	rise	_	N	N	_	4	SUB
+4	was	_	V	V	_	1	VMOD
+5	fueled	_	V	V	_	4	VC
+6	by	_	P	P	_	5	VMOD
+7	a	_	D	D	_	9	NMOD
+8	deep	_	A	A	_	9	NMOD
+9	narrative	_	N	N	_	6	PMOD
+10	of	_	P	P	_	9	NMOD
+11	fake	_	A	A	_	12	NMOD
+12	history	_	N	N	_	10	PMOD
+13	much	_	R	R	_	14	AMOD
+14	bigger	_	A	A	_	12	NMOD
+15	than	_	P	P	_	14	AMOD
+16	recent	_	A	A	_	18	NMOD
+17	fake	_	A	A	_	18	NMOD
+18	news	_	N	N	_	15	PMOD
+
+*****************************************************
+1	KenBromfield1	_	$	$	_	2	SUB
+2	Missing	_	V	V	_	0	ROOT
+3	the	_	D	D	_	4	NMOD
+4	point	_	N	N	_	2	OBJ
+1	UK	_	A	A	_	2	NMOD
+2	govt	_	N	N	_	3	SUB
+3	has	_	V	V	_	12	VMOD
+4	complete	_	A	A	_	5	NMOD
+5	control	_	N	N	_	3	OBJ
+6	over	_	P	P	_	5	NMOD
+7	nonEU	_	^	^	_	8	NMOD
+8	migration	_	N	N	_	6	PMOD
+9	yet	_	&	&	_	12	VMOD
+10	it	_	O	O	_	12	SUB
+11	always	_	R	R	_	12	VMOD
+12	rises	_	V	V	_	0	ROOT
+1	How	_	R	R	_	2	VMOD
+2	does	_	V	V	_	0	ROOT
+3	change	_	V	V	_	2	VC
+4	anything	_	N	N	_	3	OBJ
+
+*****************************************************
+1	Why	_	R	R	_	5	VMOD
+2	arent	_	A	A	_	4	NMOD
+3	more	_	A	A	_	4	NMOD
+4	conservs	_	N	N	_	5	SUB
+5	outraged	_	V	V	_	0	ROOT
+6	that	_	P	P	_	5	VMOD
+7	Trump	_	^	^	_	8	SUB
+8	justified	_	A	A	_	12	NMOD
+9	his	_	D	D	_	10	NMOD
+10	love	_	N	N	_	12	NMOD
+11	4	_	$	$	_	12	NMOD
+12	Putin	_	^	^	_	18	SUB
+13	the	_	D	D	_	14	NMOD
+14	killer	_	N	N	_	18	SUB
+15	by	_	P	P	_	14	NMOD
+16	saying	_	V	V	_	15	PMOD
+17	America	_	^	^	_	16	OBJ
+18	is	_	V	V	_	6	SBAR
+19	a	_	D	D	_	20	NMOD
+20	killer	_	N	N	_	18	PRD
+21	too	_	R	R	_	18	VMOD
+
+*****************************************************
+1	I	_	O	O	_	2	SUB
+2	would	_	V	V	_	0	ROOT
+3	still	_	R	R	_	2	VMOD
+4	be	_	V	V	_	2	VC
+5	screaming	_	V	V	_	4	VC
+
+*****************************************************
+1	This	_	D	D	_	2	SUB
+2	is	_	V	V	_	0	ROOT
+3	my	_	D	D	_	4	NMOD
+4	vision	_	N	N	_	2	PRD
+5	of	_	P	P	_	4	NMOD
+6	America	_	^	^	_	5	PMOD
+1	No	_	D	D	_	0	ROOT
+2	matter	_	N	N	_	1	NMOD
+3	what	_	O	O	_	2	NMOD
+4	POTUS	_	^	^	_	5	SUB
+5	says	_	V	V	_	3	SBAR
+6	or	_	&	&	_	5	VMOD
+7	does	_	V	V	_	5	VMOD
+8	this	_	D	D	_	9	SUB
+9	will	_	V	V	_	5	VMOD
+10	always	_	R	R	_	9	VMOD
+11	be	_	V	V	_	9	VC
+12	how	_	R	R	_	11	PRD
+13	I	_	O	O	_	14	SUB
+14	see	_	V	V	_	12	SBAR
+15	our	_	D	D	_	16	NMOD
+16	country	_	N	N	_	14	OBJ
+
+*****************************************************
+1	ADVISOR	_	^	^	_	2	NMOD
+2	u	_	^	^	_	3	SUB
+3	going	_	V	V	_	0	ROOT
+4	to	_	P	P	_	5	VMOD
+5	Trump's	_	L	V	_	3	VMOD
+7	Inauguration	_	^	^	_	5	OBJ
+1	BUSH	_	^	^	_	2	NMOD
+2	Doctor	_	N	N	_	3	SUB
+3	said	_	V	V	_	0	ROOT
+4	I	_	O	O	_	5	SUB
+5	ca	_	V	V	_	3	VMOD
+6	n't	_	L	R	_	5	VMOD
+8	ADVISOR	_	^	^	_	9	NMOD
+9	u	_	^	^	_	10	SUB
+10	wan	_	V	V	_	6	VMOD
+11	na	_	P	P	_	12	VMOD
+12	hit	_	V	V	_	10	VMOD
+13	that	_	P	P	_	15	NMOD
+14	super	_	A	A	_	15	NMOD
+15	Bowl	_	^	^	_	12	OBJ
+1	BUSH	_	^	^	_	3	NMOD
+2	Hell	_	N	N	_	3	NMOD
+3	DO	_	^	^	_	0	ROOT
+
+*****************************************************
+1	Brady	_	^	^	_	2	SUB
+2	got	_	V	V	_	0	ROOT
+3	ta	_	O	O	_	4	SUB
+4	get	_	V	V	_	2	VMOD
+5	hurt	_	N	N	_	4	OBJ
+6	because	_	P	P	_	2	VMOD
+7	Trump	_	^	^	_	8	SUB
+8	won	_	V	V	_	6	SBAR
+1	Thats	_	N	N	_	2	NMOD
+2	all	_	D	D	_	4	VMOD
+3	it	_	O	O	_	4	SUB
+4	is	_	V	V	_	0	ROOT
+
+*****************************************************
+1	When	_	R	R	_	6	VMOD
+2	Trump	_	^	^	_	3	SUB
+3	see's	_	L	V	_	1	SBAR
+5	that	_	P	P	_	3	VMOD
+6	multicultural	_	A	A	_	0	ROOT
+7	Coca	_	^	^	_	9	NMOD
+8	Cola	_	N	N	_	9	NMOD
+9	America	_	^	^	_	6	NMOD
+10	The	_	D	D	_	12	NMOD
+11	Beautiful	_	A	A	_	12	NMOD
+12	commercial	_	N	N	_	6	OBJ
+
+*****************************************************
+1	GOP	_	^	^	_	2	NMOD
+2	senators	_	N	N	_	3	SUB
+3	blanch	_	V	V	_	0	ROOT
+4	at	_	P	P	_	3	VMOD
+5	Trump's	_	Z	^	_	8	NMOD
+7	latest	_	A	A	_	8	NMOD
+8	defense	_	N	N	_	4	PMOD
+9	of	_	P	P	_	8	NMOD
+10	Putin	_	^	^	_	11	NMOD
+11	gop	_	^	^	_	9	PMOD
+12	you	_	O	O	_	13	SUB
+13	own	_	V	V	_	11	NMOD
+14	this	_	D	D	_	15	NMOD
+15	mess	_	N	N	_	13	OBJ
+
+*****************************************************
+1	Say	_	^	^	_	2	NMOD
+2	No	_	^	^	_	0	ROOT
+3	to	_	P	P	_	4	VMOD
+4	Trump's	_	L	V	_	2	NMOD
+6	Refugee	_	N	N	_	7	NMOD
+7	Ban	_	N	N	_	8	SUB
+8	sign	_	V	V	_	4	VMOD
+9	our	_	D	D	_	11	NMOD
+10	new	_	A	A	_	11	NMOD
+11	Petition	_	N	N	_	8	OBJ
+
+*****************************************************
+1	Luvvie	_	N	N	_	0	ROOT
+1	I	_	O	O	_	2	SUB
+2	can't	_	L	V	_	0	ROOT
+4	laugh	_	N	N	_	2	OBJ
+5	this	_	D	D	_	6	NMOD
+6	hard	_	R	R	_	2	VMOD
+7	too	_	R	R	_	8	AMOD
+8	many	_	A	A	_	10	NMOD
+9	more	_	A	A	_	10	NMOD
+10	times	_	N	N	_	11	NMOD
+11	today	_	N	N	_	2	VMOD
+1	My	_	D	D	_	2	NMOD
+2	kids	_	N	N	_	3	SUB
+3	are	_	V	V	_	0	ROOT
+4	getting	_	V	V	_	3	VC
+5	worried	_	A	A	_	4	PRD
+6	about	_	P	P	_	5	AMOD
+7	me	_	O	O	_	6	PMOD
+
+*****************************************************
+1	Macron	_	^	^	_	2	SUB
+2	has	_	V	V	_	0	ROOT
+3	78	_	$	$	_	4	NMOD
+4	days	_	N	N	_	2	OBJ
+5	to	_	P	P	_	6	VMOD
+6	hold	_	V	V	_	4	NMOD
+7	out	_	R	R	_	6	VMOD
+8	against	_	P	P	_	6	VMOD
+9	TrumpPutin	_	^	^	_	13	NMOD
+10	trolls	_	N	N	_	13	NMOD
+11	Assange	_	^	^	_	13	NMOD
+12	and	_	&	&	_	13	NMOD
+13	Wikileaks	_	^	^	_	8	PMOD
+14	and	_	&	&	_	2	VMOD
+15	combined	_	V	V	_	2	VMOD
+16	forces	_	N	N	_	15	OBJ
+17	of	_	P	P	_	16	NMOD
+18	the	_	D	D	_	19	NMOD
+19	Fascis	_	^	^	_	17	PMOD
+
+*****************************************************
+1	Will	_	V	V	_	0	ROOT
+2	the	_	D	D	_	4	NMOD
+3	Supreme	_	^	^	_	4	NMOD
+4	Court	_	^	^	_	1	SUB
+5	stand	_	V	V	_	1	VMOD
+6	up	_	R	R	_	5	VMOD
+7	to	_	P	P	_	5	VMOD
+8	President	_	^	^	_	9	NMOD
+9	Trump	_	^	^	_	7	PMOD
+
+*****************************************************
+1	Refugee	_	N	N	_	3	NMOD
+2	criminal	_	A	A	_	3	NMOD
+3	stories	_	N	N	_	12	SUB
+4	and	_	&	&	_	12	VMOD
+5	how	_	R	R	_	12	VMOD
+6	refugee	_	N	N	_	7	NMOD
+7	contractors	_	N	N	_	8	SUB
+8	are	_	V	V	_	5	SBAR
+9	plotting	_	V	V	_	8	VC
+10	against	_	P	P	_	9	VMOD
+11	POTUS	_	^	^	_	10	PMOD
+12	make	_	V	V	_	0	ROOT
+13	up	_	R	R	_	12	VMOD
+14	top	_	A	A	_	15	NMOD
+15	posts	_	N	N	_	12	OBJ
+16	last	_	A	A	_	17	NMOD
+17	week	_	N	N	_	12	VMOD
+18	at	_	P	P	_	12	VMOD
+19	RRW	_	^	^	_	18	PMOD
+
+*****************************************************
+1	Coke	_	^	^	_	3	SUB
+2	Just	_	R	R	_	3	VMOD
+3	Stuck	_	V	V	_	0	ROOT
+4	It	_	O	O	_	3	OBJ
+5	To	_	P	P	_	6	VMOD
+6	Trump's	_	L	V	_	3	VMOD
+8	Bigotry	_	N	N	_	6	OBJ
+9	With	_	P	P	_	6	VMOD
+10	The	_	D	D	_	15	NMOD
+11	Most	_	R	R	_	12	AMOD
+12	BRILLIANT	_	A	A	_	15	NMOD
+13	Super	_	^	^	_	15	NMOD
+14	Bowl	_	^	^	_	15	NMOD
+15	Ad	_	^	^	_	9	PMOD
+16	EVER	_	R	R	_	6	VMOD
+17	VIDEO	_	N	N	_	16	AMOD
+
+*****************************************************
+1	Say	_	^	^	_	2	NMOD
+2	No	_	^	^	_	0	ROOT
+3	to	_	P	P	_	4	VMOD
+4	Trump's	_	L	V	_	2	NMOD
+6	Refugee	_	N	N	_	7	NMOD
+7	Ban	_	N	N	_	8	SUB
+8	sign	_	V	V	_	4	VMOD
+9	our	_	D	D	_	11	NMOD
+10	new	_	A	A	_	11	NMOD
+11	Petition	_	N	N	_	8	OBJ
+
+*****************************************************
+1	What	_	O	O	_	3	VMOD
+2	language	_	N	N	_	1	NMOD
+3	is	_	V	V	_	0	ROOT
+4	the	_	D	D	_	5	NMOD
+5	constitution	_	N	N	_	3	PRD
+6	of	_	P	P	_	5	NMOD
+7	the	_	D	D	_	9	NMOD
+8	United	_	^	^	_	9	NMOD
+9	States	_	^	^	_	6	PMOD
+10	in	_	P	P	_	5	NMOD
+1	Can	_	V	V	_	0	ROOT
+2	anyone	_	N	N	_	1	SUB
+3	tell	_	V	V	_	1	VMOD
+4	me	_	O	O	_	3	OBJ
+
+*****************************************************
+1	Donald	_	^	^	_	2	SUB
+2	you're	_	L	V	_	0	ROOT
+4	a	_	D	D	_	5	NMOD
+5	president	_	N	N	_	2	OBJ
+1	Behave	_	V	V	_	0	ROOT
+2	like	_	P	P	_	1	VMOD
+3	one	_	$	$	_	2	PMOD
+1	These	_	D	D	_	2	NMOD
+2	rants	_	N	N	_	3	SUB
+3	are	_	V	V	_	0	ROOT
+4	child	_	N	N	_	5	NMOD
+5	play	_	N	N	_	3	PRD
+1	Quit	_	V	V	_	0	ROOT
+2	twitter	_	N	N	_	3	NMOD
+3	start	_	N	N	_	1	OBJ
+4	being	_	V	V	_	3	NMOD
+5	presidential	_	A	A	_	4	PRD
+
+*****************************************************
+1	KRISTEN	_	^	^	_	4	NMOD
+2	MOCKED	_	^	^	_	4	NMOD
+3	DONALD	_	^	^	_	4	NMOD
+4	TRUMP	_	^	^	_	14	VMOD
+5	AND	_	&	&	_	4	VMOD
+6	CAME	_	V	V	_	4	VMOD
+7	OUT	_	R	R	_	6	VMOD
+8	AS	_	P	P	_	6	VMOD
+9	GAY	_	A	A	_	8	PMOD
+10	IN	_	P	P	_	6	VMOD
+11	SNL	_	^	^	_	12	NMOD
+12	MONOLOGUE	_	^	^	_	10	PMOD
+13	WHEN	_	R	R	_	6	VMOD
+14	WILL	_	V	V	_	0	ROOT
+15	YOUR	_	D	D	_	16	NMOD
+16	FAVE	_	N	N	_	14	SUB
+
+*****************************************************
+1	Albright	_	^	^	_	3	NMOD
+2	Steve	_	^	^	_	3	NMOD
+3	Bannon	_	^	^	_	4	SUB
+4	is	_	V	V	_	0	ROOT
+5	controlling	_	V	V	_	4	VC
+6	Trump	_	^	^	_	5	OBJ
+
+*****************************************************
+1	Here's	_	Z	^	_	0	SUB
+3	the	_	D	D	_	5	NMOD
+4	Coke	_	^	^	_	5	NMOD
+5	ad	_	N	N	_	1	OBJ
+6	that	_	D	D	_	5	NMOD
+7	ran	_	V	V	_	6	SBAR
+8	tonight	_	N	N	_	9	NMOD
+9	it's	_	L	N	_	7	SUB
+11	basically	_	R	R	_	9	VMOD
+12	one	_	$	$	_	14	NMOD
+13	big	_	A	A	_	14	NMOD
+14	subtweet	_	N	N	_	9	OBJ
+15	of	_	P	P	_	14	NMOD
+16	Trump	_	^	^	_	15	PMOD
+
+*****************************************************
+1	This	_	D	D	_	2	SUB
+2	is	_	V	V	_	0	ROOT
+3	honestly	_	R	R	_	2	VMOD
+4	so	_	R	R	_	5	AMOD
+5	stupid	_	A	A	_	2	PRD
+1	Should've	_	L	N	_	4	NMOD
+3	just	_	R	R	_	4	VMOD
+4	walked	_	V	V	_	0	ROOT
+5	out	_	R	R	_	4	VMOD
+6	when	_	R	R	_	4	VMOD
+7	you	_	O	O	_	8	SUB
+8	found	_	V	V	_	6	SBAR
+9	out	_	R	R	_	8	VMOD
+1	they	_	O	O	_	2	SUB
+2	shouldn't	_	V	V	_	0	ROOT
+4	have	_	V	V	_	2	VMOD
+5	given	_	V	V	_	4	VC
+6	your	_	D	D	_	9	NMOD
+7	rude	_	A	A	_	9	NMOD
+8	ass	_	N	N	_	9	NMOD
+9	permission	_	N	N	_	5	OBJ
+
+*****************************************************
+1	John	_	^	^	_	2	NMOD
+2	McCain's	_	Z	^	_	0	SUB
+4	son	_	N	N	_	5	NMOD
+5	deletes	_	N	N	_	6	SUB
+6	tweet	_	V	V	_	2	VMOD
+7	slamming	_	V	V	_	6	VMOD
+8	Trump's	_	Z	^	_	11	NMOD
+10	Putin	_	^	^	_	11	NMOD
+11	defense	_	N	N	_	7	OBJ
+
+*****************************************************
+1	Where	_	R	R	_	2	VMOD
+2	are	_	V	V	_	0	ROOT
+3	memes	_	V	V	_	2	PRD
+4	faux	_	A	A	_	5	NMOD
+5	outrage	_	N	N	_	3	OBJ
+1	Errors	_	N	N	_	5	SUB
+2	From	_	P	P	_	1	NMOD
+3	The	_	^	^	_	4	NMOD
+4	Press	_	^	^	_	2	PMOD
+5	Are	_	V	V	_	0	ROOT
+6	Piling	_	V	V	_	5	VC
+7	Up	_	R	R	_	6	VMOD
+8	In	_	P	P	_	6	VMOD
+9	The	_	D	D	_	11	NMOD
+10	Opening	_	V	V	_	11	NMOD
+11	Weeks	_	N	N	_	8	PMOD
+12	Of	_	P	P	_	11	NMOD
+13	The	_	D	D	_	15	NMOD
+14	Trump	_	^	^	_	15	NMOD
+15	Administration	_	^	^	_	12	PMOD
+
+*****************************************************
+1	dullest	_	A	A	_	4	NMOD
+2	super	_	A	A	_	4	NMOD
+3	bowl	_	N	N	_	4	NMOD
+4	party	_	N	N	_	5	NMOD
+5	I've	_	L	^	_	8	NMOD
+7	ever	_	R	R	_	8	VMOD
+8	seen	_	V	V	_	0	ROOT
+9	tbh	_	N	N	_	8	OBJ
+
+*****************************************************
+1	I	_	O	O	_	2	SUB
+2	can't	_	V	V	_	0	ROOT
+4	wait	_	V	V	_	2	VMOD
+5	to	_	P	P	_	6	VMOD
+6	see	_	V	V	_	4	VMOD
+7	what	_	O	O	_	6	VMOD
+8	President	_	^	^	_	9	NMOD
+9	Trump	_	^	^	_	10	SUB
+10	tweets	_	V	V	_	7	SBAR
+11	about	_	P	P	_	10	VMOD
+12	Kristen	_	^	^	_	13	NMOD
+13	Stewart	_	^	^	_	11	PMOD
+14	destroying	_	V	V	_	19	VMOD
+15	him	_	O	O	_	14	OBJ
+16	on	_	P	P	_	14	VMOD
+17	national	_	A	A	_	18	NMOD
+18	TV	_	N	N	_	16	PMOD
+19	is	_	V	V	_	7	SBAR
+20	a	_	D	D	_	21	NMOD
+21	sentence	_	N	N	_	19	PRD
+22	I	_	O	O	_	24	SUB
+23	never	_	R	R	_	24	VMOD
+24	thought	_	V	V	_	21	NMOD
+25	I'd	_	Z	^	_	24	OBJ
+27	say	_	V	V	_	24	VMOD
+
+*****************************************************
+1	Bastard	_	^	^	_	2	SUB
+2	helped	_	V	V	_	0	ROOT
+3	to	_	P	P	_	4	VMOD
+4	put	_	V	V	_	2	VMOD
+5	Trump	_	^	^	_	4	OBJ
+6	in	_	P	P	_	4	VMOD
+
+*****************************************************
+1	Trump	_	^	^	_	0	ROOT
+2	on	_	P	P	_	1	NMOD
+3	immigration	_	N	N	_	7	NMOD
+4	appeal	_	N	N	_	7	NMOD
+5	We'll	_	L	^	_	7	NMOD
+7	win	_	N	N	_	2	PMOD
+1	For	_	P	P	_	0	ROOT
+2	the	_	D	D	_	3	NMOD
+3	safety	_	N	N	_	1	PMOD
+4	of	_	P	P	_	3	NMOD
+5	the	_	D	D	_	9	NMOD
+6	country	_	N	N	_	9	NMOD
+7	we'll	_	L	A	_	9	NMOD
+9	win	_	N	N	_	4	PMOD
+
+*****************************************************
+1	Massachusetts	_	^	^	_	5	NMOD
+2	attorney	_	N	N	_	5	NMOD
+3	general	_	A	A	_	5	NMOD
+4	President	_	^	^	_	5	NMOD
+5	Trump	_	^	^	_	6	SUB
+6	is	_	V	V	_	0	ROOT
+7	not	_	R	R	_	6	VMOD
+8	above	_	P	P	_	6	PRD
+9	the	_	D	D	_	10	NMOD
+10	law	_	N	N	_	8	PMOD
+
+*****************************************************
+1	ECOWAS	_	N	N	_	2	SUB
+2	Should	_	V	V	_	0	ROOT
+3	Investigate	_	V	V	_	2	VC
+4	IPOB	_	^	^	_	6	NMOD
+5	ProTrump	_	^	^	_	6	NMOD
+6	Killings	_	N	N	_	3	OBJ
+7	By	_	P	P	_	3	VMOD
+8	Nigeria	_	^	^	_	10	NMOD
+9	Security	_	^	^	_	10	NMOD
+10	Agents	_	^	^	_	7	PMOD
+
+*****************************************************
+1	Every	_	D	D	_	2	NMOD
+2	time	_	N	N	_	15	VMOD
+3	Tom	_	^	^	_	4	NMOD
+4	Brady	_	^	^	_	5	SUB
+5	gets	_	V	V	_	2	NMOD
+6	knocked	_	V	V	_	5	VC
+7	on	_	P	P	_	6	VMOD
+8	his	_	D	D	_	9	NMOD
+9	ass	_	N	N	_	7	PMOD
+10	by	_	P	P	_	6	VMOD
+11	an	_	D	D	_	13	NMOD
+12	Atlanta	_	^	^	_	13	NMOD
+13	Falcon	_	^	^	_	10	PMOD
+14	it	_	O	O	_	15	SUB
+15	feels	_	V	V	_	0	ROOT
+16	like	_	P	P	_	15	VMOD
+17	a	_	D	D	_	19	NMOD
+18	glorious	_	A	A	_	19	NMOD
+19	form	_	N	N	_	16	PMOD
+20	of	_	P	P	_	19	NMOD
+21	protest	_	N	N	_	20	PMOD
+22	against	_	P	P	_	19	NMOD
+23	Donald	_	^	^	_	24	NMOD
+24	Trump	_	^	^	_	22	PMOD
+
+*****************************************************
+1	How	_	R	R	_	0	ROOT
+2	Washington	_	^	^	_	3	NMOD
+3	state	_	N	N	_	4	SUB
+4	became	_	V	V	_	1	SBAR
+5	the	_	D	D	_	6	NMOD
+6	epicenter	_	N	N	_	11	SUB
+7	of	_	P	P	_	6	NMOD
+8	resistance	_	N	N	_	7	PMOD
+9	to	_	P	P	_	6	NMOD
+10	President	_	^	^	_	11	NMOD
+11	Trump's	_	Z	^	_	1	PMOD
+13	agenda	_	N	N	_	11	OBJ
+
+*****************************************************
