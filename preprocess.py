@@ -109,7 +109,7 @@ for trees in tree_holders:
             b[3]= lookup(b[3])
             b[4]=b[3]
             b_holder.append(b) 
-            if(("'" in b[1])& (b[3]!="NNP")):
+            if(("'" in b[1])& (b[3]!="^")):
                     new_form=b_holder[i-1][1]+b[1]
                     new_upostag=b_holder[i-1][3]+'+'+b[3]
                     b_holder[i-1][1]=new_form
